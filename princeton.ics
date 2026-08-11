@@ -1,0 +1,884 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Princeton - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:princeton-internationalorientation-d4200fbc96@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260821
+SUMMARY:[MAJOR] Princeton - International Orientation (undergraduate)
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nThree-day orientation for new international und
+ ergraduates\, ahead of the main orientation period.\n\nSOURCE: https://new
+ student.princeton.edu/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-undergraduateacademicyea-5cdd19c7db@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T110000Z
+DTEND:20260821T120000Z
+SUMMARY:[minor] Princeton - Undergraduate Academic Year Sign-In Begins
+LOCATION:Online - TigerHub
+DESCRIPTION:SCALE: minor\n\nOpens the required sign-in window for all under
+ graduates\; closes Sep 1 at 11:59pm.\n\nSOURCE: https://registrar.princeto
+ n.edu/academic-calendar-and-deadlines\n\n(Compiled 2026-08-10. Verify befo
+ re acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-firstyearmoveincheckincl-08c33c7866@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T120000Z
+DTEND:20260821T170000Z
+SUMMARY:[MAJOR] Princeton - First-Year Move In / Check-In (Class of 2030)
+LOCATION:Lewis Arts Complex Forum\, 122 Alexander St (park in Theater Drive
+  Garage)
+DESCRIPTION:SCALE: MAJOR\n\nStudents collect TigerCard and parking pass\, t
+ hen proceed to residential colleges. Photographers\, giveaways\, balloon a
+ rch. Families welcome.\n\nSOURCE: https://hres.princeton.edu/undergraduate
+ -housing/move-in\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-firstyearstudentbrunchfa-74b7534088@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:[minor] Princeton - First-Year Student Brunch (Families Welcome)
+LOCATION:Residential college dining halls
+DESCRIPTION:SCALE: minor\n\nAll first-years and families invited\; first-ye
+ ar meal plans begin today. Family programming ends at 5:00pm. TIME NOT PUB
+ LISHED.\n\nSOURCE: https://newstudent.princeton.edu/families\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-lcainfosessionlewiscente-22ba705be8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260824T141500Z
+DTEND:20260824T150000Z
+SUMMARY:[minor] Princeton - LCA Info Session (Lewis Center for the Arts)
+LOCATION:Wallace Theater\, Lewis Arts Complex
+DESCRIPTION:SCALE: minor\n\nFaculty and students detail the arts program an
+ d course offerings ahead of the Academic Expo.\n\nSOURCE: https://arts.pri
+ nceton.edu/events/academic-expo-for-the-class-of-2030/\n\n(Compiled 2026-0
+ 8-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-academicexpofortheclasso-abcdd2a908@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260824T170000Z
+DTEND:20260824T200000Z
+SUMMARY:[MAJOR] Princeton - Academic Expo for the Class of 2030
+LOCATION:Forum\, Lewis Arts Complex
+DESCRIPTION:SCALE: MAJOR\n\nAll academic departments table so first-years c
+ an meet faculty and students before course selection. Free\, open to all P
+ rinceton students.\n\nOUTREACH NOTE: Department-only tabling. Outside comp
+ anies cannot table (see Rights\, Rules\, Responsibilities 3.2).\n\nSOURCE:
+  https://arts.princeton.edu/events/academic-expo-for-the-class-of-2030/\n\
+ n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-newundergraduatestudents-85fca9c177@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260825T123000Z
+DTEND:20260825T133000Z
+SUMMARY:[minor] Princeton - New Undergraduate Students: Fall 2026 Course Se
+ lection Begins
+LOCATION:Online
+DESCRIPTION:SCALE: minor\n\nCourse selection opens for new undergraduates.\
+ n\nSOURCE: https://registrar.princeton.edu/academic-calendar-and-deadlines
+ \n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-smallgroupexperiencescom-13056a3a0d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260830
+SUMMARY:[MAJOR] Princeton - Small-Group Experiences (Community Action / DDA
+  / Outdoor Action / Athlete Orientation)
+LOCATION:Various - on campus\, Trenton/Mercer County\, and backcountry site
+ s
+DESCRIPTION:SCALE: MAJOR\n\nEvery incoming student is assigned (not self-se
+ lected) to one of four pre-orientation programs: Community Action (service
+ \, partnering with Trenton/Mercer nonprofits)\, Dialogue and Difference in
+  Action\, Outdoor Action (backcountry/basecamp/cabin/campus trips)\, or Fa
+ ll Sport Student-Athlete Orientation. Itineraries not published.\n\nSOURCE
+ : https://newstudent.princeton.edu/small-group-experiences\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-graduateschoolopeningadd-1e7c47d15d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260828
+SUMMARY:[minor] Princeton - Graduate School Opening Address / Orientation
+LOCATION:Princeton University
+DESCRIPTION:SCALE: minor\n\nGraduate school opening address and orientation
+ . Times not published.\n\nSOURCE: https://registrar.princeton.edu/academic
+ -calendar-and-deadlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-internationalgraduatestu-7938072ef4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:[minor] Princeton - International Graduate Student Orientation
+LOCATION:Princeton University
+DESCRIPTION:SCALE: minor\n\nOrientation for new international graduate stud
+ ents. Time not published.\n\nSOURCE: https://registrar.princeton.edu/acade
+ mic-calendar-and-deadlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-returningstudentmovein-a140299e06@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:[minor] Princeton - Returning Student Move-In
+LOCATION:Residential colleges and upperclass housing
+DESCRIPTION:SCALE: minor\n\nMove-in for returning undergraduates.\n\nSOURCE
+ : https://hres.princeton.edu/undergraduate-housing/move-in\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-openingexercises-49f5b3cc1f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T190000Z
+DTEND:20260830T200000Z
+SUMMARY:[MAJOR] Princeton - Opening Exercises
+LOCATION:University Chapel (procession lines up on Cannon Green\, through F
+ itzRandolph Gate onto Front Campus)
+DESCRIPTION:SCALE: MAJOR\n\nInterfaith service with President Eisgruber's a
+ ddress - the single largest full-class gathering of orientation. Recent ye
+ ars have held the ceremony outdoors on Front Campus weather permitting\, w
+ ith the Chapel as the listed/backup venue.\n\nSOURCE: https://www.princeto
+ n.edu/events/2026/opening-exercises\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-prerade-f3ea3156de@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T200000Z
+DTEND:20260830T210000Z
+SUMMARY:[MAJOR] Princeton - Pre-rade
+LOCATION:Front Campus to Cannon Green
+DESCRIPTION:SCALE: MAJOR\n\nFirst-years process while greeted by returning 
+ Princetonians. Immediately follows Opening Exercises\; exact start time no
+ t separately published.\n\nSOURCE: https://www.princeton.edu/events/2026/o
+ pening-exercises\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-clashofthecolleges-07b84d1b91@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260901T000000Z
+DTEND:20260901T010000Z
+SUMMARY:[MAJOR] Princeton - Clash of the Colleges
+LOCATION:Powers Field (Princeton Stadium)
+DESCRIPTION:SCALE: MAJOR\n\nAnnual orientation competition among the seven 
+ residential colleges. Whole first-year class attends.\n\nSOURCE: https://c
+ ampusrec.princeton.edu/events/clash-colleges-4\n\n(Compiled 2026-08-10. Ve
+ rify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-undergraduateacademicyea-2c83b1770b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Princeton - Undergraduate Academic Year Sign-In Ends (11:59
+ pm)
+LOCATION:Online - TigerHub
+DESCRIPTION:SCALE: minor\n\nDeadline for undergraduate academic year sign-i
+ n.\n\nSOURCE: https://registrar.princeton.edu/academic-calendar-and-deadli
+ nes\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-falltermclassesbegin-a02dbf8626@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T123000Z
+DTEND:20260902T133000Z
+SUMMARY:[MAJOR] Princeton - Fall Term Classes Begin
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 classes begin at 8:30am per the Regis
+ trar (the main University calendar lists 8:00am). Undergraduate add/drop o
+ pens 6:30am. NOTE: ODUS says 'Tuesday\, September 2' but Sep 2\, 2026 is a
+  Wednesday - the Registrar is authoritative.\n\nSOURCE: https://registrar.
+ princeton.edu/academic-calendar-and-deadlines\n\n(Compiled 2026-08-10. Ver
+ ify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-recruiting101-daa9e0328f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T160000Z
+DTEND:20260902T170000Z
+SUMMARY:[minor] Princeton - Recruiting 101
+LOCATION:Virtual
+DESCRIPTION:SCALE: minor\n\nOverview of the Campus Recruiting Program and i
+ ndustry hiring timelines.\n\nSOURCE: https://careerdevelopment.princeton.e
+ du/events/recruiting-101-2\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-centerforcareerdevelopme-38eda1ebc9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T203000Z
+DTEND:20260902T213000Z
+SUMMARY:[minor] Princeton - Center for Career Development Open House
+LOCATION:36 University Place (Sonia Sotomayor Hall)
+DESCRIPTION:SCALE: minor\n\nUndergraduates meet career advisers and Peer Ca
+ reer Advisers.\n\nSOURCE: https://careerdevelopment.princeton.edu/events/c
+ enter-career-development-open-house-3\n\n(Compiled 2026-08-10. Verify befo
+ re acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-2026campusrecexpo-58eb2e3425@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T233000Z
+DTEND:20260904T010000Z
+SUMMARY:[MAJOR] Princeton - 2026 Campus Rec Expo
+LOCATION:Class of 1986 Fitness & Wellness Center: Outdoor Courts
+DESCRIPTION:SCALE: MAJOR\n\nTabling expo: sport clubs\, intramurals\, fitne
+ ss\, smoothie bike\, contests\, T-shirt giveaways every 30 minutes. Explic
+ itly includes Jungle and Career Development tables. Audience includes firs
+ t-year students.\n\nOUTREACH NOTE: One of the few Princeton events with an
+  explicit tabling format that includes non-club tables. Would still requir
+ e department or student-org sponsorship per RRR 3.2.\n\nSOURCE: https://ca
+ mpusrec.princeton.edu/events/2026-campus-rec-expo\n\n(Compiled 2026-08-10.
+  Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-networking101-0717ad28b3@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260908T210000Z
+DTEND:20260908T220000Z
+SUMMARY:[minor] Princeton - Networking 101
+LOCATION:Location not published
+DESCRIPTION:SCALE: minor\n\nUndergraduate networking skills session.\n\nSOU
+ RCE: https://careerdevelopment.princeton.edu/events/networking-101\n\n(Com
+ piled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-careerfairprep-7e05659c72@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T203000Z
+DTEND:20260909T213000Z
+SUMMARY:[minor] Princeton - Career Fair Prep
+LOCATION:Location not published
+DESCRIPTION:SCALE: minor\n\nStudent prep session ahead of the HireTigers fa
+ ir.\n\nSOURCE: https://careerdevelopment.princeton.edu/events/career-fair-
+ prep-0\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-fall2026hiretigerscareer-3115ada013@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260911T150000Z
+DTEND:20260911T183000Z
+SUMMARY:[MAJOR] Princeton - Fall 2026 HireTigers Career Fair
+LOCATION:Dillon Gym\, Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nDescribed by Princeton as 'the largest career e
+ vent of the year' - employers and alumni recruiting undergraduates and gra
+ duate students for full-time and internship roles.\n\nOUTREACH NOTE: THE O
+ NLY REALISTIC VENDOR PATH AT PRINCETON. Register as an employer via Handsh
+ ake through the Center for Career Development: hiretigers@princeton.edu. P
+ rinceton RRR 3.2 bars off-campus organizations from soliciting or distribu
+ ting literature on campus without express ODUS/Graduate School authorizati
+ on.\n\nSOURCE: https://careerdevelopment.princeton.edu/events/fall-2026-hi
+ retigers-career-fair\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-internshipsearchjumpstar-e32127073f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260915T203000Z
+DTEND:20260916T213000Z
+SUMMARY:[minor] Princeton - Internship Search Jumpstart
+LOCATION:Frist Campus Center\, Room 302
+DESCRIPTION:SCALE: minor\n\nMulti-session internship search program.\n\nSOU
+ RCE: https://careerdevelopment.princeton.edu/events/internship-search-jump
+ start\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-undergraduateadddropperi-9ef84f5ddf@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:[MAJOR] Princeton - Undergraduate Add/Drop period ends (11:59pm)
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nAdd/drop deadline.\n\nSOURCE: https://registrar
+ .princeton.edu/academic-calendar-and-deadlines\n\n(Compiled 2026-08-10. Ve
+ rify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-midtermexaminationweek-2a9d4cb901@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:[MAJOR] Princeton - Midterm Examination Week
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nMidterm examinations\, immediately before Fall 
+ Recess.\n\nSOURCE: https://registrar.princeton.edu/academic-calendar-and-d
+ eadlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-fallrecess-6bdfe0e1c8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261026
+SUMMARY:[MAJOR] Princeton - Fall Recess
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nNine-day fall break - by far the longest mid-se
+ mester break of the seven schools. Classes resume Oct 26.\n\nOUTREACH NOTE
+ : Campus largely empties. Note the Oct 17 Brown football game falls on the
+  first day of recess.\n\nSOURCE: https://registrar.princeton.edu/academic-
+ calendar-and-deadlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-deadlinetodropcoursessel-44417fcf8d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[MAJOR] Princeton - Deadline to drop courses / select P/D/F (11:59p
+ m)
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nUndergraduate drop and P/D/F deadline\; also th
+ e graduate course-change deadline.\n\nSOURCE: https://registrar.princeton.
+ edu/academic-calendar-and-deadlines\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-thanksgivingrecess-dcec6d347f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261130
+SUMMARY:[MAJOR] Princeton - Thanksgiving Recess
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nBegins after the last class Tuesday Nov 24. Cla
+ sses resume Nov 30.\n\nSOURCE: https://registrar.princeton.edu/academic-ca
+ lendar-and-deadlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-lastdayofscheduledclasse-5bdde791b8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:[MAJOR] Princeton - Last day of scheduled classes
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nFall instruction ends\; Reading Period begins D
+ ec 8.\n\nSOURCE: https://registrar.princeton.edu/academic-calendar-and-dea
+ dlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-readingperiod-286727f033@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261216
+SUMMARY:[minor] Princeton - Reading Period
+LOCATION:Princeton University
+DESCRIPTION:SCALE: minor\n\nEight-day reading period before final assessmen
+ ts.\n\nSOURCE: https://registrar.princeton.edu/academic-calendar-and-deadl
+ ines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-deansdate-8f043cbdd4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:[MAJOR] Princeton - Dean's Date
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nDeadline for all term assigned work\, junior in
+ dependent work and fall senior theses. A defining date in Princeton's cale
+ ndar and culture.\n\nSOURCE: https://registrar.princeton.edu/academic-cale
+ ndar-and-deadlines\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-falltermfinalassessments-9ac06afd1a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261223
+SUMMARY:[MAJOR] Princeton - Fall Term Final Assessments
+LOCATION:Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nFinal examination period.\n\nSOURCE: https://re
+ gistrar.princeton.edu/academic-calendar-and-deadlines\n\n(Compiled 2026-08
+ -10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-footballprincetonvsalban-ad4ee2c400@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260926T190000Z
+DTEND:20260926T220000Z
+SUMMARY:[minor] Princeton - Football: Princeton vs. Albany (Kids Day)
+LOCATION:Powers Field at Princeton Stadium
+DESCRIPTION:SCALE: minor\n\nKids Day. PVC All-Sport Clinic 1:30pm on Finney
+ -Campbell Field (free\, ages 12 and under)\; Cheer Clinic 12:00-1:30pm in 
+ Jadwin Gym.\n\nSOURCE: https://www.princetontigersfootball.com/2026/07/foo
+ tball-announces-2026-promotional-schedule/\n\n(Compiled 2026-08-10. Verify
+  before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-footballprincetonvsbrown-53dea6bb52@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261017T160000Z
+DTEND:20261017T190000Z
+SUMMARY:[MAJOR] Princeton - Football: Princeton vs. Brown (Community Day)
+LOCATION:Powers Field at Princeton Stadium
+DESCRIPTION:SCALE: MAJOR\n\nCommunity Day - Mercer County residents 50% off
+ . Also Scout Day and the inaugural High School Day\, with NJ high school t
+ eams admitted free. Falls on the first day of Fall Recess.\n\nOUTREACH NOT
+ E: High School Day roster deadline is Fri 2026-10-02. Community-facing rat
+ her than student-facing given the recess overlap.\n\nSOURCE: https://www.p
+ rincetontigersfootball.com/2026/07/football-announces-2026-promotional-sch
+ edule/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-footballprincetonvscorne-859dadb7bc@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261031T160000Z
+DTEND:20261031T190000Z
+SUMMARY:[MAJOR] Princeton - Football: Princeton vs. Cornell (Halloween Home
+ coming & University Day)
+LOCATION:Powers Field at Princeton Stadium
+DESCRIPTION:SCALE: MAJOR\n\nPrinceton's 2026 Homecoming. Faculty and staff 
+ claim two free tickets\; Halloween activities pregame and on the concourse
+ . CORRECTION to a bad search result: a Cap and Gown Club page claims Homec
+ oming is Oct 25 vs Harvard - that is wrong on both counts. Oct 25 is a Sun
+ day and Harvard is not on the 2026 home schedule.\n\nSOURCE: https://www.p
+ rincetontigersfootball.com/2026/07/football-announces-2026-promotional-sch
+ edule/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-footballprincetonvsdartm-928790c581@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261107T170000Z
+DTEND:20261107T200000Z
+SUMMARY:[minor] Princeton - Football: Princeton vs. Dartmouth (Salute to Se
+ rvice)
+LOCATION:Powers Field at Princeton Stadium
+DESCRIPTION:SCALE: minor\n\nFree tickets for current and former military. C
+ oincides with First-Year Families Weekend.\n\nSOURCE: https://www.princeto
+ ntigersfootball.com/2026/07/football-announces-2026-promotional-schedule/\
+ n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-firstyearfamiliesweekend-512f5a2b6e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+SUMMARY:[MAJOR] Princeton - First-Year Families Weekend
+LOCATION:Campus-wide
+DESCRIPTION:SCALE: MAJOR\n\nOpen houses\, lectures\, cultural and athletic 
+ events for families of first-year students. FLAGGED: ffw.princeton.edu is 
+ a dead legacy site serving Fall 2020 content\, and path.princeton.edu is N
+ etID-gated. These dates are corroborated by search plus the Nov 7 home gam
+ e but have NO live primary source.\n\nSOURCE: https://www.princeton.edu/\n
+ \n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-footballprincetonvspenns-b7a03195a2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261121T170000Z
+DTEND:20261121T200000Z
+SUMMARY:[minor] Princeton - Football: Princeton vs. Penn (Senior Day / Fan 
+ Appreciation)
+LOCATION:Powers Field at Princeton Stadium
+DESCRIPTION:SCALE: minor\n\nFinal home game of the season.\n\nSOURCE: https
+ ://www.princetontigersfootball.com/2026/07/football-announces-2026-promoti
+ onal-schedule/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-afternoonconcertserieswe-d5e02ae7a5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T163000Z
+DTEND:20260903T173000Z
+SUMMARY:[minor] Princeton - After Noon Concert Series (weekly\, Thursdays)
+LOCATION:University Chapel
+DESCRIPTION:SCALE: minor\n\nFree weekly public concert series in the Univer
+ sity Chapel. Confirmed dates from the ORL iCal feed: Sep 3\, 10\, 17\, 24\
+ ; Oct 1\, 8\, 15\, 29\; Nov 5\, 12\, 19\; Dec 3. Note the Oct 22 gap for F
+ all Recess.\n\nOUTREACH NOTE: Free and open to the public - one of the few
+  Princeton events with no access barrier.\n\nSOURCE: https://religiouslife
+ .princeton.edu/worship-events/after-noon-concert-series-0\n\n(Compiled 202
+ 6-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministrysundayworshipser-ed61d15b0b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T150000Z
+DTEND:20260830T160000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261221T045959Z
+SUMMARY:[MAJOR] Princeton - MINISTRY: Sunday Worship Service (weekly\, Univ
+ ersity Chapel)
+LOCATION:University Chapel
+DESCRIPTION:SCALE: MAJOR\n\nLed by the Dean of Religious Life\, livestreame
+ d on the ORL YouTube channel. 'All are welcome.' Runs every Sunday Aug 30 
+ through Dec 20. Princeton's Office of Religious Life recognizes 22 Christi
+ an chaplaincies - by far the most structured religious life of the seven s
+ chools.\n\nSOURCE: https://religiouslife.princeton.edu/worship-events/sund
+ ay-worship-service-31\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryhourofpowerweekl-ac49ab7996@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T160000Z
+DTEND:20260909T170000Z
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261203T045959Z
+SUMMARY:[MAJOR] Princeton - MINISTRY: Hour of Power (weekly\, Wednesdays)
+LOCATION:Murray-Dodge Hall\, Room 104
+DESCRIPTION:SCALE: MAJOR\n\nMidweek Christian worship - singing\, prayer\, 
+ proclamation\, fellowship. Lunch provided. Confirmed dates: Sep 9\, 16\, 2
+ 3\, 30\; Oct 7\, 14\, 28 (no Oct 21\, fall recess)\; Nov 4\, 11\, 18\; Dec
+  2. Contact Brittany Longsdorf\, bal3@princeton.edu.\n\nOUTREACH NOTE: Bes
+ t low-friction weekly entry point for an outsider at Princeton - food is s
+ erved and staff/faculty are an explicit audience.\n\nSOURCE: https://relig
+ iouslife.princeton.edu/worship-events/hour-power-5\n\n(Compiled 2026-08-10
+ . Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryaquinasinstitute-fcbaada572@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260831T163000Z
+DTEND:20260831T180000Z
+SUMMARY:[MAJOR] Princeton - MINISTRY: Aquinas Institute Welcome BBQ
+LOCATION:Aquinas Institute (likely 134 Nassau St)
+DESCRIPTION:SCALE: MAJOR\n\nCatholic campus ministry welcome barbecue. The 
+ Aquinas Institute has the richest published fall 2026 calendar of any Prin
+ ceton Christian group. Live site is princetoncatholic.org (aquinas.princet
+ on.edu returns empty).\n\nOUTREACH NOTE: ACCESS RULE: lectures and liturgi
+ es are open to the public\, but 'all other events are for students only' -
+  the BBQ and Aquinas Night are closed to outside visitors.\n\nSOURCE: http
+ s://princetoncatholic.org/events/\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryaquinasnight-1711c14885@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260901T213000Z
+DTEND:20260901T230000Z
+SUMMARY:[MAJOR] Princeton - MINISTRY: Aquinas Night
+LOCATION:Aquinas Institute
+DESCRIPTION:SCALE: MAJOR\n\nCatholic student gathering. Students only.\n\nS
+ OURCE: https://princetoncatholic.org/events/\n\n(Compiled 2026-08-10. Veri
+ fy before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryaquinasdailymass-608f03ce47@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T160000Z
+DTEND:20260902T164500Z
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20261211T045959Z
+SUMMARY:[minor] Princeton - MINISTRY: Aquinas Daily Mass (weekdays\, Univer
+ sity Chapel)
+LOCATION:University Chapel
+DESCRIPTION:SCALE: minor\n\nDaily Mass Mon-Fri 12:00pm\; Confession Mon-Fri
+  11:30am-12:00pm\; Sunday Mass 4:30pm and 10:00pm\; Adoration Tue 9-10pm a
+ nd Fri 11am-12pm. Liturgies are open to the public.\n\nSOURCE: https://pri
+ ncetoncatholic.org/events/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryprincetonchristi-b85ad2d821@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T233000Z
+DTEND:20260905T013000Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
+SUMMARY:[MAJOR] Princeton - MINISTRY: Princeton Christian Fellowship - Frid
+ ay Night Fellowship (weekly)
+LOCATION:Murray-Dodge Hall\, first floor
+DESCRIPTION:SCALE: MAJOR\n\nPCF's flagship weekly gathering. NOTE: this gro
+ up was formerly Princeton Evangelical Fellowship (renamed 2017) and is NOT
+  the InterVarsity chapter. Chaplain Rev. Chris Sallade. Daily Prayer Mon-F
+ ri 12:10pm in the Murray-Dodge tower prayer room. Their events page still 
+ displays the Sep 2025-May 2026 run\; no fall 2026 dates posted.\n\nSOURCE:
+  https://www.pcfprinceton.org/events\n\n(Compiled 2026-08-10. Verify befor
+ e acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministrymannachristianfe-2da1c106bd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260905T233000Z
+DTEND:20260906T013000Z
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261212T045959Z
+SUMMARY:[MAJOR] Princeton - MINISTRY: Manna Christian Fellowship Large Grou
+ p (weekly\, Saturdays)
+LOCATION:East Pyne\, Room 010
+DESCRIPTION:SCALE: MAJOR\n\nBest-published weekly rhythm of any Princeton g
+ roup. Also: Freshmen Small Group Tue 4:30-6:00pm Murray-Dodge 104\; daily 
+ prayer Mon-Thu 4:30-5:00pm East Pyne 027\; Early Morning Prayer Fri 8:00-9
+ :00am Frist 210. Founded 1994 by Korean students to reach Asian American p
+ eers\, now explicitly broader. Chaplain Geoff Sackett. NOTE: Manna is the 
+ practical answer to 'is there a Korean/Chinese/Asian-American Christian fe
+ llowship at Princeton' - no separately-named one exists.\n\nSOURCE: https:
+ //manna.princeton.edu/mannas-programming\n\n(Compiled 2026-08-10. Verify b
+ efore acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministrychristianunionno-1ee80557c9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Princeton - MINISTRY: Christian Union Nova - Encounter and 
+ TruThursday
+LOCATION:Ministry center\, 19 Vandeventer Ave
+DESCRIPTION:SCALE: minor\n\nFormerly Princeton Faith and Action - PFA no lo
+ nger exists under that name. Encounter leadership lecture series runs Frid
+ ay evenings\; TruThursday runs Thursdays\, oriented to African\, African A
+ merican and Caribbean culture. Times and venues not published. Mike Vincen
+ t\, Princeton@ChristianUnion.org.\n\nSOURCE: https://christianunion.org/pr
+ inceton\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryhallelujahchurch-f4b3126b09@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260906T173000Z
+DTEND:20260906T190000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261214T045959Z
+SUMMARY:[minor] Princeton - MINISTRY: Hallelujah Church at Princeton (weekl
+ y\, Sundays)
+LOCATION:Murray-Dodge Hall\, Room 104
+DESCRIPTION:SCALE: minor\n\nInterdenominational service - hymns\, praise an
+ d contemporary gospel. Chaplain Dean Theresa Thames.\n\nSOURCE: https://re
+ ligiouslife.princeton.edu/faith-community/chaplaincies-programs/hallelujah
+ -church-princeton\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryptsfarminaryfall-da7f857868@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:[MAJOR] Princeton - MINISTRY: PTS Farminary Fall Fest 2026
+LOCATION:The Farminary\, Princeton Theological Seminary\, 4200 Princeton Pi
+ ke
+DESCRIPTION:SCALE: MAJOR\n\nPublic festival - morning worship\, workshops\,
+  chef-led tasting\, evening poetry reading with Jessica Jacobs. Explicitly
+  open to 'neighbors\, friends\, and newcomers from across the region'. Tim
+ e not published.\n\nOUTREACH NOTE: One of very few genuinely public faith 
+ events in the Princeton area with no student-only restriction.\n\nSOURCE: 
+ https://ptsem.edu/events\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-ministryptscommunitystor-c343c4f064@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260910T220000Z
+DTEND:20260911T000000Z
+SUMMARY:[minor] Princeton - MINISTRY: PTS Community Stories\, Climate Reali
+ ties
+LOCATION:The Farminary\, 4200 Princeton Pike
+DESCRIPTION:SCALE: minor\n\nFirst Thursdays series with Rev. Dr. Kenda Crea
+ sy Dean and Nate Stucky on ecological formation. Followed by a BlueLab Med
+ ia documentary screening and Q&A 7:45-9:00pm.\n\nSOURCE: https://ptsem.edu
+ /events\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-scienceandtechnologyfair-765216f7bf@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[MAJOR] Princeton - Science and Technology Fair
+LOCATION:Dillon Gym\, Princeton University
+DESCRIPTION:SCALE: MAJOR\n\nPrinceton's science and technology recruiting f
+ air - NOT previously captured. Time not published. 'Please note that there
+  is a registration fee associated with this event' - amount unpublished. R
+ egistered via Handshake. Contact Traci Miller\, undergraduate affairs admi
+ nistrator.\n\nOUTREACH NOTE: STRONG FIT for a materials company - better a
+ udience match than the general HireTigers fair. Chase the fee and time.\n\
+ nSOURCE: https://careerdevelopment.princeton.edu/employers/on-campus-recru
+ iting\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-employertablinginfristca-f8eb04295b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Princeton - Employer tabling in Frist Campus Center
+LOCATION:Frist Campus Center
+DESCRIPTION:SCALE: minor\n\nCCD runs employer tabling\, 'typically taking p
+ lace in Frist Campus Center'. Schedule by emailing hiretigers@princeton.ed
+ u. This is the closest thing to a low-cost recurring presence at Princeton
+ . CCD reserves the right to decline based on timing\, availability\, indus
+ try\, brand presence on campus and student interest.\n\nOUTREACH NOTE: Not
+ e HireTigers itself is free to register - 'There is no fee to register. Ta
+ bles are limited.'\n\nSOURCE: https://careerdevelopment.princeton.edu/empl
+ oyers/on-campus-recruiting\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:princeton-solicitationpolicyforrel-05f45045af@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Princeton - Solicitation policy for religious and non-comme
+ rcial groups (RRR 3.2.2)
+LOCATION:Princeton University
+DESCRIPTION:SCALE: minor\n\nDirectly governs faith-based outreach: 'As a ge
+ neral rule\, representatives of noncommercial off-campus organizations\, s
+ uch as political\, religious\, and charitable groups\, will not be permitt
+ ed to solicit on campus.' Exceptions apply to ODUS during business hours\,
+  are limited to 9am-5pm\, one or two people per location and five or six o
+ n campus total\, and normally six visits per month. Preferred sites includ
+ e adjacent to Chancellor Green\, the north side of Frist\, and near the Un
+ iversity Store east entrance.\n\nOUTREACH NOTE: Sponsorship by a member of
+  the University community is explicitly preferred. Policy confirmed unchan
+ ged as of 2026-08-10.\n\nSOURCE: https://rrr.princeton.edu/university-and-
+ community/32-regulations-governing-solicitation-distribution-and-peaceful-
+ dissent\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

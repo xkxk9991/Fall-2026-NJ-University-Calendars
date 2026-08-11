@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Essex County College - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:ecc-convocation2026-25ba807ff5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[MAJOR] ECC - Convocation 2026
+LOCATION:Essex County College (venue not listed)
+DESCRIPTION:SCALE: MAJOR\n\nCollege convocation opening the 2026-27 academi
+ c year. Time not published.\n\nSOURCE: https://www.essex.edu/events-2/conv
+ ocation/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-actioncalleccstudentlife-95b9168027@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:[MAJOR] ECC - [ACTION] Call ECC Student Life re: Fall 2026 Week of 
+ Welcome dates
+LOCATION:Phone / email
+DESCRIPTION:SCALE: MAJOR\n\nECC has published NO Fall 2026 welcome week sch
+ edule and has zero events on its calendar dated on or after Sep 1\, 2026. 
+ It posts events roughly 2-5 weeks out\; the September batch should appear 
+ mid-to-late August. ECC does run a 'Week of Welcome' - one ran May 11-15\,
+  2026 for the summer term - so a fall equivalent is likely in the week of 
+ Sep 2-11.\n\nOUTREACH NOTE: Office of Student Life & Activities\, Clara Da
+ sher Student Center Room 107\, 303 University Ave\, Newark NJ 07102. Phone
+  973-877-3208. Director: Jamil Graham. NSO office: 973-877-4477. Ask for W
+ eek of Welcome dates and whether external orgs can table at the Student Re
+ source Fair or Club Fair (historic venues: 2nd Floor Forum in Newark\, WEC
+  Hall at West Essex).\n\nSOURCE: https://www.essex.edu/studentlife/\n\n(Co
+ mpiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-firstdayofclassesfalli15-3fd66c6ba1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:[MAJOR] ECC - First Day of Classes - Fall I (15-week)
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nFall I 15-week term begins.\n\nSOURCE: https://
+ www.essex.edu/wp-content/uploads/2025/02/Academic-Calendar-2026-2027-1.pdf
+ \n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-lateregistrationadddropf-a09bf44ef5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260912
+SUMMARY:[minor] ECC - Late Registration & Add/Drop - Fall I
+LOCATION:Essex County College
+DESCRIPTION:SCALE: minor\n\nLate registration and add/drop window for the F
+ all I term.\n\nSOURCE: https://www.essex.edu/wp-content/uploads/2025/02/Ac
+ ademic-Calendar-2026-2027-1.pdf\n\n(Compiled 2026-08-10. Verify before act
+ ing.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-weekendclassesbegin-64f1b15431@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[minor] ECC - Weekend Classes Begin
+LOCATION:Essex County College
+DESCRIPTION:SCALE: minor\n\nFirst day of weekend classes for Fall 2026.\n\n
+ SOURCE: https://www.essex.edu/wp-content/uploads/2025/02/Academic-Calendar
+ -2026-2027-1.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-labordaycollegeclosed-7771f125db@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[minor] ECC - Labor Day - College Closed
+LOCATION:Essex County College
+DESCRIPTION:SCALE: minor\n\nCollege closed for Labor Day.\n\nSOURCE: https:
+ //www.essex.edu/wp-content/uploads/2025/02/Academic-Calendar-2026-2027-1.p
+ df\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-fallii10weektermbegins-aecdf09bbd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:[minor] ECC - Fall II (10-week) Term Begins
+LOCATION:Essex County College
+DESCRIPTION:SCALE: minor\n\nSecond Fall term begins - a second wave of new 
+ students.\n\nSOURCE: https://www.essex.edu/wp-content/uploads/2025/02/Acad
+ emic-Calendar-2026-2027-1.pdf\n\n(Compiled 2026-08-10. Verify before actin
+ g.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-falliiregistrationbegins-62e64fa187@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:[minor] ECC - Fall II registration begins
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nRegistration opens for the Fall II 10-week term
+ .\n\nSOURCE: https://www.essex.edu/wp-content/uploads/2025/04/Academic-Cal
+ endar-2026-2027-FINAL4.30.25.pdf\n\n(Compiled 2026-08-10. Verify before ac
+ ting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-falliiadddropperiod-bbda9e484d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261010
+SUMMARY:[minor] ECC - Fall II add/drop period
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nAdd/drop for the Fall II term\; audit deadline 
+ Oct 9.\n\nSOURCE: https://www.essex.edu/wp-content/uploads/2025/04/Academi
+ c-Calendar-2026-2027-FINAL4.30.25.pdf\n\n(Compiled 2026-08-10. Verify befo
+ re acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-columbusdaycollegeclosed-26f5acef8d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[minor] ECC - Columbus Day - College Closed
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nCollege closed. Note ECC observes this where th
+ e other six schools do not.\n\nSOURCE: https://www.essex.edu/wp-content/up
+ loads/2025/04/Academic-Calendar-2026-2027-FINAL4.30.25.pdf\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-midtermwarningsdue-b22b15305f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[minor] ECC - Midterm warnings due
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nFaculty midterm warning deadline\; incomplete-g
+ rade removal was Oct 26.\n\nSOURCE: https://www.essex.edu/wp-content/uploa
+ ds/2025/04/Academic-Calendar-2026-2027-FINAL4.30.25.pdf\n\n(Compiled 2026-
+ 08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-winterspringregistration-0ad2afd74a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[minor] ECC - Winter/Spring registration begins
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nRegistration opens.\n\nSOURCE: https://www.esse
+ x.edu/wp-content/uploads/2025/04/Academic-Calendar-2026-2027-FINAL4.30.25.
+ pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-lastdaytowithdrawwfallia-0999df3fad@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[MAJOR] ECC - Last day to withdraw (W) - Fall I and Fall II
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nWithdrawal deadline for both fall terms. WU rep
+ orting Nov 19-24.\n\nSOURCE: https://www.essex.edu/wp-content/uploads/2025
+ /04/Academic-Calendar-2026-2027-FINAL4.30.25.pdf\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-thanksgivingcollegeclose-b087f17f43@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+SUMMARY:[MAJOR] ECC - Thanksgiving - College Closed
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nCollege closed.\n\nSOURCE: https://www.essex.ed
+ u/wp-content/uploads/2025/04/Academic-Calendar-2026-2027-FINAL4.30.25.pdf\
+ n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-falliandfalliiend-05b51a9a94@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:[MAJOR] ECC - Fall I and Fall II end
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nBoth fall terms end\; grades due Dec 22. NOTE: 
+ the calendar contains NO separate final-exam week and NO December commence
+ ment - ECC runs one ceremony a year\, listed as TBD under Summer I 2027.\n
+ \nSOURCE: https://www.essex.edu/wp-content/uploads/2025/04/Academic-Calend
+ ar-2026-2027-FINAL4.30.25.pdf\n\n(Compiled 2026-08-10. Verify before actin
+ g.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-winterrecesscollegeclose-e2cf2318b5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270101
+SUMMARY:[minor] ECC - Winter Recess - College Closed
+LOCATION:Essex County College\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nCollege closed Dec 24 through Jan 1.\n\nSOURCE:
+  https://www.essex.edu/wp-content/uploads/2025/04/Academic-Calendar-2026-2
+ 027-FINAL4.30.25.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-ministrychristianfellows-a33402b53e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T200000Z
+DTEND:20260904T210000Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261218T045959Z
+SUMMARY:[MAJOR] ECC - MINISTRY: Christian Fellowship Club - ECC's only reli
+ gious club
+LOCATION:Room 2115\, 2nd Floor\, Essex County College
+DESCRIPTION:SCALE: MAJOR\n\nThe Clubs & Organizations page has a RELIGIOUS 
+ category containing exactly one entry: Christian Fellowship Club\, InterVa
+ rsity-affiliated per its description. eccchristianfellowship@gmail.com\, F
+ ridays 4-5pm. CAVEAT: that page was last modified 2023-01-20\, so the cont
+ act and meeting time are three years stale and need confirming.\n\nOUTREAC
+ H NOTE: Also relevant: the Newman Catholic Center (91 Washington St\, 973-
+ 624-1301) explicitly serves ECC alongside Rutgers-Newark and NJIT - a sing
+ le Newark-wide Catholic contact covers all three.\n\nSOURCE: https://www.e
+ ssex.edu/studentlife/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-actioneccseptemberevents-470c147bbb@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:[MAJOR] ECC - [ACTION] ECC September events still not posted - rech
+ eck
+LOCATION:Online
+DESCRIPTION:SCALE: MAJOR\n\nRe-verified 2026-08-10: the MEC events sitemap 
+ (generated 12:07pm that day) shows the newest post at 2026-07-27. Nothing 
+ posted in 14 days\; zero September-or-later events exist. The WP REST API 
+ confirms independently. Given the 2-5 week lead pattern\, the September ba
+ tch should land the week of Aug 17-24.\n\nOUTREACH NOTE: ACTION: recheck t
+ he sitemap - it is the fastest single indicator. Then call Student Life\, 
+ 973-877-3208.\n\nSOURCE: https://www.essex.edu/mec-events-sitemap.xml\n\n(
+ Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-fallresourcefairpreceden-e600067e15@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:[minor] ECC - Fall Resource Fair - precedent\, no 2026 date
+LOCATION:2nd Floor Forum\, Essex County College\, Newark
+DESCRIPTION:SCALE: minor\n\nPRECEDENT ONLY\, NOT A CONFIRMED 2026 EVENT. EC
+ C's news archive shows 'ECC Hosts Fall Resource Fair with 30+ Community Pa
+ rtners' posted 2025-10-28\, held in the 2nd Floor Forum. This confirms the
+  venue and a late-October slot. Two other recurring events also have no sc
+ heduled 2026 instances: the Spring Job Fair and the Club Fair.\n\nOUTREACH
+  NOTE: 30+ community partners means ECC's resource fair genuinely admits e
+ xternal organizations - the most open fair of the seven schools. Confirm t
+ he 2026 date with Jamil Graham\, 973-877-3208.\n\nSOURCE: https://www.esse
+ x.edu/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc-nsofalldatesarelockedins-0c717f1b31@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:[minor] ECC - NSO fall dates are locked inside an image
+LOCATION:Essex County College
+DESCRIPTION:SCALE: minor\n\nessex.edu/nso/ (modified 2026-07-14) carries no
+  orientation dates in text - they exist only inside the flyer image NSO-20
+ 26-1024x662.jpg\, which is not text-extractable by fetch. Registration is 
+ via a Wufoo form. Stale trap on that page: it still links a Fall 2024 Impo
+ rtant Dates PDF as if current.\n\nOUTREACH NOTE: Needs a human to open the
+  flyer\, or call 973-877-4477.\n\nSOURCE: https://www.essex.edu/nso/\n\n(C
+ ompiled 2026-08-10. Verify before acting.)
+CATEGORIES:ECC\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

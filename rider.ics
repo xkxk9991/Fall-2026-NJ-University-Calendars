@@ -1,0 +1,485 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rider - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:rider-internationalstudentorie-07b01bb996@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T130000Z
+DTEND:20260902T183000Z
+SUMMARY:[MAJOR] Rider - International Student Orientation - Check-In & Arri
+ val
+LOCATION:Bart Luedeke Center (BLC)\, Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nNew international student check-in and residenc
+ e hall key pickup\; earliest permitted campus arrival. Airport pickup shut
+ tle from Newark Liberty at 12:00pm. Dinner 4:30-5:30pm in Daly's Dining Ha
+ ll. Schedule marked subject to change.\n\nSOURCE: https://www.rider.edu/si
+ tes/default/files/2026-06/Fall26-OIE-ORIENTATION%20SCHEDULE.pdf\n\n(Compil
+ ed 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-internationalorientation-342329d55b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T123000Z
+DTEND:20260903T140000Z
+SUMMARY:[minor] Rider - International Orientation - Welcome Breakfast
+LOCATION:NJM Room\, Bart Luedeke Center
+DESCRIPTION:SCALE: minor\n\nWelcome breakfast opening the mandatory program
+  day.\n\nSOURCE: https://www.rider.edu/sites/default/files/2026-06/Fall26-
+ OIE-ORIENTATION%20SCHEDULE.pdf\n\n(Compiled 2026-08-10. Verify before acti
+ ng.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-internationalorientation-ed607bd999@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T140000Z
+DTEND:20260903T150000Z
+SUMMARY:[MAJOR] Rider - International Orientation - Mandatory Paperwork / I
+ mmigration Document Session
+LOCATION:Bart Luedeke Center
+DESCRIPTION:SCALE: MAJOR\n\nStudents must bring personal documents. Fulton 
+ Bank on site for account setup.\n\nOUTREACH NOTE: Note the precedent: Fult
+ on Bank has an on-site vendor presence here. Contact the Office of Interna
+ tional Education about similar access.\n\nSOURCE: https://www.rider.edu/si
+ tes/default/files/2026-06/Fall26-OIE-ORIENTATION%20SCHEDULE.pdf\n\n(Compil
+ ed 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-internationalorientation-b25499270b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T150000Z
+DTEND:20260903T160000Z
+SUMMARY:[minor] Rider - International Orientation - 'Maintaining Status' Se
+ ssion
+LOCATION:Bart Luedeke Center
+DESCRIPTION:SCALE: minor\n\nRequired F-1/J-1 visa compliance briefing led b
+ y PDSO Kim Algeo.\n\nSOURCE: https://www.rider.edu/sites/default/files/202
+ 6-06/Fall26-OIE-ORIENTATION%20SCHEDULE.pdf\n\n(Compiled 2026-08-10. Verify
+  before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-internationalorientation-6200b0dc32@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T173000Z
+DTEND:20260903T191500Z
+SUMMARY:[minor] Rider - International Orientation - Afternoon Sessions
+LOCATION:Bart Luedeke Center and campus
+DESCRIPTION:SCALE: minor\n\nStudent Navigation Office 1:30pm\, Community St
+ andards 2:00pm\, Counseling Center 2:30pm\, campus tour 2:45pm\, shuttles 
+ to Target 3:15pm. Dinner 5:30pm.\n\nSOURCE: https://www.rider.edu/sites/de
+ fault/files/2026-06/Fall26-OIE-ORIENTATION%20SCHEDULE.pdf\n\n(Compiled 202
+ 6-08-10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-internationalorientation-1846ea37e7@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T133000Z
+DTEND:20260904T233000Z
+SUMMARY:[minor] Rider - International Orientation - NYC Cultural Trip
+LOCATION:New York City
+DESCRIPTION:SCALE: minor\n\nStatue of Liberty 9:30am\, One World Trade Cent
+ er 2:30pm\, group dinner in Times Square 5:30pm\, return 7:30pm.\n\nSOURCE
+ : https://www.rider.edu/sites/default/files/2026-06/Fall26-OIE-ORIENTATION
+ %20SCHEDULE.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-newstudentmovein-6eff898564@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[MAJOR] Rider - New Student Move-In
+LOCATION:Residence halls\, Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nNew student move-in day\, opening Welcome Week.
+  Move-in times\, arrival windows and check-in locations are not published.
+  Returning/upperclass move-in date is also unpublished ('Details coming so
+ on').\n\nSOURCE: https://www.rider.edu/about/events/welcome-week\n\n(Compi
+ led 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-orientationprogrammingma-263aba044b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260909
+SUMMARY:[MAJOR] Rider - Orientation Programming (mandatory)
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nMandatory orientation programming block. DATE C
+ ONFLICT: /about/events/welcome-week says Sat Sep 5 - Tue Sep 8\, while /st
+ udent-life/welcome-to-rider and /admissions/admitted/calendar-contacts bot
+ h say Fri Sep 4 - Tue Sep 8. Unresolved. No day-by-day schedule published\
+ ; Rider states it 'will be shared in the coming weeks.'\n\nSOURCE: https:/
+ /www.rider.edu/about/events/welcome-week\n\n(Compiled 2026-08-10. Verify b
+ efore acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-traditionalwelcomeweekpr-3686082436@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260914
+SUMMARY:[MAJOR] Rider - Traditional Welcome Week Programming
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nThe social/traditional half of Welcome Week. Ri
+ der names these components but has published NO 2026 dates\, times or venu
+ es for any of them: Student Club and Organization Fair (Involvement Fair)\
+ , Broncapalooza\, Cranberry Fest\, New Student Barbecue\, Orientation Game
+ s\, New Student Convocation\, LLC events\, commuter experiences. Every eve
+ nt node currently reads 'No dates or times currently scheduled.'\n\nOUTREA
+ CH NOTE: The Involvement Fair and Cranberry Fest are club-only\, no outsid
+ e vendors. Historic venue for both: Campus Mall (rain site Student Recreat
+ ion Center). Note Alumni Gymnasium was renamed Canastra Hammer Arena in Ju
+ ne 2026.\n\nSOURCE: https://www.rider.edu/about/events/welcome-week\n\n(Co
+ mpiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-firstdayofclassesfall202-261488c6bc@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:[MAJOR] Rider - First Day of Classes - Fall 2026
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 classes begin. Last day to add Sep 15
+ \; last day to drop Sep 22.\n\nSOURCE: https://catalog.rider.edu/academic-
+ calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-actionrecheckriderwelcom-52bfaf6b5b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[MAJOR] Rider - [ACTION] Re-check Rider Welcome Week schedule + con
+ tact Conference Services
+LOCATION:Phone / email
+DESCRIPTION:SCALE: MAJOR\n\nRider's day-by-day Welcome Week schedule was un
+ published as of Aug 10\, 2026 and is expected mid-to-late August. Re-check
+  rider.edu/about/events/welcome-week. Separately: the external event submi
+ ssion deadline for Fall semester locations was July 15 and has already pas
+ sed - a post-deadline request needs a direct conversation.\n\nOUTREACH NOT
+ E: Contacts: orientation@rider.edu / 609-896-5314 (First Year Programs\, B
+ LC 2nd Floor) for the schedule. conferences@rider.edu / 609-896-5000 x7337
+  for external tabling (requires signed facilities usage agreement\, facili
+ ty+staffing charges\, and a Rider-approved certificate of insurance at lea
+ st 7 days prior\; TULIP via urmia.bene-marc.com). kcraft@rider.edu (Karl C
+ raft\, Assoc. Director of Career Development) for Fall 2026 career fair da
+ tes - none published yet.\n\nSOURCE: https://www.rider.edu/about/events/we
+ lcome-week\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-lastdaytoaddclasses-746815cc4c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:[MAJOR] Rider - Last day to add classes
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nAdd deadline\; also add/drop for Applied Lesson
+ s and the 7-Week Part A drop deadline.\n\nSOURCE: https://catalog.rider.ed
+ u/academic-calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-lastdaytodropclasses-33f2143ba2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[MAJOR] Rider - Last day to drop classes
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nDrop deadline. Student-discretion withdrawal ru
+ ns Sep 23 - Nov 17.\n\nSOURCE: https://catalog.rider.edu/academic-calendar
+ /\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-courseselectionopensforj-1352564e7d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:[minor] Rider - Course selection opens for JTerm and Spring 2027
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: minor\n\nRegistration opens.\n\nSOURCE: https://catalog.
+ rider.edu/academic-calendar/\n\n(Compiled 2026-08-10. Verify before acting
+ .)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-7weekpartaendspartbbegin-5a050c9267@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+SUMMARY:[minor] Rider - 7-Week Part A ends / Part B begins
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: minor\n\nSeven-week term transition. Part B add deadline
+  Oct 30\, drop deadline Nov 3.\n\nSOURCE: https://catalog.rider.edu/academ
+ ic-calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-thanksgivingrecess-6ec86abd0c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261130
+SUMMARY:[MAJOR] Rider - Thanksgiving Recess
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nClasses resume Nov 30. NOTE: Rider has NO fall 
+ break - this is the only one.\n\nSOURCE: https://catalog.rider.edu/academi
+ c-calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-lastdayofclasses-d9cd1c3268@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:[MAJOR] Rider - Last Day of Classes
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nInstruction ends (except Graduate Education).\n
+ \nSOURCE: https://catalog.rider.edu/academic-calendar/\n\n(Compiled 2026-0
+ 8-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-finalexams-b70055590d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261219
+SUMMARY:[MAJOR] Rider - Final Exams
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nFinal examination week. No reading days are lis
+ ted in Rider's calendar.\n\nSOURCE: https://catalog.rider.edu/academic-cal
+ endar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-residencehallsclosenoon-0e39c726bc@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:[MAJOR] Rider - Residence halls close (noon)
+LOCATION:Rider University\, Lawrenceville NJ
+DESCRIPTION:SCALE: MAJOR\n\nHalls close at noon. NOTE: no winter commenceme
+ nt - the only ceremony is 2027-05-13.\n\nSOURCE: https://catalog.rider.edu
+ /academic-calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-westminsterhandbellalumn-9990366cbd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260908
+SUMMARY:[minor] Rider - Westminster Handbell Alumni Ring-in
+LOCATION:Yvonne Theater\, Rider University
+DESCRIPTION:SCALE: minor\n\nThree days of handbell ringing at Westminster\,
+  open to alumni ringers. Times TBD. One of only two dated campus-life even
+ ts Rider has published for the entire fall.\n\nSOURCE: https://www.rider.e
+ du/about/events/handbell-alumni-ring-in\n\n(Compiled 2026-08-10. Verify be
+ fore acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-hispanicheritagemonth-be92fcc467@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261016
+SUMMARY:[minor] Rider - Hispanic Heritage Month
+LOCATION:Campus-wide
+DESCRIPTION:SCALE: minor\n\nAnnual observance supported by the Center for C
+ ommunity + Belonging. Individual events undated.\n\nSOURCE: https://www.ri
+ der.edu/about/offices-services/center-community-belonging/events-programs\
+ n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-actionridertraditiondate-27f1734ce9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[MAJOR] Rider - [ACTION] Rider tradition dates still unpublished
+LOCATION:Contact ocl@rider.edu
+DESCRIPTION:SCALE: MAJOR\n\nRe-verified 2026-08-10: every named Rider tradi
+ tion still reads 'No dates or times currently scheduled for this event' - 
+ Involvement Fair\, Broncapalooza\, Cranberry Fest\, Alumni and Family Day 
+ (Homecoming)\, Rider Rock Fest\, MAACness\, Scream Screen\, New Student Co
+ nvocation\, Celebration of Lights. The rider.edu events calendar has NO en
+ tries past mid-August\, verified through page 10.\n\nOUTREACH NOTE: ACTION
+ : call Campus Life\, ocl@rider.edu / 609-896-5327. The web calendar is not
+  a forward-looking source for Rider.\n\nSOURCE: https://www.rider.edu/abou
+ t/events/welcome-week\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-ministryriderhasnochapla-a08caaec76@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] Rider - MINISTRY: Rider has no chaplain and no spiritual li
+ fe office
+LOCATION:Center for Community + Belonging
+DESCRIPTION:SCALE: MAJOR\n\nA 'Chaplaincy Program and Interfaith Advisory C
+ ouncil' was announced by President John Loyack on 2025-11-04 as 'underway 
+ or soon to launch'. Nine months later there is no office page\, no chaplai
+ n named\, no email\, no programming - it cannot be confirmed operational f
+ or Fall 2026. Faith content lives inside the Center for Community + Belong
+ ing (Director Jasmine Johnson\, jjohnson@rider.edu\, 609-896-5216). Gill M
+ emorial Chapel is the on-campus 'place to pray' with no published service 
+ schedule. Official Affiliate Ministers: Catholic Pastoral Associate Gary M
+ accaroni (gmacc@churchofsaintann.net\, 609-882-6491 x116)\, Rabbi Benjamin
+  Adler\, Imam Abdul-Malik R. Ali.\n\nOUTREACH NOTE: Rider is the weakest r
+ eligious-life infrastructure of the seven schools. The Catholic parish nex
+ t door is the practical route.\n\nSOURCE: https://www.rider.edu/about/offi
+ ces-services/center-community-belonging/ccb-resources\n\n(Compiled 2026-08
+ -10. Verify before acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-ministryriderchristianst-be1ec5fbf6@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Rider - MINISTRY: Rider Christian student orgs (no publishe
+ d meeting times)
+LOCATION:Center for Community + Belonging
+DESCRIPTION:SCALE: minor\n\nFour Christian orgs\, ZERO published meeting da
+ ys\, times or venues for any of them: Catholic Campus Ministry (ccm@rider.
+ edu\, weekly meetings\, sponsors on-campus Masses)\; 'Greater Within' Camp
+ us Ministry (nondenominational\, meets weekly)\; Rider InterVarsity Christ
+ ian Fellowship (also called Lawrenceville-InterVarsity / LAW-IVCF)\; Unash
+ amed Voices Gospel Choir (founded 2010). CONFIRMED ABSENT: Cru\, Chi Alpha
+ \, Athletes in Action\, and any Korean/Chinese/Asian-American Christian fe
+ llowship.\n\nOUTREACH NOTE: Do NOT rely on the circulating 'Sunday 7 PM / 
+ 11 AM at Emmaus House' figure - unverified on any primary source. riderccm
+ .org is frozen at ~2015.\n\nSOURCE: https://www.rider.edu/about/offices-se
+ rvices/center-community-belonging/student-cultural-and-community-organizat
+ ions\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-ministrychurchofsaintann-d02ada4d7c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260913T170000Z
+DTEND:20260913T200000Z
+SUMMARY:[minor] Rider - MINISTRY: Church of Saint Ann Multicultural Parish 
+ Picnic
+LOCATION:Church of Saint Ann\, 1253 Lawrenceville Rd
+DESCRIPTION:SCALE: minor\n\nThe only firmly dated fall faith event found fo
+ r Rider. Not student-specific. Saint Ann is Rider CCM's base\, two minutes
+  from campus\, 609-882-6491. Recurring Mass: Sat vigil 4:00pm\; Sun 9:00am
+ \, 10:30am\, 12:00pm\, 4:00pm (sensory-quiet)\; daily Mon-Sat 8:00am. Thei
+ r partner site St. Michael Church in Trenton runs Korean-language Masses T
+ hu 10am\, Fri 8pm\, Sun 12:30pm.\n\nSOURCE: https://churchofsaintann.net/\
+ n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-actionnofall2026ridercar-e38c2c4add@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[MAJOR] Rider - [ACTION] No Fall 2026 Rider career fair dates exist
+  publicly
+LOCATION:Contact kcraft@rider.edu
+DESCRIPTION:SCALE: MAJOR\n\nAll five fair pages read 'No dates or times cur
+ rently scheduled'. The hire-a-bronc career events page is stale\, showing 
+ a 'Spring 2025' header over Fall 2025 dates. Handshake fair records exist 
+ and likely carry real dates behind login: General fair UUID 864e8265-e080-
+ 4f08-b032-ddc7e1c4dade\, B&A ID 54316\, NBCB ID 50769\, Education UUID 0ea
+ 8f5be-fe84-4033-a53f-7aac5e842b14.\n\nOUTREACH NOTE: ACTION: Karl Craft\, 
+ kcraft@rider.edu\, 609-896-5000 ext. 7275.\n\nSOURCE: https://www.rider.ed
+ u/about/events?event_categories=1721\n\n(Compiled 2026-08-10. Verify befor
+ e acting.)
+CATEGORIES:Rider\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rider-externalaccessthecospons-2faf02f695@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Rider - External access: the co-sponsorship route is the ch
+ eapest door
+LOCATION:Conference Services\, Rider University
+DESCRIPTION:SCALE: minor\n\nThree routes for an outside org: (1) Career Dev
+ elopment for the sanctioned employer channel\; (2) Conference Services to 
+ rent space - conferences@rider.edu\, 609-896-7700 opt. 2\, requires a faci
+ lities usage agreement plus a Rider-approved COI at least 7 days before\, 
+ catering exclusive to Gourmet Dining\; (3) get a Rider student org or depa
+ rtment to co-sponsor\, which reclassifies the event as internal - no fee\,
+  no contract\, no COI\, with final approval from Campus Life. Route 3 is t
+ he cheapest door. The July 15 external deadline for fall locations has pas
+ sed but reads as a priority deadline\, not a hard bar - worth calling.\n\n
+ OUTREACH NOTE: External groups CANNOT self-serve 25Live. If minors are inv
+ olved the COI must explicitly cover sexual molestation/assault/harassment 
+ claims.\n\nSOURCE: https://www.rider.edu/about/offices-services/facilities
+ -university-operations/auxiliary/conference-services\n\n(Compiled 2026-08-
+ 10. Verify before acting.)
+CATEGORIES:Rider\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

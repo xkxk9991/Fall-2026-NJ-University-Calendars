@@ -1,0 +1,1115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rutgers New Brunswick - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:ru-nb-actionfullrutgersnbwelco-85c17239bc@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:[MAJOR] RU-NB - [ACTION] Full Rutgers-NB Welcome Week schedule publ
+ ishes
+LOCATION:Online
+DESCRIPTION:SCALE: MAJOR\n\nRutgers states the complete Welcome Week 2026 s
+ chedule goes live today on welcome.rutgers.edu and in the Guidebook app (g
+ uide ID: ruwelcome26). Only ~6 events were public as of Aug 10 - re-check 
+ and expect the list to roughly triple.\n\nOUTREACH NOTE: Re-scrape on/afte
+ r this date to catch the full event list.\n\nSOURCE: https://welcome.rutge
+ rs.edu/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-welcomeweekpaddleboardpi-4578c83ca3@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260822T130000Z
+DTEND:20260822T170000Z
+SUMMARY:[minor] RU-NB - Welcome Week: Paddleboard Pilates
+LOCATION:Cook Recreation Center\, Cook/Douglass Campus
+DESCRIPTION:SCALE: minor\n\nBeginner-friendly stand-up paddleboard mat Pila
+ tes on the water. $30 per participant\; registration at go.rutgers.edu/vkf
+ t1dwm.\n\nSOURCE: https://welcome.rutgers.edu/events/welcome-week-paddlebo
+ ard-pilates\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-newstudentmoveinfirstyea-06dc091f5d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260828
+SUMMARY:[MAJOR] RU-NB - New Student Move-In (first-year & transfer)
+LOCATION:Residence halls\, all campuses
+DESCRIPTION:SCALE: MAJOR\n\nNew first-year and transfer move-in across Aug 
+ 25-27\; exact day and time assigned by residence hall. Continuing students
+  Aug 27-31. New international students (Rutgers Global) move in Mon Aug 24
+ \, 8am-5pm.\n\nOUTREACH NOTE: Peak parent/student foot traffic window.\n\n
+ SOURCE: https://ruoncampus.rutgers.edu/living-on-campus/move-in\n\n(Compil
+ ed 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-internationalstudentorie-56f3d4cd94@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260825T130000Z
+DTEND:20260825T210000Z
+SUMMARY:[MAJOR] RU-NB - International Student Orientation (Fall 2026) - Day
+  1 of 3
+LOCATION:Jersey Mike's Arena\, 83 Rockafeller Rd\, Piscataway NJ (Livingsto
+ n Campus)
+DESCRIPTION:SCALE: MAJOR\n\nRutgers Global's in-person orientation for new 
+ international undergrad and grad students. Three-day program running Aug 2
+ 5-27\; Day 1 registration/welcome 9am-5pm. Includes department and resourc
+ e connections.\n\nOUTREACH NOTE: High-density resource-table format\; cont
+ act Rutgers Global re: participation.\n\nSOURCE: https://newbrunswick.rutg
+ ers.edu/event/international-student-orientation-fall-2026\n\n(Compiled 202
+ 6-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-scarletnightoutdoormovie-7fb1ee1875@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260826T000000Z
+DTEND:20260826T020000Z
+SUMMARY:[minor] RU-NB - Scarlet Night: Outdoor Movie
+LOCATION:Wood Lawn Mansion Lawn\, Douglass Campus
+DESCRIPTION:SCALE: minor\n\nJumbo-screen outdoor movie hosted with the Rutg
+ ers Democracy Lab. Film title TBA. NOTE: end time not published\; 10pm is 
+ an assumption.\n\nSOURCE: https://welcome.rutgers.edu/events/scarlet-night
+ -activities-outdoor-movie\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-scarletnightgamingtakeov-403fd713a1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260826T000000Z
+DTEND:20260826T030000Z
+SUMMARY:[minor] RU-NB - Scarlet Night: Gaming Takeover
+LOCATION:Busch Student Center\, Busch Campus
+DESCRIPTION:SCALE: minor\n\nGame night takeover with video games\, the Espo
+ rts Lounge\, multiplayer titles\, board and card games.\n\nSOURCE: https:/
+ /welcome.rutgers.edu/events/scarlet-night-activities-gaming-takeover\n\n(C
+ ompiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-scarletnightglowknight-c626003810@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T000000Z
+DTEND:20260827T030000Z
+SUMMARY:[minor] RU-NB - Scarlet Night: Glow Knight
+LOCATION:College Ave Gym\, College Avenue Campus
+DESCRIPTION:SCALE: minor\n\nDrop-in glow-themed rec night: mini golf\, grou
+ p fitness\, rock climbing\, interactive games.\n\nSOURCE: https://welcome.
+ rutgers.edu/events/scarlet-night-activities-glow-knight\n\n(Compiled 2026-
+ 08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-scarletnightrenaissancek-b73b378ba2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T000000Z
+DTEND:20260827T030000Z
+SUMMARY:[minor] RU-NB - Scarlet Night: Renaissance Knight
+LOCATION:Livingston Student Center\, Livingston Campus
+DESCRIPTION:SCALE: minor\n\nMedieval Renaissance Faire-style experience bui
+ lt around Scarlet Knight identity.\n\nSOURCE: https://welcome.rutgers.edu/
+ events/scarlet-night-activities-renaissance-knight\n\n(Compiled 2026-08-10
+ . Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-newstudentconvocation-ffa6a7bc73@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T210000Z
+DTEND:20260827T220000Z
+SUMMARY:[MAJOR] RU-NB - New Student Convocation
+LOCATION:Jersey Mike's Arena\, 83 Rockafeller Rd\, Piscataway NJ (Livingsto
+ n Campus)
+DESCRIPTION:SCALE: MAJOR\n\nThe university's official welcome for first-yea
+ r and transfer students: formal address plus student org performances. Fir
+ st-year and new transfer students only. Commuters routed via a pre-Convoca
+ tion Commuter Welcome & Social (time/location not yet published).\n\nOUTRE
+ ACH NOTE: Largest single gathering of new students all year.\n\nSOURCE: ht
+ tps://welcome.rutgers.edu/events/new-student-convocation\n\n(Compiled 2026
+ -08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-scarletcarnivale-557ca20a94@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:[MAJOR] RU-NB - Scarlet Carnivale
+LOCATION:Outdoor\, Livingston Campus (exact venue not published)
+DESCRIPTION:SCALE: MAJOR\n\nOutdoor carnival immediately following Convocat
+ ion: boardwalk games\, prizes\, laser tag\, dinner. First-year and new tra
+ nsfer students only. TIME NOT CONFIRMED - an unverified search snippet sug
+ gested 5:30-10:30pm\; entered as all-day pending confirmation.\n\nSOURCE: 
+ https://sca.rutgers.edu/campus-involvement/traditions-and-signature-progra
+ ms/new-student-convocation-and-scarlet-carnivale\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-involvementfair2026ftcul-f7df72935c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T190000Z
+DTEND:20260830T230000Z
+SUMMARY:[MAJOR] RU-NB - Involvement Fair 2026 (ft. Culture Fest & Meet the 
+ Greeks)
+LOCATION:College Avenue\, New Brunswick NJ 08901 (outdoor)
+DESCRIPTION:SCALE: MAJOR\n\n700+ student organizations\, club sports\, Gree
+ k life\, cultural orgs and Divine 9/MGC tabling along College Ave. Free\, 
+ no RSVP. Street closures 6am-9pm: College Ave (Senior to Hamilton)\, Morre
+ ll St\, Bartlett St\, Seminary Pl. Lots 9\, 25\, 35 closed. Rain date list
+ ed as 'Monday\, August 30' on the SCA page\, an internal error - presumed 
+ Mon Aug 31\, unconfirmed.\n\nOUTREACH NOTE: CLOSED to outside companies - 
+ SCA states non-student groups and departments cannot be accommodated. BUT 
+ sponsorship is open: 2026-27 packages at rutgers.ca1.qualtrics.com/jfe/for
+ m/SV_6lqc6AVJF635KHY\, contact involvementfair@echo.rutgers.edu. This is t
+ he realistic path to presence at the largest student-traffic event of the 
+ term.\n\nSOURCE: https://sca.rutgers.edu/campus-involvement/traditions-and
+ -signature-programs/involvement-fair\n\n(Compiled 2026-08-10. Verify befor
+ e acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-firstdayofclassesfall202-31c7e34df0@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] RU-NB - First Day of Classes - Fall 2026
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 semester classes begin.\n\nSOURCE: ht
+ tps://scheduling.rutgers.edu/academic-calendar/\n\n(Compiled 2026-08-10. V
+ erify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-careerexplorationandsucc-bac4b02d47@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T160000Z
+DTEND:20260902T190000Z
+SUMMARY:[minor] RU-NB - Career Exploration and Success Open House
+LOCATION:Career Exploration & Success\, 106 Somerset St\, 4th Floor\, Colle
+ ge Ave Campus (venue not stated on listing)
+DESCRIPTION:SCALE: minor\n\nFair-prep open house hosted by Career Explorati
+ on and Success ahead of the Mega Fair.\n\nSOURCE: https://careers.rutgers.
+ edu/event/career-exploration-and-success-open-house\n\n(Compiled 2026-08-1
+ 0. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-welcomeweekpatiopopup-93e1c55b2f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T153000Z
+DTEND:20260903T183000Z
+SUMMARY:[minor] RU-NB - Welcome Week: Patio Pop-Up
+LOCATION:Zimmerli Art Museum\, 71 Hamilton St\, New Brunswick NJ
+DESCRIPTION:SCALE: minor\n\nDrop-in art activities and a guided gallery tou
+ r on the museum patio. Free\, open to the public\, no RSVP. Contact: educa
+ tion@zimmerli.rutgers.edu\n\nSOURCE: https://newbrunswick.rutgers.edu/even
+ t/welcome-week-patio-pop\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-rutgersoncampusstudentem-ef5073c166@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T133000Z
+DTEND:20260904T163000Z
+SUMMARY:[MAJOR] RU-NB - Rutgers On-campus Student Employment Fair
+LOCATION:Busch Student Center\, Multipurpose Room\, Busch Campus
+DESCRIPTION:SCALE: MAJOR\n\nRutgers-NB students meet campus departments hir
+ ing for part-time and internship roles. Student check-in 9:15am\; employer
+  setup 8:30am. $50 registration (one 6'x3' table\, two reps).\n\nOUTREACH 
+ NOTE: Scoped to Rutgers campus departments\, not outside companies - verif
+ y eligibility before registering. Employer registration deadline was Aug 2
+ 5\, 2026.\n\nSOURCE: https://careers.rutgers.edu/CampusFair\n\n(Compiled 2
+ 026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-deadlinemegafairemployer-89f529e6a8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[MAJOR] RU-NB - [DEADLINE] Mega Fair employer registration closes (
+ 9:00am ET)
+LOCATION:Online - Handshake
+DESCRIPTION:SCALE: MAJOR\n\nHard deadline to register as an employer for th
+ e Rutgers Fall Career & Internship Mega Fair (Sep 15-17). Cancellation aft
+ er this point is non-refundable. Contact careerfairs@echo.rutgers.edu.\n\n
+ OUTREACH NOTE: ACTION REQUIRED if you want Mega Fair Day 1 (Engineering/Ma
+ terials).\n\nSOURCE: https://careers.rutgers.edu/node/812722\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fairprepdropinresumeclin-1dd0da5bf1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T150000Z
+DTEND:20260909T180000Z
+SUMMARY:[minor] RU-NB - Fair Prep: Drop-in Resume Clinic with Employer Volu
+ nteers
+LOCATION:Location not published
+DESCRIPTION:SCALE: minor\n\nDrop-in resume clinic staffed by volunteer empl
+ oyer reviewers.\n\nOUTREACH NOTE: Low-cost\, no-fee route to face time wit
+ h students - volunteer as an employer reviewer. Email careerfairs@echo.rut
+ gers.edu.\n\nSOURCE: https://careers.rutgers.edu/node/812722\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fairprephowtopreparefort-d0b57e1e4e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T230000Z
+DTEND:20260910T003000Z
+SUMMARY:[minor] RU-NB - Fair Prep: How to Prepare for the Career Fair
+LOCATION:Location not published
+DESCRIPTION:SCALE: minor\n\nStudent prep session ahead of the Mega Fair.\n\
+ nSOURCE: https://careers.rutgers.edu/node/812722\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fairprephowtopreparefort-6e0af9f2ac@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260910T160000Z
+DTEND:20260910T170000Z
+SUMMARY:[minor] RU-NB - Fair Prep: How to Prepare for the Career Fair (Mini
+ -Session)
+LOCATION:Location not published
+DESCRIPTION:SCALE: minor\n\nShorter student prep session ahead of the Mega 
+ Fair.\n\nSOURCE: https://careers.rutgers.edu/node/812722\n\n(Compiled 2026
+ -08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fallcareerinternshipmega-f754f69cc8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260915T153000Z
+DTEND:20260915T193000Z
+SUMMARY:[MAJOR] RU-NB - Fall Career & Internship Mega Fair - Day 1 (Tech\, 
+ Engineering\, Environment\, Food & Ag)
+LOCATION:Jersey Mike's Arena\, 83 Rockafeller Rd\, Piscataway NJ 08854
+DESCRIPTION:SCALE: MAJOR\n\n325+ employers\, 7\,000+ student/alumni check-i
+ ns last year\, across all four Rutgers campuses. Special-access candidates
+  admitted 11:00am. Day 1 covers Technology\, Engineering\, Environment\, F
+ ood & Agriculture.\n\nOUTREACH NOTE: BEST FIT FOR A MATERIALS COMPANY. Pac
+ kage includes 6x3' table in an 8x6' booth\, power\, brunch for two reps\, 
+ on-site parking. Ship Sep 9-14 to 84 Warehouse Road\, Piscataway. Register
+  via Handshake. Contacts: careerfairs@echo.rutgers.edu / 848-445-7287.\n\n
+ SOURCE: https://careers.rutgers.edu/node/812722\n\n(Compiled 2026-08-10. V
+ erify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fallcareerinternshipmega-ee77902d26@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260916T153000Z
+DTEND:20260916T193000Z
+SUMMARY:[MAJOR] RU-NB - Fall Career & Internship Mega Fair - Day 2 (Medical
+ \, Sciences\, Business)
+LOCATION:Jersey Mike's Arena\, 83 Rockafeller Rd\, Piscataway NJ 08854
+DESCRIPTION:SCALE: MAJOR\n\nDay 2 of the three-day Mega Fair\; adds Medical
+ \, Sciences and Business tracks.\n\nSOURCE: https://careers.rutgers.edu/no
+ de/812722\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fallcareerinternshipmega-88de014178@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260917T153000Z
+DTEND:20260917T193000Z
+SUMMARY:[MAJOR] RU-NB - Fall Career & Internship Mega Fair - Day 3 (Busines
+ s\, Comms\, Creative)
+LOCATION:Jersey Mike's Arena\, 83 Rockafeller Rd\, Piscataway NJ 08854
+DESCRIPTION:SCALE: MAJOR\n\nDay 3 of the three-day Mega Fair\; Business\, C
+ ommunications and Creative tracks.\n\nSOURCE: https://careers.rutgers.edu/
+ node/812722\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fallstudyabroadfair-637ee61359@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260916T150000Z
+DTEND:20260916T180000Z
+SUMMARY:[minor] RU-NB - Fall Study Abroad Fair
+LOCATION:Livingston Student Center\, 84 Joyce Kilmer Ave\, Piscataway NJ
+DESCRIPTION:SCALE: minor\n\nRutgers Global fair with study abroad advisors\
+ , faculty directors\, partner universities and providers. Open to all unde
+ rgrad and grad students. Free food\, games\, swag\, raffle.\n\nSOURCE: htt
+ ps://www.rutgers.edu/event/fall-study-abroad-fair\n\n(Compiled 2026-08-10.
+  Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-lastdayforinitialregistr-8dbcac9a7f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[minor] RU-NB - Last day for initial registrations (5:00pm)
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nFinal deadline for undergraduates to register f
+ or Fall 2026.\n\nSOURCE: https://nbregistrar.rutgers.edu/undergrad/f26ugca
+ l.htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-labordayuniversityclosed-cd55521407@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[MAJOR] RU-NB - Labor Day - University Closed
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nNo classes\; university offices closed.\n\nSOUR
+ CE: https://nbregistrar.rutgers.edu/undergrad/f26ugcal.htm\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-mondayclassesmeetontuesd-06f83301e1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[minor] RU-NB - Monday classes meet on Tuesday
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nClass-day designation change to make up the Lab
+ or Day Monday.\n\nSOURCE: https://nbregistrar.rutgers.edu/undergrad/f26ugc
+ al.htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-lastdaytoaddacoursedropw-378360d61f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:[MAJOR] RU-NB - Last day to add a course / drop without a W
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nUndergraduate add deadline and last day to drop
+  without a W grade. Schedules settle after this - student attention shifts
+  from logistics to activities.\n\nSOURCE: https://nbregistrar.rutgers.edu/
+ undergrad/f26ugcal.htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-wintersessionregistratio-ef25dcb87a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:[minor] RU-NB - Winter Session registration begins
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nWinter Session registration opens\; warning gra
+ de period also runs Oct 5-16.\n\nSOURCE: https://nbregistrar.rutgers.edu/u
+ ndergrad/f26ugcal.htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-lastdaytowithdrawfromaco-1d32c601e1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:[MAJOR] RU-NB - Last day to withdraw from a course with a W
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nUndergraduate withdrawal deadline.\n\nSOURCE: h
+ ttps://nbregistrar.rutgers.edu/undergrad/f26ugcal.htm\n\n(Compiled 2026-08
+ -10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-spring2027registrationbe-2ab9dc7281@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[minor] RU-NB - Spring 2027 registration begins (9:00am)
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nSpring registration opens.\n\nSOURCE: https://n
+ bregistrar.rutgers.edu/undergrad/f26ugcal.htm\n\n(Compiled 2026-08-10. Ver
+ ify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-fridayclassesmeetonwedne-aeb98fe998@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:[minor] RU-NB - Friday classes meet on Wednesday
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nClass-day designation change ahead of Thanksgiv
+ ing recess.\n\nSOURCE: https://nbregistrar.rutgers.edu/undergrad/f26ugcal.
+ htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-thanksgivingrecessnoclas-bda3333e7e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:[MAJOR] RU-NB - Thanksgiving Recess - No Classes
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nThe only multi-day break in the fall term. Rutg
+ ers-NB has no fall break.\n\nOUTREACH NOTE: Campus is empty - avoid schedu
+ ling anything student-facing.\n\nSOURCE: https://nbregistrar.rutgers.edu/u
+ ndergrad/f26ugcal.htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-lastdayofclasses-13a7ac1b97@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[MAJOR] RU-NB - Last Day of Classes
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 instruction ends. Also the last day t
+ abling is permitted in dining halls.\n\nSOURCE: https://nbregistrar.rutger
+ s.edu/undergrad/f26ugcal.htm\n\n(Compiled 2026-08-10. Verify before acting
+ .)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-readingdays-d1cca20767@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261215
+SUMMARY:[minor] RU-NB - Reading Days
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nReading days Dec 11 and Dec 14 (non-consecutive
+ \, split by the weekend). Dec 14 is also the last day to fully withdraw fr
+ om the university.\n\nSOURCE: https://nbregistrar.rutgers.edu/undergrad/f2
+ 6ugcal.htm\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-finalexamperiod-54fb7ad17a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261223
+SUMMARY:[MAJOR] RU-NB - Final Exam Period
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 final examinations.\n\nSOURCE: https:
+ //nbregistrar.rutgers.edu/undergrad/f26ugcal.htm\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-wintersessionbeginswinte-9af63a84e0@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270101
+SUMMARY:[minor] RU-NB - Winter Session begins / Winter Recess
+LOCATION:Rutgers-New Brunswick
+DESCRIPTION:SCALE: minor\n\nWinter Session begins Dec 23\; winter recess De
+ c 25 - Jan 18. NOTE: Rutgers-NB holds no December commencement - degrees a
+ re conferred Jan 18\, 2027 administratively\, with one ceremony each May.\
+ n\nSOURCE: https://nbregistrar.rutgers.edu/undergrad/f26ugcal.htm\n\n(Comp
+ iled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvsumasspo-4524a7860e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T220000Z
+DTEND:20260904T013000Z
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. UMass (postgame fireworks)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nHome opener with postgame fireworks and Youth S
+ ports Knight.\n\nOUTREACH NOTE: Large mixed student/community crowd.\n\nSO
+ URCE: https://scarletknights.com/\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-aaccwelcomebacksocial262-a8832b568f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T200000Z
+DTEND:20260904T230000Z
+SUMMARY:[minor] RU-NB - AACC Welcome Back Social 26-27
+LOCATION:Asian American Cultural Center\, 49 Joyce Kilmer Ave
+DESCRIPTION:SCALE: minor\n\nSemester welcome social hosted by the Asian Ame
+ rican Cultural Center.\n\nSOURCE: https://www.rutgers.edu/events\n\n(Compi
+ led 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-rutgersglobalexpo-b33abed347@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T190000Z
+DTEND:20260909T220000Z
+SUMMARY:[minor] RU-NB - Rutgers Global Expo
+LOCATION:Rutgers Global-ISSS\, 180 College Ave
+DESCRIPTION:SCALE: minor\n\nResource expo for international students run by
+  Rutgers Global.\n\nOUTREACH NOTE: Table-format event aimed at internation
+ al students.\n\nSOURCE: https://www.rutgers.edu/events\n\n(Compiled 2026-0
+ 8-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-rutgersmeetsjapanacelebr-2c80c897d8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:[MAJOR] RU-NB - Rutgers Meets Japan: A Celebration of Friendship
+LOCATION:Kirkpatrick Chapel
+DESCRIPTION:SCALE: MAJOR\n\nCultural celebration. TIME CONFLICT: Zimmerli l
+ ists 2:00-8:00pm\, Rutgers Global lists 3:00-5:00pm - entered as all-day p
+ ending resolution.\n\nSOURCE: https://www.rutgers.edu/events\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-constitutiondayconversat-694d225347@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:[MAJOR] RU-NB - Constitution Day Conversation 2026 - Akhil Reed Ama
+ r
+LOCATION:Venue TBD
+DESCRIPTION:SCALE: MAJOR\n\nConstitutional scholar Akhil Reed Amar. Time an
+ d venue not published.\n\nSOURCE: https://www.rutgers.edu/events\n\n(Compi
+ led 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvsuscnewj-ae293deb27@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260919T193000Z
+DTEND:20260919T230000Z
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. USC (New Jersey Day / Scarlet
+  Out\, CBS)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nNationally televised Big Ten game\; Scarlet Out
+  promotion.\n\nSOURCE: https://scarletknights.com/\n\n(Compiled 2026-08-10
+ . Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-rutgerssymphonyorchestra-36339c9209@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260920T210000Z
+DTEND:20260920T230000Z
+SUMMARY:[minor] RU-NB - Rutgers Symphony Orchestra Opening Night
+LOCATION:Nicholas Music Center
+DESCRIPTION:SCALE: minor\n\nOpening concert of the Mason Gross orchestral s
+ eason.\n\nSOURCE: https://www.rutgers.edu/events\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvshowardr-645a23feed@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260925T230000Z
+DTEND:20260926T023000Z
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Howard (R Community Day)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nSir Henry's Birthday Bash and R Community Day\;
+  Eric LeGrand's A Walk to Believe.\n\nSOURCE: https://scarletknights.com/\
+ n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ultimodomingohispanicher-9156937ab3@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:[minor] RU-NB - Ultimo Domingo: Hispanic Heritage Month
+LOCATION:Zimmerli Art Museum\, 71 Hamilton St
+DESCRIPTION:SCALE: minor\n\nFree public Hispanic Heritage Month programming
+ .\n\nSOURCE: https://zimmerli.rutgers.edu/events\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-homecomingfamilyweekend-585e3e8702@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261005
+SUMMARY:[MAJOR] RU-NB - Homecoming & Family Weekend
+LOCATION:Campus-wide
+DESCRIPTION:SCALE: MAJOR\n\nUmbrella dates confirmed by homecoming.rutgers.
+ edu\, family.rutgers.edu and Athletics. The event-by-event schedule is NOT
+  yet published. WARNING: the SCA page still advertises 'October 16-19' wit
+ h Bed Races Oct 16 - that is stale 2025 content.\n\nOUTREACH NOTE: Highest
+ -density weekend of the fall for students plus families. Contact ruparents
+ @echo.rutgers.edu.\n\nSOURCE: https://homecoming.rutgers.edu/\n\n(Compiled
+  2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-therutgersboardwalkhomec-f0cc767f73@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261003T200000Z
+DTEND:20261004T000000Z
+SUMMARY:[MAJOR] RU-NB - The Rutgers Boardwalk (Homecoming)
+LOCATION:SHI Stadium boardwalk area\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nFree rides\, games and live entertainment\, ope
+ ning roughly four hours before kickoff.\n\nOUTREACH NOTE: Free\, open-acce
+ ss\, festival format - the most approachable homecoming component.\n\nSOUR
+ CE: https://homecoming.rutgers.edu/\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvsindiana-659f5c4232@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261004T000000Z
+DTEND:20261004T033000Z
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Indiana (Homecoming)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nHomecoming game. Ticketed tailgate 5:00-7:00pm 
+ at the Rodkin Academic Success Center Patio.\n\nSOURCE: https://scarletkni
+ ghts.com/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-5thannualrutgersneuroacc-7903849836@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261009T130000Z
+DTEND:20261009T200000Z
+SUMMARY:[MAJOR] RU-NB - 5th Annual Rutgers NeuroAccessibility Summit
+LOCATION:College Ave Student Center\, MPR / Main Lounge
+DESCRIPTION:SCALE: MAJOR\n\nFull-day summit during Disability Awareness Mon
+ th\, which Rutgers treats as a first-class October category.\n\nSOURCE: ht
+ tps://www.rutgers.edu/events\n\n(Compiled 2026-08-10. Verify before acting
+ .)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-njmonumentstomigrationan-ad5cb27def@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261016T143000Z
+DTEND:20261016T213000Z
+SUMMARY:[MAJOR] RU-NB - NJ Monuments to Migration and Labor Conference
+LOCATION:Venue TBD (Zimmerli-hosted)
+DESCRIPTION:SCALE: MAJOR\n\nDay-long public conference.\n\nSOURCE: https://
+ zimmerli.rutgers.edu/events\n\n(Compiled 2026-08-10. Verify before acting.
+ )
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ultimodomingodiadelosmue-3ee30cdeea@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:[minor] RU-NB - Ultimo Domingo: Dia de los Muertos
+LOCATION:Zimmerli Art Museum\, 71 Hamilton St
+DESCRIPTION:SCALE: minor\n\nFree public Day of the Dead programming.\n\nSOU
+ RCE: https://zimmerli.rutgers.edu/events\n\n(Compiled 2026-08-10. Verify b
+ efore acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvsmichiga-edb1363469@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Michigan (Halloween On the Ba
+ nks)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nHalloween-themed home game. Kickoff TBA under t
+ he Big Ten 6/12-day window - set roughly two weeks prior.\n\nSOURCE: https
+ ://scarletknights.com/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvsnebrask-aca4229c07@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Nebraska (Military Appreciati
+ on)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nMilitary Appreciation game. Kickoff TBA.\n\nSOU
+ RCE: https://scarletknights.com/\n\n(Compiled 2026-08-10. Verify before ac
+ ting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-rutgerscommunityfarmersm-b81199c32b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261122T140000Z
+DTEND:20261122T200000Z
+SUMMARY:[minor] RU-NB - Rutgers Community Farmers Market - final day
+LOCATION:Location not specified
+DESCRIPTION:SCALE: minor\n\nLast farmers market of the season.\n\nSOURCE: h
+ ttps://www.rutgers.edu/events\n\n(Compiled 2026-08-10. Verify before actin
+ g.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-footballrutgersvsmichiga-ae9744afb3@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Michigan State (Holiday Fest 
+ / Senior Day)
+LOCATION:SHI Stadium\, Piscataway
+DESCRIPTION:SCALE: MAJOR\n\nFinal home game of the season. Kickoff TBA.\n\n
+ SOURCE: https://scarletknights.com/\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-zimmerlistudybreak-1dbc3409be@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261211T160000Z
+DTEND:20261212T010000Z
+SUMMARY:[minor] RU-NB - Zimmerli Study Break
+LOCATION:Zimmerli Art Museum\, 71 Hamilton St
+DESCRIPTION:SCALE: minor\n\nFinals-week study break with free museum access
+ .\n\nSOURCE: https://zimmerli.rutgers.edu/events\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryoasischurchrocof-036cca9af4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260913T153000Z
+DTEND:20260913T180000Z
+SUMMARY:[MAJOR] RU-NB - MINISTRY: Oasis Church / ROC - Official Re-Launch S
+ ervice
+LOCATION:100 College Ave\, New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nFree brunch 11:30am\, service 12:00pm. Post pub
+ lished 2026-07-02 and updated 07-18\, so genuinely current for 2026.\n\nSO
+ URCE: https://oasis-church-nj.com/piscataway-non-denominational-church-re-
+ launch-sept-13/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryrcccmissionsconf-5d87fc239f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:[MAJOR] RU-NB - MINISTRY: RCCC Missions Conference (R8 college mini
+ stry)
+LOCATION:Rutgers Community Christian Church\, 71 Cedar Grove Ln\, Somerset
+DESCRIPTION:SCALE: MAJOR\n\nChurch-wide missions conference\; R8 is RCCC's 
+ college ministry. Times not published.\n\nSOURCE: https://ec.rccc.org/mini
+ stries/r8-college-ministry/\n\n(Compiled 2026-08-10. Verify before acting.
+ )
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryruffridaynightfe-86c8e46dd0@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T220000Z
+DTEND:20260905T000000Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
+SUMMARY:[MAJOR] RU-NB - MINISTRY: RUF Friday Night Fellowship (weekly)
+LOCATION:Livingston Student Center\, Room 201
+DESCRIPTION:SCALE: MAJOR\n\nReformed University Fellowship large group\, we
+ ekly on Fridays. RUF is the best-documented Christian ministry at Rutgers-
+ NB. Campus minister Joe Fischer\, joe.fischer@ruf.org. Family Groups also 
+ meet Mon 7:30pm Cook\, Tue 7:00pm College Ave (first-years)\, Wed 7:30pm C
+ ollege Ave\, Thu 7:30pm Busch.\n\nOUTREACH NOTE: Weekly recurring - the me
+ eting pattern is published but individual fall dates are not. Confirm befo
+ re attending.\n\nSOURCE: https://ruf.org/ministry/rutgers-university/\n\n(
+ Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryrutgerscatholicc-b6bae60739@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260906T220000Z
+DTEND:20260906T233000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261214T045959Z
+SUMMARY:[MAJOR] RU-NB - MINISTRY: Rutgers Catholic Center - Sunday Student 
+ Mass (weekly)
+LOCATION:St. Peter the Apostle Parish\, 94 Somerset St
+DESCRIPTION:SCALE: MAJOR\n\n6pm Sunday Mass followed by student dinner. NOT
+ E: the Rutgers directory lists the Catholic Center at 17 Mine St while the
+ ir own site says 84 Somerset St - unresolved.\n\nSOURCE: https://www.rutge
+ rscatholic.org/get-involved\n\n(Compiled 2026-08-10. Verify before acting.
+ )
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryknightfirerutger-11046a5160@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T233000Z
+DTEND:20260904T013000Z
+RRULE:FREQ=MONTHLY;BYDAY=1TH;UNTIL=20261204T045959Z
+SUMMARY:[MAJOR] RU-NB - MINISTRY: Knightfire (Rutgers Catholic\, first Thur
+ sday monthly)
+LOCATION:St. Peter's Parish Hall\, New Brunswick
+DESCRIPTION:SCALE: MAJOR\n\nMonthly large-group gathering: speaker\, share 
+ groups\, worship. First Thursday of every month.\n\nSOURCE: https://www.ru
+ tgerscatholic.org/get-involved\n\n(Compiled 2026-08-10. Verify before acti
+ ng.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministrycampuslightcolle-b42e2c3b9d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T000000Z
+DTEND:20260902T020000Z
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261209T045959Z
+SUMMARY:[MAJOR] RU-NB - MINISTRY: Campus Light College Church - CL Tuesdays
+  (weekly)
+LOCATION:Murray Hall 213\, College Avenue Campus
+DESCRIPTION:SCALE: MAJOR\n\nWeekly large group of Campus Light\, a recogniz
+ ed Rutgers chaplaincy and the Rutgers arm of the Acts2 Network. Their home
+ page carries a 'Welcome c/o 2030!' banner. Pastor Jon Kim\, jonathan.kim@a
+ cts2.network. NOTE: Gracepoint no longer exists as a brand here - gracepoi
+ ntonline.org/new-brunswick-nj redirects to 'Gracepoint is now Acts2 Networ
+ k'.\n\nOUTREACH NOTE: Sunday service time is contradictory across their ow
+ n pages (10am vs 11am at 34 Wills Way\, Piscataway\, with an implied summe
+ r-only venue). Confirm before referring anyone.\n\nSOURCE: https://www.cam
+ puslight.org/get-involved\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministrygracecommunitych-7f4faa123d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T010000Z
+DTEND:20260902T023000Z
+RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20261211T045959Z
+SUMMARY:[minor] RU-NB - MINISTRY: Grace Community Chapel college ministry (
+ twice weekly)
+LOCATION:On campus\, venue not published
+DESCRIPTION:SCALE: minor\n\nCollege ministry meets at Rutgers every Tuesday
+  and Thursday at 9:00pm. Venue unpublished. hello@gccnj.org\n\nSOURCE: htt
+ ps://gccnj.org/college/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryorthodoxchristia-96da79e024@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260903T230000Z
+DTEND:20260904T003000Z
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261211T045959Z
+SUMMARY:[minor] RU-NB - MINISTRY: Orthodox Christian Campus Ministry - Spir
+ itual Sermon (weekly)
+LOCATION:Douglass Student Center\, Blue Room
+DESCRIPTION:SCALE: minor\n\nWeekly Thursday sermon and fellowship. rutgersn
+ b@occministries.org\n\nSOURCE: https://www.occmrutgers.com/events\n\n(Comp
+ iled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministryr8rcccyoungadult-af7f7a7673@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260905T000000Z
+DTEND:20260905T020000Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
+SUMMARY:[minor] RU-NB - MINISTRY: R8 / RCCC Young Adult Fellowship (weekly)
+LOCATION:71 Cedar Grove Ln\, Somerset
+DESCRIPTION:SCALE: minor\n\nR8 college ministry and Young Adult Fellowship 
+ meet Fridays. r8@rccc.org. Page metadata is from 2022 - long-standing but 
+ worth confirming.\n\nSOURCE: https://ec.rccc.org/ministries/r8-college-min
+ istry/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministrycornerstonechine-a4ea9830fa@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260906T140000Z
+DTEND:20260906T170000Z
+RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261214T045959Z
+SUMMARY:[minor] RU-NB - MINISTRY: Cornerstone / Chinese Christian Church So
+ merset - Rutgers shuttle (weekly)
+LOCATION:758 Hamilton St\, Somerset (shuttle from all 5 campuses)
+DESCRIPTION:SCALE: minor\n\nStudy of the Word 10:00am\, Worship 11:30am. Fr
+ ee Rutgers shuttle every Sunday morning from College Ave\, Busch\, Cook\, 
+ Douglass and Livingston - their primary student pipeline. cornerstone@cccs
+ -nj.org\, 732-249-4226.\n\nSOURCE: https://cornerstonesomerset.org/contact
+ #RU_Shuttle\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-ministrychaplaincyregist-74e8057ceb@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:[MAJOR] RU-NB - MINISTRY: Chaplaincy registration open for AY 2026-
+ 27
+LOCATION:Off-Campus Living & Community Initiatives\, 39 Union St
+DESCRIPTION:SCALE: MAJOR\n\nRutgers recognizes 25+ chaplaincies and 40+ rel
+ igious student organizations through a Multifaith Council. Registration fo
+ r 2026-27 is OPEN with no stated deadline. Recognized chaplaincy status pu
+ ts staff on campus in a chaplain role plus appointed student reps\; 'affil
+ iated congregation' is the lighter tier. NOTE: there is no Office of Relig
+ ious Life at Rutgers-NB - religiouslife.rutgers.edu returns empty.\n\nOUTR
+ EACH NOTE: ACTION: this is the structural route to campus access for a chu
+ rch or ministry. RUoffcampus@echo.rutgers.edu\, 848-932-5500.\n\nSOURCE: h
+ ttps://rutgers.ca1.qualtrics.com/jfe/form/SV_8ksDCZxgaeNNT1k\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-actioninvolvementfairspo-bdad34dd51@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:[MAJOR] RU-NB - [ACTION] Involvement Fair sponsorship - effectively
+  closing
+LOCATION:Online
+DESCRIPTION:SCALE: MAJOR\n\n2026-27 Involvement Fair sponsorship applicatio
+ ns are open with NO stated deadline\, but the fair is Aug 30 - treat this 
+ as closing within days. The fair itself is closed to non-student groups\; 
+ sponsorship is the only way in.\n\nOUTREACH NOTE: involvementfair@echo.rut
+ gers.edu\n\nSOURCE: https://rutgers.ca1.qualtrics.com/jfe/form/SV_6lqc6AVJ
+ F635KHY\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-nb-dininghalltablingblackou-2da12c5d2a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260912
+SUMMARY:[minor] RU-NB - Dining hall tabling BLACKOUT (first two weeks)
+LOCATION:All dining halls
+DESCRIPTION:SCALE: minor\n\nNo tabling permitted in Rutgers dining halls du
+ ring the first two weeks of the fall semester. Also blacked out on the las
+ t day of classes (Dec 10). Only recognized student organizations may reser
+ ve tables at any time\, via a soliciting permit.\n\nOUTREACH NOTE: Plan ar
+ ound this. Outdoor/open space requests go to Student Centers and Involveme
+ nt instead\, not Dining.\n\nSOURCE: https://food.rutgers.edu/about-us/tabl
+ e-permits\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-NB\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

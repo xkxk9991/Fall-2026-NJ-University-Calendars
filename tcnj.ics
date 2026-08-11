@@ -1,0 +1,652 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TCNJ - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:tcnj-dropgoearlybelongingsdro-d2cb925e8b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260820
+SUMMARY:[minor] TCNJ - Drop & Go (early belongings drop-off)
+LOCATION:Residence halls\, TCNJ
+DESCRIPTION:SCALE: minor\n\nEarly belongings drop-off window ahead of Welco
+ me Week.\n\nSOURCE: https://housing.tcnj.edu/fall-move-in/\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-newstudentmoveinfreshmen-cbbadf8d99@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260820T123000Z
+DTEND:20260820T173000Z
+SUMMARY:[MAJOR] TCNJ - New Student Move-In (freshmen / transfer / internati
+ onal)
+LOCATION:Various residence halls\, TCNJ
+DESCRIPTION:SCALE: MAJOR\n\nNew student move-in with assigned timeslots 8:3
+ 0am-1:30pm\; general move-in from 9:00am ongoing.\n\nOUTREACH NOTE: Peak f
+ amily traffic day.\n\nSOURCE: https://housing.tcnj.edu/fall-move-in/\n\n(C
+ ompiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-welcomeweekkickoffmeetin-a575023684@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260820T180000Z
+DTEND:20260820T184500Z
+SUMMARY:[MAJOR] TCNJ - Welcome Week Kick-Off Meeting (All Students)
+LOCATION:Various residence halls\, or Brower Student Center for Campus Town
+  / commuter / transfer students
+DESCRIPTION:SCALE: MAJOR\n\nMeet Transition Leaders and review the Welcome 
+ Week schedule.\n\nSOURCE: https://studenttransitions.tcnj.edu/wp-content/u
+ ploads/sites/98/2026/08/2026-Welcome-Week-Schedule-What-to-Expect.pdf\n\n(
+ Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-commuterpizzadinner-96e7802463@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260820T200000Z
+DTEND:20260820T220000Z
+SUMMARY:[minor] TCNJ - Commuter Pizza Dinner
+LOCATION:Sundial Lawn
+DESCRIPTION:SCALE: minor\n\nPizza dinner for commuting students only. (Sour
+ ce: Welcome Week webpage\, not the schedule PDF.)\n\nOUTREACH NOTE: Small\
+ , self-selecting commuter audience.\n\nSOURCE: https://studenttransitions.
+ tcnj.edu/welcome-week/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-dinnerdayone-88e04b8929@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260820T200000Z
+DTEND:20260820T230000Z
+SUMMARY:[minor] TCNJ - Dinner (Day One)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nFirst meals on campus\; TCNJ ID required.\n\nSO
+ URCE: https://studenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026
+ /08/2026-Welcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10.
+  Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorycommunityfloorm-b4225e1c55@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260820T210000Z
+DTEND:20260820T230000Z
+SUMMARY:[minor] TCNJ - MANDATORY Community Floor Meetings (Day One)
+LOCATION:Various residence halls
+DESCRIPTION:SCALE: minor\n\nMeet your Community Advisor and floor community
+ \; specific times vary by CA.\n\nSOURCE: https://studenttransitions.tcnj.e
+ du/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-Schedule-What-to-
+ Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-breakfastdaytwo-53a1b599f7@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T110000Z
+DTEND:20260821T130000Z
+SUMMARY:[minor] TCNJ - Breakfast (Day Two)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nBreakfast service.\n\nSOURCE: https://studenttr
+ ansitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-S
+ chedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorysessiononebrave-39cfaa5325@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T133000Z
+DTEND:20260821T191500Z
+SUMMARY:[MAJOR] TCNJ - MANDATORY Session One - 'Brave Enough to Belong'
+LOCATION:Brower Student Center\, Room 100
+DESCRIPTION:SCALE: MAJOR\n\nInteractive session on identity\, storytelling 
+ and building inclusive community. Students are assigned ONE slot: 9:30-10:
+ 45am\, 11:00am-12:15pm\, 12:30-1:45pm or 2:00-3:15pm - this entry spans th
+ e full window. TITLE CONFLICT: the PDF calls it 'Brave Enough to Belong\; 
+ Conversations that Create Community'\; the webpage calls it 'Building Comm
+ unity Through Restorative Practices' with Mrs. Maryann Diaz. Unresolved.\n
+ \nSOURCE: https://studenttransitions.tcnj.edu/wp-content/uploads/sites/98/
+ 2026/08/2026-Welcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08
+ -10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-lunchdaytwo-f937cbdcb0@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T150000Z
+DTEND:20260821T170000Z
+SUMMARY:[minor] TCNJ - Lunch (Day Two)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nLunch service.\n\nSOURCE: https://studenttransi
+ tions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-Sched
+ ule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorysessiontwocanik-4b5ef2eda6@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T163000Z
+DTEND:20260821T204000Z
+SUMMARY:[MAJOR] TCNJ - MANDATORY Session Two - 'Can I Kiss You?'
+LOCATION:Kendall Hall Main Stage
+DESCRIPTION:SCALE: MAJOR\n\nNational speaker Mike Domitrz on consent\, resp
+ ect and bystander intervention\, hosted by the Office of Anti-Violence Ini
+ tiatives. Assigned slots: 12:30-1:30pm\, 2:00-3:00pm or 3:30-4:40pm - this
+  entry spans the full window.\n\nSOURCE: https://studenttransitions.tcnj.e
+ du/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-Schedule-What-to-
+ Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-dinnerdaytwo-aa471ec398@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T200000Z
+DTEND:20260821T230000Z
+SUMMARY:[minor] TCNJ - Dinner (Day Two)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nDinner service.\n\nSOURCE: https://studenttrans
+ itions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-Sche
+ dule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorycommunityfloorm-0da21df7e6@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T210000Z
+DTEND:20260821T230000Z
+SUMMARY:[minor] TCNJ - MANDATORY Community Floor Meetings (Day Two)
+LOCATION:Various residence halls
+DESCRIPTION:SCALE: minor\n\nFloor community meetings.\n\nSOURCE: https://st
+ udenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome
+ -Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-playfairpremeeting-88f8686d3b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260821T230000Z
+DTEND:20260821T233000Z
+SUMMARY:[minor] TCNJ - PlayFair Pre-Meeting
+LOCATION:Various locations (commuter/transfer: Brower Student Center Room 1
+ 00E)
+DESCRIPTION:SCALE: minor\n\nPre-meeting ahead of PlayFair.\n\nSOURCE: https
+ ://studenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-We
+ lcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify bef
+ ore acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-playfair-684bec813e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260822T000000Z
+DTEND:20260822T020000Z
+SUMMARY:[MAJOR] TCNJ - PlayFair
+LOCATION:Lions Stadium
+DESCRIPTION:SCALE: MAJOR\n\nHigh-energy interactive TCNJ tradition\; hundre
+ ds of students in one place.\n\nSOURCE: https://studenttransitions.tcnj.ed
+ u/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-Schedule-What-to-E
+ xpect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-breakfastdaythree-b8a6c45c7e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260822T110000Z
+DTEND:20260822T130000Z
+SUMMARY:[minor] TCNJ - Breakfast (Day Three)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nBreakfast service.\n\nSOURCE: https://studenttr
+ ansitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-S
+ chedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-roscoechellanewstudentpi-ee94a7602f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260822T200000Z
+DTEND:20260822T230000Z
+SUMMARY:[MAJOR] TCNJ - Roscoe-Chella: New Student Picnic
+LOCATION:Trenton Hall Lawn
+DESCRIPTION:SCALE: MAJOR\n\nTCNJ's signature Welcome Week festival: live st
+ udent DJs\, lawn games\, inflatables\, interactive experiences. Dinner pro
+ vided here.\n\nOUTREACH NOTE: Outdoor festival format with interactive sta
+ tions - the most plausible non-fair activation opportunity of TCNJ Welcome
+  Week.\n\nSOURCE: https://studenttransitions.tcnj.edu/wp-content/uploads/s
+ ites/98/2026/08/2026-Welcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled
+  2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorycommunityfloorm-e859058ce5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260822T210000Z
+DTEND:20260822T230000Z
+SUMMARY:[minor] TCNJ - MANDATORY Community Floor Meetings (Day Three)
+LOCATION:Various residence halls
+DESCRIPTION:SCALE: minor\n\nFloor community meetings.\n\nSOURCE: https://st
+ udenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome
+ -Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-brunchdayfour-dd0d1c405b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260823T140000Z
+DTEND:20260823T160000Z
+SUMMARY:[minor] TCNJ - Brunch (Day Four)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nBrunch service\; meal plans begin.\n\nSOURCE: h
+ ttps://studenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/202
+ 6-Welcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify
+  before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorysessionthreeabe-6798868257@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260823T143000Z
+DTEND:20260823T184000Z
+SUMMARY:[MAJOR] TCNJ - MANDATORY Session Three - 'A Better High'
+LOCATION:Kendall Hall Main Stage
+DESCRIPTION:SCALE: MAJOR\n\nSpeaker Dr. Matt Bellace. Assigned slots: 10:30
+ -11:30am\, 12:00-1:00pm or 1:30-2:40pm - this entry spans the full window.
+ \n\nSOURCE: https://studenttransitions.tcnj.edu/wp-content/uploads/sites/9
+ 8/2026/08/2026-Welcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-
+ 08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-returningstudentmovein-4be4ae5fb3@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260823T160000Z
+DTEND:20260823T210000Z
+SUMMARY:[MAJOR] TCNJ - Returning Student Move-In
+LOCATION:Residence halls\, TCNJ
+DESCRIPTION:SCALE: MAJOR\n\nHalls reopen at 12:00pm\; students who did Drop
+  & Go can return any time after 1:00pm.\n\nSOURCE: https://housing.tcnj.ed
+ u/about-us/important-dates/\n\n(Compiled 2026-08-10. Verify before acting.
+ )
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-dinnerdayfour-dbd9dab785@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260823T200000Z
+DTEND:20260824T010000Z
+SUMMARY:[minor] TCNJ - Dinner (Day Four)
+LOCATION:Eickhoff Hall Atrium
+DESCRIPTION:SCALE: minor\n\nDinner service.\n\nSOURCE: https://studenttrans
+ itions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome-Week-Sche
+ dule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-mandatorycommunityfloorm-6851458d9f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260823T210000Z
+DTEND:20260823T230000Z
+SUMMARY:[minor] TCNJ - MANDATORY Community Floor Meetings (Day Four)
+LOCATION:Various residence halls
+DESCRIPTION:SCALE: minor\n\nFloor community meetings.\n\nSOURCE: https://st
+ udenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-Welcome
+ -Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-academicwelcomeday-bf40abb308@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260824T140000Z
+DTEND:20260824T200000Z
+SUMMARY:[MAJOR] TCNJ - Academic Welcome Day
+LOCATION:Various locations\, TCNJ
+DESCRIPTION:SCALE: MAJOR\n\nMandatory for ALL new students (first-year and 
+ transfer). Meet faculty and explore your academic school. 'More informatio
+ n to follow.'\n\nOUTREACH NOTE: Academic-school-segmented - the closest th
+ ing to a discipline-targeted audience during Welcome Week.\n\nSOURCE: http
+ s://studenttransitions.tcnj.edu/wp-content/uploads/sites/98/2026/08/2026-W
+ elcome-Week-Schedule-What-to-Expect.pdf\n\n(Compiled 2026-08-10. Verify be
+ fore acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-firstdayofclassesfall202-2a87ad5a0f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:[MAJOR] TCNJ - First Day of Classes - Fall 2026
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 classes begin.\n\nSOURCE: https://stu
+ denttransitions.tcnj.edu/welcome-week/\n\n(Compiled 2026-08-10. Verify bef
+ ore acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-deadlinetcnjcareerfairre-fc8df033c1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[MAJOR] TCNJ - [DEADLINE] TCNJ Career Fair regular registration end
+ s
+LOCATION:Online - Handshake
+DESCRIPTION:SCALE: MAJOR\n\nLast day for regular-rate employer registration
+  ($400 for-profit / $250 non-profit) for the TCNJ Fall Career and Internsh
+ ip Fair. Late window Sep 5-11 at $500/$350 if tables remain. Non-refundabl
+ e after today.\n\nOUTREACH NOTE: ACTION REQUIRED. Tables are limited and f
+ irst come\, first served.\n\nSOURCE: https://career.tcnj.edu/career-and-in
+ ternship-fair/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-tcnjfallcareerandinterns-db86f294ab@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260923T160000Z
+DTEND:20260923T190000Z
+SUMMARY:[MAJOR] TCNJ - TCNJ Fall Career and Internship Fair
+LOCATION:Brower Student Center\, TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nTCNJ's fall career and internship fair. Require
+ s active full-time and/or internship postings to register.\n\nOUTREACH NOT
+ E: THE ONLY OPEN VENDOR PATH AT TCNJ. The Student Involvement Fair is expl
+ icitly restricted to recognized Active RSOs - outside companies cannot tab
+ le and will be removed. Register via Handshake. The Career Center also run
+ s a Vendor/Resource Request Form at career.tcnj.edu/online-resources/vendo
+ r-resource-request-form/ for non-fair outreach.\n\nSOURCE: https://career.
+ tcnj.edu/career-and-internship-fair/\n\n(Compiled 2026-08-10. Verify befor
+ e acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-labordaynoclasses-3d918d7446@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[MAJOR] TCNJ - Labor Day - No Classes
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nNo classes. Sep 8 runs an alternate Monday sche
+ dule.\n\nSOURCE: https://academics.tcnj.edu/wp-content/uploads/sites/125/2
+ 026/07/FacultyInfoCal2026-2027.pdf\n\n(Compiled 2026-08-10. Verify before 
+ acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-fallbreak-f5aca32418@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261007
+SUMMARY:[MAJOR] TCNJ - Fall Break
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nTwo-day fall break.\n\nSOURCE: https://academic
+ s.tcnj.edu/wp-content/uploads/sites/125/2026/07/FacultyInfoCal2026-2027.pd
+ f\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-fall1stquarterends2ndqua-ae363c39ea@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+SUMMARY:[minor] TCNJ - Fall 1st quarter ends / 2nd quarter begins
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: minor\n\nQuarter transition\; mid-semester progress repo
+ rts due Oct 20.\n\nSOURCE: https://academics.tcnj.edu/wp-content/uploads/s
+ ites/125/2026/07/FacultyInfoCal2026-2027.pdf\n\n(Compiled 2026-08-10. Veri
+ fy before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-springsummer2027registra-a96f530f1e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261114
+SUMMARY:[minor] TCNJ - Spring/Summer 2027 registration
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: minor\n\nRegistration windows for spring and summer 2027
+ .\n\nSOURCE: https://academics.tcnj.edu/wp-content/uploads/sites/125/2026/
+ 07/FacultyInfoCal2026-2027.pdf\n\n(Compiled 2026-08-10. Verify before acti
+ ng.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-thanksgivingbreak-0852e5b150@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:[MAJOR] TCNJ - Thanksgiving Break
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nThree-day Thanksgiving break.\n\nSOURCE: https:
+ //academics.tcnj.edu/wp-content/uploads/sites/125/2026/07/FacultyInfoCal20
+ 26-2027.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-lastdayofclassesundergra-a737dec8f7@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:[MAJOR] TCNJ - Last Day of Classes (undergraduate)
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nTCNJ ends earliest of the seven schools - it al
+ so started earliest\, on Aug 25.\n\nSOURCE: https://academics.tcnj.edu/wp-
+ content/uploads/sites/125/2026/07/FacultyInfoCal2026-2027.pdf\n\n(Compiled
+  2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-readingdaysandfinalexams-c80da271a8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261216
+SUMMARY:[MAJOR] TCNJ - Reading Days and Final Exams
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: MAJOR\n\nUnusually interleaved: reading days Dec 5-8 (to
+  5pm)\, exams Dec 8 (5pm) - Dec 11 (8pm)\, reading days resume Dec 12-13\,
+  exams resume Dec 14-15 (to 5pm). Graduate classes end Dec 15.\n\nSOURCE: 
+ https://academics.tcnj.edu/wp-content/uploads/sites/125/2026/07/FacultyInf
+ oCal2026-2027.pdf\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-falldegreeconferral-a595324f12@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[minor] TCNJ - Fall degree conferral
+LOCATION:TCNJ\, Ewing NJ
+DESCRIPTION:SCALE: minor\n\nGrades due and fall degrees conferred. NOTE: no
+  winter commencement - ceremonies are Spring only (May 20-21\, 2027). Wint
+ er session begins Dec 21.\n\nSOURCE: https://academics.tcnj.edu/wp-content
+ /uploads/sites/125/2026/07/FacultyInfoCal2026-2027.pdf\n\n(Compiled 2026-0
+ 8-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-homecomingandfamilyday-66ae96cf57@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261010T133000Z
+DTEND:20261010T210000Z
+SUMMARY:[MAJOR] TCNJ - Homecoming and Family Day
+LOCATION:Sundial Lawn / Lions Stadium / Brower Student Center
+DESCRIPTION:SCALE: MAJOR\n\nSingle combined day: football\, women's soccer\
+ , Concert on the Steps\, Homecoming Fest\, Lion Royalty at halftime. Alumn
+ i Homecoming Fest tailgate runs roughly 12-4pm in Lots 3-4 with DJ\, food 
+ trucks and a family zone. WARNING: alumnihomecoming.tcnj.edu and homecomin
+ g.tcnj.edu still show the 2025 event (Sat Oct 11) - do not use those dates
+ .\n\nOUTREACH NOTE: Highest-density day of the fall at TCNJ - students plu
+ s families plus alumni.\n\nSOURCE: https://parents.tcnj.edu/parent-family-
+ day/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-fallleadershipconference-e1d1930fc1@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261017
+SUMMARY:[minor] TCNJ - Fall Leadership Conference
+LOCATION:Brower Student Center 100W + virtual
+DESCRIPTION:SCALE: minor\n\nWeek-long leadership conference. 2026 DATES UNP
+ UBLISHED - the range shown is the 2025 pattern (Oct 13-16) and is inferenc
+ e\, not confirmed.\n\nSOURCE: https://leadership.tcnj.edu/fall-leadership-
+ conference/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-ministrytcnjhasexactlyth-184d2be840@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] TCNJ - MINISTRY: TCNJ has exactly three Christian student o
+ rgs
+LOCATION:The Spiritual Center\, TCNJ
+DESCRIPTION:SCALE: MAJOR\n\nVerified against TCNJ's own RSO database. (1) C
+ atholic Campus Ministry\, ccm@tcnj.edu\, @ccm.tcnj - on-campus Mass\, serv
+ ice projects\, Food Recovery Network food drives. (2) New Jersey Christian
+  Fellowship (NJCF)\, njcf@tcnj.edu\, @njchristianfellowship - Bible studie
+ s\, large groups\, game nights\, retreats\; the most likely partner for st
+ udent-facing outreach. (3) Orthodox Christian Fellowship\, ocf@tcnj.edu\, 
+ @tcnjocf. Office: Religious & Spiritual Life\, contact Nicole Harris\, har
+ risn@tcnj.edu. CONFIRMED ABSENT at TCNJ: Cru\, InterVarsity\, Chi Alpha\, 
+ Navigators\, and any Korean/Chinese/Asian-American Christian fellowship. N
+ o Newman Center branding - CCM is the Catholic vehicle.\n\nOUTREACH NOTE: 
+ None publish meeting schedules on tcnj.edu. Instagram is the live channel\
+ ; direct email is the reliable route.\n\nSOURCE: https://religiousandspiri
+ tuallife.tcnj.edu/groups/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-deadlinetcnjcareerfairla-2aba3e487d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260912
+SUMMARY:[minor] TCNJ - [DEADLINE] TCNJ Career Fair late registration window
+LOCATION:Online - Handshake
+DESCRIPTION:SCALE: minor\n\nLate registration $500 for-profit / $350 non-pr
+ ofit\, Sep 5-11\, only if space remains. Non-refundable after Sep 4.\n\nSO
+ URCE: https://career.tcnj.edu/career-and-internship-fair/\n\n(Compiled 202
+ 6-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-prepareforthecareerfairs-4eb9b73862@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260916T170000Z
+DTEND:20260916T190000Z
+SUMMARY:[minor] TCNJ - Prepare for the Career Fair (student prep session)
+LOCATION:ED 212\, TCNJ
+DESCRIPTION:SCALE: minor\n\nStudent drop-in prep session ahead of the Sep 2
+ 3 fair. Not an employer slot\, but indicates when student attention peaks.
+ \n\nSOURCE: https://career.tcnj.edu/\n\n(Compiled 2026-08-10. Verify befor
+ e acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcnj-externaltablinguseofcamp-6c38ab7411@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] TCNJ - External tabling: Use of Campus Property Policy
+LOCATION:Conference & Event Services\, TCNJ
+DESCRIPTION:SCALE: minor\n\nExternal tabling is governed by TCNJ's Use of C
+ ampus Property Policy\, which explicitly covers 'members of the general pu
+ blic' and comes with a campus-property map and application form on PolicyS
+ tat. Event logistics go through Conference & Event Services at ces.tcnj.ed
+ u. Ops contact erdiei1@tcnj.edu\, 609-771-3353. Separately\, the Career Ce
+ nter's Vendor/Resource Request Form gets a resource listed on their site -
+  it is NOT a tabling permit.\n\nOUTREACH NOTE: The Career Center refuses c
+ ommission-only\, MLM\, upfront-fee\, home-based and international-position
+  employers - check Nascent Materials' framing against that list. New emplo
+ yer contact: Joseph Pietromonico.\n\nSOURCE: https://ces.tcnj.edu/\n\n(Com
+ piled 2026-08-10. Verify before acting.)
+CATEGORIES:TCNJ\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

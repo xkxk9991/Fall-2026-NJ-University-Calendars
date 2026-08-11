@@ -1,0 +1,908 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NJIT - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:njit-transferstudentorientati-f0050f5c61@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[MAJOR] NJIT - Transfer Student Orientation (TSO) - Fall session
+LOCATION:Location not published
+DESCRIPTION:SCALE: MAJOR\n\nIn-person transfer orientation with orientation
+  leaders and departmental reps covering campus resources. TIME NOT PUBLISH
+ ED.\n\nSOURCE: https://www.njit.edu/orientation/TSOFall\n\n(Compiled 2026-
+ 08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-firstyearinternationalou-17249d9f92@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260824T160000Z
+DTEND:20260824T203000Z
+SUMMARY:[minor] NJIT - First-Year International & Out-of-State Early Reside
+ nce Check-In
+LOCATION:Assigned residence building office
+DESCRIPTION:SCALE: minor\n\nEarly hall check-in for students attending the 
+ Aug 25 NSO 1.0 session.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-
+ move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nso10internationalandout-50f5744f11@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260825T131500Z
+DTEND:20260825T183000Z
+SUMMARY:[MAJOR] NJIT - NSO 1.0 - International and Out-of-State Students (A
+ ll Majors)
+LOCATION:Location not published
+DESCRIPTION:SCALE: MAJOR\n\nMandatory on-campus orientation: welcome to NJI
+ T\, curriculum overview with an academic advisor\, student panel.\n\nSOURC
+ E: https://www.njit.edu/orientation/NSOFall\n\n(Compiled 2026-08-10. Verif
+ y before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-firsttimefirstyearmovein-a59dd5ed7a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260826T130000Z
+DTEND:20260826T200000Z
+SUMMARY:[MAJOR] NJIT - First-Time First-Year Move-In (Day 1)
+LOCATION:Cypress\, Redwood\, Honors floors 0/2/4/6/8\, first-year LLCs in M
+ aple Hall
+DESCRIPTION:SCALE: MAJOR\n\nMove-in by last name 9am-4pm\; unscheduled arri
+ vals 7-9pm. Peak family traffic day.\n\nSOURCE: https://www.njit.edu/resli
+ fe/fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-familybbqmoveinday1-606d07bd1c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260826T200000Z
+DTEND:20260826T220000Z
+SUMMARY:[minor] NJIT - Family BBQ (Move-In Day 1)
+LOCATION:Lower Green
+DESCRIPTION:SCALE: minor\n\nCookout for new students and their families on 
+ move-in day.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(Co
+ mpiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-acaikaraoke-531da65f11@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260826T223000Z
+DTEND:20260827T010000Z
+SUMMARY:[minor] NJIT - Acai & Karaoke
+LOCATION:Honors Green
+DESCRIPTION:SCALE: minor\n\nAcai bowls and karaoke social.\n\nSOURCE: https
+ ://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify bef
+ ore acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-rhanrhhoutdoormovienight-9a85289047@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T010000Z
+DTEND:20260827T030000Z
+SUMMARY:[minor] NJIT - RHA/NRHH Outdoor Movie Night
+LOCATION:Lower Green
+DESCRIPTION:SCALE: minor\n\nOutdoor movie hosted by the Residence Hall Asso
+ ciation and National Residence Hall Honorary.\n\nSOURCE: https://www.njit.
+ edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-firsttimefirstyearmovein-618985240f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T130000Z
+DTEND:20260827T200000Z
+SUMMARY:[MAJOR] NJIT - First-Time First-Year Move-In (Day 2)
+LOCATION:Cypress & Redwood floors 1/3/5/7
+DESCRIPTION:SCALE: MAJOR\n\nSecond move-in day\, same time slots. Unschedul
+ ed arrivals 7-9pm.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-move\
+ n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-careerdevelopmentservice-16b93a920f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T180000Z
+DTEND:20260827T200000Z
+SUMMARY:[minor] NJIT - Career Development Services (CDS) Open House
+LOCATION:Fenster Hall\, Room 400
+DESCRIPTION:SCALE: minor\n\nCareer center open house for new students.\n\nO
+ UTREACH NOTE: Highest-relevance non-fair touchpoint during move-in week. W
+ orth an intro email to Career Development Services.\n\nSOURCE: https://www
+ .njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify before ac
+ ting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-albertdormanhonorscolleg-d2628a7966@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:[minor] NJIT - Albert Dorman Honors College First-Year Scholar Retr
+ eat
+LOCATION:Location not published
+DESCRIPTION:SCALE: minor\n\nRequired for incoming Honors College scholars\,
+  in addition to NSO 1.0 and 2.0. TIME NOT PUBLISHED.\n\nSOURCE: https://ww
+ w.njit.edu/orientation/NSOFall\n\n(Compiled 2026-08-10. Verify before acti
+ ng.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-familybbqmoveinday2-5e394466b4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T200000Z
+DTEND:20260827T220000Z
+SUMMARY:[minor] NJIT - Family BBQ (Move-In Day 2)
+LOCATION:Lower Green
+DESCRIPTION:SCALE: minor\n\nCookout for new students and their families.\n\
+ nSOURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-
+ 10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-hallmeetings-d804d640e4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T213000Z
+DTEND:20260827T230000Z
+SUMMARY:[minor] NJIT - Hall Meetings
+LOCATION:See your RA for location
+DESCRIPTION:SCALE: minor\n\nFirst residence hall floor meetings.\n\nSOURCE:
+  https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Veri
+ fy before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-goalsgrubmenssoccergame-71af34c250@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T220000Z
+DTEND:20260828T000000Z
+SUMMARY:[minor] NJIT - Goals & Grub - Men's Soccer Game
+LOCATION:Athletic Field
+DESCRIPTION:SCALE: minor\n\nFood plus the men's soccer match.\n\nSOURCE: ht
+ tps://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify 
+ before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nrhhpindodgeball-66cc4dc7a2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T010000Z
+DTEND:20260828T030000Z
+SUMMARY:[minor] NJIT - NRHH Pin Dodgeball
+LOCATION:Wellness & Events Center (WEC) Basketball Courts
+DESCRIPTION:SCALE: minor\n\nDodgeball tournament hosted by NRHH.\n\nSOURCE:
+  https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Veri
+ fy before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-upperclasstransfergradua-e307532ebf@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T140000Z
+DTEND:20260828T210000Z
+SUMMARY:[MAJOR] NJIT - Upperclass / Transfer / Graduate Move-In begins
+LOCATION:Residence halls (Talbott Hall 10am-5pm only)
+DESCRIPTION:SCALE: MAJOR\n\nUpperclass\, transfer and graduate move-in 10am
+ -5pm and 8-10pm\, running through Aug 31.\n\nSOURCE: https://www.njit.edu/
+ reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-semestersuccesskitmaking-30965a313a@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T140000Z
+DTEND:20260828T180000Z
+SUMMARY:[minor] NJIT - Semester Success Kit Making w/ University Advancemen
+ t
+LOCATION:Eberhardt Hall\, Room 213
+DESCRIPTION:SCALE: minor\n\nStudents assemble semester supply kits with Uni
+ versity Advancement.\n\nOUTREACH NOTE: Explicitly a materials/supplies eve
+ nt with an external-partner sponsor role - a natural fit for product sampl
+ ing. Contact University Advancement.\n\nSOURCE: https://www.njit.edu/resli
+ fe/fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nso20mandatoryforallinco-ea1e1adac9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:[MAJOR] NJIT - NSO 2.0 (mandatory for all incoming first-year stude
+ nts)
+LOCATION:Location not published
+DESCRIPTION:SCALE: MAJOR\n\nSecond mandatory new student orientation sessio
+ n for all incoming first-years\, with an optional Carnival after dinner. T
+ IME NOT PUBLISHED.\n\nSOURCE: https://www.njit.edu/orientation/NSOFall\n\n
+ (Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-oieeventmakesmorefriends-57b5e04a29@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T190000Z
+DTEND:20260828T203000Z
+SUMMARY:[minor] NJIT - OIE Event - Make S'more Friends
+LOCATION:Lower Green / Fire Pit
+DESCRIPTION:SCALE: minor\n\nOffice of Inclusive Excellence social.\n\nSOURC
+ E: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Ve
+ rify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nsohighlanderfest-e6e045acd3@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T203000Z
+DTEND:20260828T230000Z
+SUMMARY:[MAJOR] NJIT - NSO Highlander Fest
+LOCATION:Lower & Upper Green
+DESCRIPTION:SCALE: MAJOR\n\nLarge outdoor festival tied to NSO 2.0 - the bi
+ ggest all-new-student gathering of the week.\n\nOUTREACH NOTE: Most likely
+  tabling-format event in the move-in window. Sponsorship inquiries go thro
+ ugh Fox Run Group (njitsponsorships.com).\n\nSOURCE: https://www.njit.edu/
+ reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-rollintothesemesterwoier-cfd7e6730f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T233000Z
+DTEND:20260829T023000Z
+SUMMARY:[minor] NJIT - Roll into the Semester w/ OIE - Roller Skating
+LOCATION:Campus Center Ballroom
+DESCRIPTION:SCALE: minor\n\nRoller skating social hosted by the Office of I
+ nclusive Excellence.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-mov
+ e\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-deadlinenjitcareerfairfu-de3591f209@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:[minor] NJIT - [DEADLINE] NJIT Career Fair - full-refund cancellati
+ on deadline
+LOCATION:Online - Handshake
+DESCRIPTION:SCALE: minor\n\nLast day to cancel a Fall 2026 NJIT Career Fair
+  employer registration with a full refund.\n\nSOURCE: https://www.njit.edu
+ /careerservices/njit-career-fairs\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-shpefindyourmatchthesecr-7f49131268@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+SUMMARY:[minor] NJIT - SHPE - Find Your Match (The Secret Identity Mixer)
+LOCATION:Atrium
+DESCRIPTION:SCALE: minor\n\nSociety of Hispanic Professional Engineers stud
+ ent-org mixer - a named engineering professional org running its own recru
+ iting event.\n\nOUTREACH NOTE: Direct line to an engineering professional 
+ society. Student org partnerships are cheaper than fair tables.\n\nSOURCE:
+  https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Veri
+ fy before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-rhadayofplay-d67d3999b8@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260829T160000Z
+DTEND:20260829T180000Z
+SUMMARY:[minor] NJIT - RHA Day of Play
+LOCATION:Cypress & Redwood Lounge\, Upper/Lower Green
+DESCRIPTION:SCALE: minor\n\nResidence Hall Association games and activities
+ .\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026
+ -08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nrhhbeadstrivia-70d4f65bf2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260829T180000Z
+DTEND:20260829T200000Z
+SUMMARY:[minor] NJIT - NRHH Beads & Trivia
+LOCATION:Atrium
+DESCRIPTION:SCALE: minor\n\nBeads craft and trivia hosted by NRHH.\n\nSOURC
+ E: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Ve
+ rify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-resfest-cc03c7a926@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260829T200000Z
+DTEND:20260829T230000Z
+SUMMARY:[MAJOR] NJIT - Resfest
+LOCATION:Upper/Lower Green & Campus Center 240
+DESCRIPTION:SCALE: MAJOR\n\nResidence-life festival across the greens and a
+  Campus Center room. Multi-host format.\n\nOUTREACH NOTE: Multi-host forma
+ t - plausible tabling opportunity.\n\nSOURCE: https://www.njit.edu/reslife
+ /fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-pizzapjsboardgameswfsl-c9406a82f5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T000000Z
+DTEND:20260830T030000Z
+SUMMARY:[minor] NJIT - Pizza\, PJs & Board Games w/ FSL
+LOCATION:Atrium
+DESCRIPTION:SCALE: minor\n\nHosted by Fraternity & Sorority Life.\n\nSOURCE
+ : https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Ver
+ ify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-studentsenaterhahottakes-a248b77bdb@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T153000Z
+DTEND:20260830T170000Z
+SUMMARY:[minor] NJIT - Student Senate & RHA - Hot Takes Event
+LOCATION:Upper Green
+DESCRIPTION:SCALE: minor\n\nDiscussion event hosted by Student Senate and R
+ HA.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-grubgoalswomenssoccergam-2bc3a1c55d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T170000Z
+DTEND:20260830T200000Z
+SUMMARY:[minor] NJIT - Grub & Goals - Women's Soccer Game
+LOCATION:Athletic Field
+DESCRIPTION:SCALE: minor\n\nFood plus the women's soccer match.\n\nSOURCE: 
+ https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verif
+ y before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-walkingyourclassschedule-d66a348fdb@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T200000Z
+DTEND:20260830T220000Z
+SUMMARY:[minor] NJIT - Walking Your Class Schedule
+LOCATION:Meet in front of Cypress Hall
+DESCRIPTION:SCALE: minor\n\nGuided walk-through of class locations before t
+ he first day.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(C
+ ompiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nrhhpaintmovienight-75b97bf7b9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260830T230000Z
+DTEND:20260831T020000Z
+SUMMARY:[minor] NJIT - NRHH Paint & Movie Night
+LOCATION:Upper Green
+DESCRIPTION:SCALE: minor\n\nPainting and outdoor movie hosted by NRHH.\n\nS
+ OURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10
+ . Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-finalmoveinwindow-4a6f515d29@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260831T160000Z
+DTEND:20260831T200000Z
+SUMMARY:[minor] NJIT - Final Move-In Window
+LOCATION:Residence halls
+DESCRIPTION:SCALE: minor\n\nLast move-in window\; longer wait times expecte
+ d.\n\nSOURCE: https://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 202
+ 6-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-booktalkwoieprogramofboo-059cac13e2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260831T180000Z
+DTEND:20260831T193000Z
+SUMMARY:[minor] NJIT - Book Talk w/ OIE - Program of Bookish Activities
+LOCATION:Honors Green
+DESCRIPTION:SCALE: minor\n\nBook talk and reading activities hosted by the 
+ Office of Inclusive Excellence.\n\nSOURCE: https://www.njit.edu/reslife/fa
+ ll-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-ospnostressjustscoopscam-df9ff9b710@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260831T190000Z
+DTEND:20260831T210000Z
+SUMMARY:[minor] NJIT - OSP: No Stress\, Just Scoops - Campus 101
+LOCATION:Atrium
+DESCRIPTION:SCALE: minor\n\nOffice of Student Persistence campus-orientatio
+ n session with ice cream.\n\nSOURCE: https://www.njit.edu/reslife/fall-202
+ 6-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-reslifehangout-bff89bd68e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260831T210000Z
+DTEND:20260901T000000Z
+SUMMARY:[minor] NJIT - ResLife Hangout
+LOCATION:Lower Green
+DESCRIPTION:SCALE: minor\n\nOpen residence life social.\n\nSOURCE: https://
+ www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-bubbleteadragbingo-0febb35cfd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260901T000000Z
+DTEND:20260901T020000Z
+SUMMARY:[minor] NJIT - Bubble Tea & Drag Bingo
+LOCATION:Central King Building (CKB) Agile Lab
+DESCRIPTION:SCALE: minor\n\nBubble tea and drag bingo night.\n\nSOURCE: htt
+ ps://www.njit.edu/reslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify b
+ efore acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-firstdayofclassesfall202-ecb07dee97@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] NJIT - First Day of Classes - Fall 2026
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 classes begin. Building hall meetings
+  also held today (time/location per RA).\n\nSOURCE: https://www.njit.edu/r
+ eslife/fall-2026-move\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-deadlinenjitcareerfairem-5fc5cc7c4f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:[minor] NJIT - [DEADLINE] NJIT Career Fair - employer payment deadl
+ ine
+LOCATION:Online - Handshake
+DESCRIPTION:SCALE: minor\n\nPayment due for Fall 2026 NJIT Career Fair empl
+ oyer registrations.\n\nSOURCE: https://www.njit.edu/careerservices/njit-ca
+ reer-fairs\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-deadlinenjitcareerfairem-fde6150f12@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:[MAJOR] NJIT - [DEADLINE] NJIT Career Fair - employer registration 
+ closes
+LOCATION:Online - Handshake
+DESCRIPTION:SCALE: MAJOR\n\nFinal day to register as an employer for the NJ
+ IT Fall 2026 Career Fair.\n\nOUTREACH NOTE: ACTION REQUIRED. Contact Patri
+ ck Young\, pyoung@njit.edu\, 973-596-3246.\n\nSOURCE: https://www.njit.edu
+ /careerservices/njit-career-fairs\n\n(Compiled 2026-08-10. Verify before a
+ cting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-njitfall2026careerfair-3dcd029898@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260923T153000Z
+DTEND:20260923T200000Z
+SUMMARY:[MAJOR] NJIT - NJIT Fall 2026 Career Fair
+LOCATION:NJIT Newark campus (specific venue not stated)
+DESCRIPTION:SCALE: MAJOR\n\n~240 employers and ~3\,000 students recruiting 
+ for full-time\, co-op and internship roles.\n\nOUTREACH NOTE: HIGHEST-VALU
+ E CONFIRMED TABLING OPPORTUNITY AT NJIT. Small business (<=50 employees) $
+ 475 post-early-bird\; corporate $925. Includes 2 reps\, 6-ft table + 2 cha
+ irs\, parking\, shuttle\, lunch. Add-ons: +$100/extra rep\, +$100 outlet\,
+  +$200 branding\, +$600/$1\,200 sponsorship. Register via njit.joinhandsha
+ ke.com.\n\nSOURCE: https://www.njit.edu/careerservices/njit-career-fairs\n
+ \n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-labordayuniversityclosed-88c9d86d06@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[MAJOR] NJIT - Labor Day - University Closed
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nUniversity closed.\n\nSOURCE: https://www.njit.
+ edu/registrar/fall-2026-academic-calendar\n\n(Compiled 2026-08-10. Verify 
+ before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-lastdaytoadddropaclass10-1b5dacb3d2@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[MAJOR] NJIT - Last Day to Add/Drop a Class (100% refund)
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nAdd/drop deadline and last day for a 100% refun
+ d. Also a conversion day - Monday classes meet.\n\nSOURCE: https://www.nji
+ t.edu/registrar/fall-2026-academic-calendar\n\n(Compiled 2026-08-10. Verif
+ y before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-wellnessdaynoclasses-2a2cc9ad53@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:[MAJOR] NJIT - Wellness Day - No Classes
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nNJIT's fall break equivalent - a single day wit
+ h no classes\, made up on Dec 11. There is no multi-day fall break.\n\nSOU
+ RCE: https://www.njit.edu/registrar/fall-2026-academic-calendar\n\n(Compil
+ ed 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-lastdaytowithdrawfromcla-6f91473dc7@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:[MAJOR] NJIT - Last Day to Withdraw from Classes
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nCourse withdrawal deadline.\n\nSOURCE: https://
+ www.njit.edu/registrar/fall-2026-academic-calendar\n\n(Compiled 2026-08-10
+ . Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-thanksgivingrecess-08d0baebcb@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:[MAJOR] NJIT - Thanksgiving Recess
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nNo classes Nov 26-29. Nov 25 is a conversion da
+ y - Friday classes meet.\n\nSOURCE: https://www.njit.edu/registrar/fall-20
+ 26-academic-calendar\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-lastdayofclasses-ac3b9a29df@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:[MAJOR] NJIT - Last Day of Classes
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nInstruction ends. Dec 11 is a Friday-class make
+ up for Wellness Day\; Dec 12 Saturday classes meet.\n\nSOURCE: https://www
+ .njit.edu/registrar/fall-2026-academic-calendar\n\n(Compiled 2026-08-10. V
+ erify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-readingdays-226d7a7e32@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261216
+SUMMARY:[minor] NJIT - Reading Days
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: minor\n\nTwo reading days before finals.\n\nSOURCE: http
+ s://www.njit.edu/registrar/fall-2026-academic-calendar\n\n(Compiled 2026-0
+ 8-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-finalexams-1a22bdd794@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261223
+SUMMARY:[MAJOR] NJIT - Final Exams
+LOCATION:NJIT\, Newark NJ
+DESCRIPTION:SCALE: MAJOR\n\nFinal examination period. NOTE: NJIT holds no D
+ ecember commencement - December graduates are folded into the following Ma
+ y ceremony.\n\nSOURCE: https://www.njit.edu/registrar/fall-2026-academic-c
+ alendar\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-homecomingweekendnjitvsu-c899d9be30@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:[MAJOR] NJIT - Homecoming Weekend: NJIT vs. UAlbany (men's soccer)
+LOCATION:Lubetkin Field at Mal Simon Stadium
+DESCRIPTION:SCALE: MAJOR\n\nNJIT athletics names Oct 17 as Homecoming Weeke
+ nd. Kickoff time TBD. The full homecoming week schedule is NOT published -
+  njit.edu/homecoming still shows Homecoming 2025.\n\nSOURCE: https://news.
+ njit.edu/njit-mens-soccer-announces-2026-slate\n\n(Compiled 2026-08-10. Ve
+ rify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-homemenssoccerseason8hom-9d56055ce5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] NJIT - Home men's soccer season (8 home matches)
+LOCATION:Lubetkin Field at Mal Simon Stadium
+DESCRIPTION:SCALE: minor\n\nReliable recurring student-gathering points. Ho
+ me dates: Sep 1 Loyola Maryland\, Sep 7 James Madison\, Sep 12 FDU\, Sep 2
+ 6 Binghamton (America East opener)\, Sep 29 Drexel\, Oct 10 New Hampshire\
+ , Oct 17 UAlbany (Homecoming)\, Oct 30 Bryant (final home match). All time
+ s TBD. Students free with valid ID.\n\nSOURCE: https://news.njit.edu/njit-
+ mens-soccer-announces-2026-slate\n\n(Compiled 2026-08-10. Verify before ac
+ ting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-ministrynewmancatholicwe-dc5f88f917@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261210T045959Z
+SUMMARY:[MAJOR] NJIT - MINISTRY: Newman Catholic - weekly tabling AT NJIT
+LOCATION:NJIT campus (tabling location varies)
+DESCRIPTION:SCALE: MAJOR\n\nNewman Catholic tables at NJIT every Wednesday 
+ 2-4pm. The tri-campus ministry (NJIT + Rutgers-Newark + Essex County Colle
+ ge) does most of its weekly programming physically at NJIT: Newman Nights 
+ Mon 6-8pm CKB Room 16\; faith formation Tue 6-8pm CKB 116\; Q&A Wed 4:15-5
+ :30pm Campus Center 2nd-floor Gallery\; outdoor Rosary Fri 12pm outside th
+ e Tech Cafe\; office hours at Campus Center B07. Carl Lordi\, Carl.Lordi@r
+ can.org.\n\nOUTREACH NOTE: The page itself warns 'Program times can change
+  by semester' and no fall 2026 dates are published. Confirm with Carl Lord
+ i in late August.\n\nSOURCE: https://www.newarknewmancatholic.com/weekly-p
+ rogramming\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-ministrynjitcrufallcalen-e2b89619f0@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] NJIT - MINISTRY: NJIT Cru - fall calendar pending
+LOCATION:Contact via @njitcru
+DESCRIPTION:SCALE: MAJOR\n\nNJIT-only (Rutgers-Newark is not a Jersey Metro
+  Cru campus). Runs the most seeker-oriented programming on campus via recu
+ rring '___ and God' events. No fall 2026 dates published anywhere. WARNING
+ : the Jersey Metro 'Fall Retreat' page showing Oct 17-19 at Camp Tecumseh 
+ is the FALL 2025 page (deadline reads 10/3/25) - do not use. A widely-circ
+ ulating 'Thu 9pm\, CKB 116' meeting time comes from a September 2023 Vecto
+ r article.\n\nOUTREACH NOTE: Instagram @njitcru is where this gets announc
+ ed first and is login-walled.\n\nSOURCE: https://sites.google.com/cru.org/
+ jerseymetro/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-ministrynjitreligiouslif-d967e79aa4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] NJIT - MINISTRY: NJIT religious life sits under Office of I
+ nclusive Excellence
+LOCATION:Campus Center Room 255
+DESCRIPTION:SCALE: minor\n\nThere is NO chaplain and no chaplaincy office a
+ t NJIT. Religious life is administered by the Office of Inclusive Excellen
+ ce\, which convenes a Multifaith Council (described as new) covering inter
+ faith dialogue\, the campus Reflection Space and resource sharing. No name
+ d lead\, no roster\, no meeting schedule published. InclusiveExcellence@nj
+ it.edu\n\nOUTREACH NOTE: Structurally different from Rutgers-NB\, which ha
+ s 25+ recognized chaplaincies. There is no equivalent registration route a
+ t NJIT.\n\nSOURCE: https://www.njit.edu/inclusive/religious-and-spirituali
+ ty-resources\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-actionnjitinvolvementfai-5629e5af90@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[MAJOR] NJIT - [ACTION] NJIT Involvement Fair date still unannounce
+ d
+LOCATION:Contact studentinvolvement@njit.edu
+DESCRIPTION:SCALE: MAJOR\n\nRe-verified 2026-08-10: the First-Year Checklis
+ t still reads 'The Fall Involvement Fair date will be announced soon\, so 
+ come back soon!' No date exists on the public web. This is NJIT's largest 
+ student-org tabling event.\n\nOUTREACH NOTE: ACTION: email studentinvolvem
+ ent@njit.edu / 973-596-3693 rather than waiting for the web page. (Contact
+  came from a search summary\, not a verified NJIT page.)\n\nSOURCE: https:
+ //www.njit.edu/orientation/NSOchecklist\n\n(Compiled 2026-08-10. Verify be
+ fore acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-cdsrecruitmentpartnerspo-084cc33cfe@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] NJIT - CDS Recruitment Partner Sponsorship - tabling includ
+ ed at every tier
+LOCATION:NJIT Career Development Services
+DESCRIPTION:SCALE: MAJOR\n\nBronze $2\,500-4\,999 · Silver $5\,000-9\,999 
+ · Gold $10\,000-14\,999 · Platinum $15\,000+. 'Recruitment Tabling in Hi
+ gh Visibility Location' is included at ALL FOUR tiers including Bronze - t
+ he cheapest legitimate path to a table outside the career fair. A la carte
+ : Career Fair Fast Pass $750 (co-host a 150+ student event with exclusive 
+ branding)\, Resume Day $750 (up to 400 candidates)\, Practice Interview Da
+ y $750\, NCE Elevate Partner $1\,500.\n\nOUTREACH NOTE: Best-value structu
+ red option found at any of the seven schools. Contact Patrick Young\, pyou
+ ng@njit.edu\, 973-596-3246.\n\nSOURCE: https://www.njit.edu/careerservices
+ /sponsor-packages\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-externalorgtablingnjitis-cba8aec0da@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] NJIT - External org tabling: NJIT is Category 4\, lowest pr
+ iority
+LOCATION:Strategic Events and Conference Services
+DESCRIPTION:SCALE: minor\n\nUnder the Facilities Use Policy (eff. 2024-10-1
+ 1) an outside company is Category 4 'Non-University Affiliated/External'\,
+  last in a 7-tier priority order. Requires an executed Facilities Use Lice
+ nse Agreement plus a COI approved BEFORE confirmation: CGL $1M/$2M includi
+ ng sexual molestation and abuse coverage\, Workers' Comp statutory + $1M E
+ L\, $1M auto\, $2M umbrella. Rate categories exist but dollar amounts are 
+ unpublished. Checked specifically: there is no blanket ban on commercial s
+ olicitation - outside companies are simply deprioritized\, charged rent an
+ d gated on insurance.\n\nOUTREACH NOTE: CHEAPER ROUTE: partner with a reco
+ gnized student org. Category 2 events pay no space fee but need OSIL staff
+  pre-approval. Note campuscenter.njit.edu now redirects to strategicevents
+ .njit.edu.\n\nSOURCE: https://www.njit.edu/policies/facilities-use-policy-
+ events-and-conferences\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-nsbeatnjitsponsorshiptie-84f9fe5d03@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] NJIT - NSBE at NJIT sponsorship tiers
+LOCATION:NJIT National Society of Black Engineers
+DESCRIPTION:SCALE: minor\n\nBronze $1\,000+ (social media recognition\, mem
+ bership demographics\, reserved MLK Dinner table) · Silver $3\,000+ (adds
+  resume book access) · Gold $5\,000+ (adds an event of your choosing with
+  NSBE-NJIT\, logo on merch). Fall 2026 calendar not published.\n\nOUTREACH
+  NOTE: Student-org route - far cheaper than institutional access.\n\nSOURC
+ E: https://njitnsbe.org/sponsor\n\n(Compiled 2026-08-10. Verify before act
+ ing.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:njit-shpeatnjit100peroncampus-b3491cf676@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] NJIT - SHPE at NJIT - $100 per on-campus prep event
+LOCATION:NJIT Society of Hispanic Professional Engineers
+DESCRIPTION:SCALE: minor\n\n200+ members with the strongest corporate roste
+ r at NJIT (BofA\, Chase\, Microsoft\, NVIDIA\, PSEG\, Apple\, GM\, J&J\, L
+ ockheed). Per-unit funding menu rather than tiers: on-campus prep event $1
+ 00/event - the cheapest published student-access purchase at NJIT. SHPE Na
+ tional Convention 2026 runs Oct 28-31 in Indianapolis\; NJIT sponsored 50 
+ students in 2025.\n\nOUTREACH NOTE: $100 is the lowest-cost real student a
+ ccess found anywhere in this research.\n\nSOURCE: https://www.shpenjit.org
+ /images/Sponsorship-Package.pdf\n\n(Compiled 2026-08-10. Verify before act
+ ing.)
+CATEGORIES:NJIT\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

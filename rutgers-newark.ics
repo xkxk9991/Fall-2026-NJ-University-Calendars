@@ -1,0 +1,626 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rutgers Newark - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, Christian/college ministry\, and outreach access. Titles prefixed
+  [MAJOR] or [minor] by scale\; ministry entries prefixed MINISTRY. Compile
+ d from official sources only - see each event description for its source U
+ RL and any unconfirmed details. Refreshed weekly.
+BEGIN:VEVENT
+UID:ru-n-fall2026newinternational-9af4619c70@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260827T113000Z
+DTEND:20260827T210000Z
+SUMMARY:[MAJOR] RU-N - Fall 2026 New International Student Orientation - Da
+ y 1
+LOCATION:Location gated behind Rutgers NetID login
+DESCRIPTION:SCALE: MAJOR\n\nMandatory orientation for all new international
+  students\, run by the Office of International Student & Scholar Services.
+  Two full days (Aug 27 and Aug 28).\n\nSOURCE: https://events.newark.rutge
+ rs.edu/event/fall-2026-new-international-student-orientation\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-fall2026newinternational-46f2a67b61@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260828T113000Z
+DTEND:20260828T210000Z
+SUMMARY:[MAJOR] RU-N - Fall 2026 New International Student Orientation - Da
+ y 2
+LOCATION:Location gated behind Rutgers NetID login
+DESCRIPTION:SCALE: MAJOR\n\nDay 2 of mandatory new international student or
+ ientation.\n\nSOURCE: https://events.newark.rutgers.edu/event/fall-2026-ne
+ w-international-student-orientation\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-weeksofwelcome2026fullpr-18ef5ceb4d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260912
+SUMMARY:[MAJOR] RU-N - Weeks of Welcome 2026 (full program span)
+LOCATION:Rutgers-Newark campus
+DESCRIPTION:SCALE: MAJOR\n\nUmbrella listing for RU-N's Weeks of Welcome: s
+ ocial events\, involvement opportunities\, wellness activities and campus 
+ traditions. The full sub-calendar is explicitly 'coming soon' as of Aug 10
+ \, 2026 - expect 8-12 more events to be added.\n\nOUTREACH NOTE: Re-check 
+ this page in late August for the completed schedule.\n\nSOURCE: https://ev
+ ents.newark.rutgers.edu/event/weeks-of-welcome\n\n(Compiled 2026-08-10. Ve
+ rify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-convocationfestival-0427e6a867@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260831T193000Z
+DTEND:20260831T223000Z
+SUMMARY:[MAJOR] RU-N - Convocation & Festival
+LOCATION:Location gated behind Rutgers NetID login (2025 equivalent: Golden
+  Dome / Warren St - unconfirmed for 2026)
+DESCRIPTION:SCALE: MAJOR\n\nThe official kickoff welcoming new students: sp
+ eakers\, school spirit\, and connection with classmates\, faculty and staf
+ f. Historically the largest single gathering of new students of the year.\
+ n\nSOURCE: https://events.newark.rutgers.edu/event/convocation-festival-99
+ 26\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-firstdayofclassesfall202-1049905c77@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] RU-N - First Day of Classes - Fall 2026
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 classes begin. First regular Saturday
+  classes Sep 5. Labor Day (closed) Sep 7. Monday-classes-meet swap Sep 8. 
+ Last day to add/drop Sep 10.\n\nSOURCE: https://myrun.newark.rutgers.edu/f
+ 26\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-midnightmadnessnight1-704b7fd06c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T010000Z
+DTEND:20260904T040000Z
+SUMMARY:[minor] RU-N - Midnight Madness (Night 1)
+LOCATION:Location gated behind NetID (2025 equivalent: Golden Dome)
+DESCRIPTION:SCALE: minor\n\nGlow-in-the-dark night: laser tag\, rock wall c
+ limbing\, pool party\, photobooth\, dancing\, free food and prizes. Rutger
+ s students only\; Rutgers ID and athletic shoes required.\n\nSOURCE: https
+ ://events.newark.rutgers.edu/event/midnight-madness-5437\n\n(Compiled 2026
+ -08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-midnightmadnessnight2-42dd5b6ea6@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260905T010000Z
+DTEND:20260905T040000Z
+SUMMARY:[minor] RU-N - Midnight Madness (Night 2)
+LOCATION:Location gated behind NetID (2025 equivalent: Golden Dome)
+DESCRIPTION:SCALE: minor\n\nSecond night of Midnight Madness.\n\nSOURCE: ht
+ tps://events.newark.rutgers.edu/event/midnight-madness-5437\n\n(Compiled 2
+ 026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-runresourcefair-15ef906ddf@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260907T153000Z
+DTEND:20260907T170000Z
+SUMMARY:[MAJOR] RU-N - RU-N Resource Fair
+LOCATION:Samuels Plaza\, 350 Martin Luther King Jr Blvd\, Newark NJ 07102 (
+ outdoor)
+DESCRIPTION:SCALE: MAJOR\n\nStudents learn about campus resources and conne
+ ct with the staff and students supporting them. Table-based\, outdoor\, hi
+ gh foot traffic. WARNING: listed for Mon Sep 7\, which the registrar's cal
+ endar shows as Labor Day with offices closed - one of the two is likely to
+  shift. Verify before committing.\n\nOUTREACH NOTE: TOP TABLING TARGET. Ex
+ ternal parties submit a Table Request Form to events@newark.rutgers.edu. C
+ ertificate of Insurance naming Rutgers is required. Lead time is already t
+ ight.\n\nSOURCE: https://events.newark.rutgers.edu/event/ru-n-resource-fai
+ r\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-monarchwelcome-f4e3d2112f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260908T220000Z
+DTEND:20260909T000000Z
+SUMMARY:[minor] RU-N - Monarch Welcome
+LOCATION:Location gated behind NetID
+DESCRIPTION:SCALE: minor\n\nBelonging-focused welcome program from the Inte
+ rcultural Resource Center / Undocumented Student Services\, introducing st
+ udents to campus partners and resources.\n\nSOURCE: https://events.newark.
+ rutgers.edu/event/monarch-welcome-8819\n\n(Compiled 2026-08-10. Verify bef
+ ore acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-popupfarmersmarket-227119272d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T150000Z
+DTEND:20260909T180000Z
+SUMMARY:[minor] RU-N - Pop-Up Farmers Market
+LOCATION:Location gated behind NetID (pantry+ program)
+DESCRIPTION:SCALE: minor\n\nFree fresh produce distribution for students wh
+ o missed the monthly Farmers Market.\n\nSOURCE: https://events.newark.rutg
+ ers.edu/event/pop-up-farmers-market-9309\n\n(Compiled 2026-08-10. Verify b
+ efore acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-studentorganizationshowc-6e2cc89a9f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T183000Z
+DTEND:20260909T195000Z
+SUMMARY:[MAJOR] RU-N - Student Organization Showcase
+LOCATION:Samuels Plaza / Paul Robeson Campus Center Suite 302\, 350 MLK Jr 
+ Blvd\, Newark NJ 07102
+DESCRIPTION:SCALE: MAJOR\n\n100+ student clubs table on campus to recruit m
+ embers. The densest concentration of student-organization leadership on th
+ e RU-N calendar.\n\nOUTREACH NOTE: TOP TABLING TARGET. RSVP page is Raider
+ Link id=378040. External table access via events@newark.rutgers.edu.\n\nSO
+ URCE: https://events.newark.rutgers.edu/event/student-organization-showcas
+ e-5500\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-rainbowwelcome-80622ef7a4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260909T220000Z
+DTEND:20260910T000000Z
+SUMMARY:[minor] RU-N - Rainbow Welcome
+LOCATION:Location gated behind NetID
+DESCRIPTION:SCALE: minor\n\nWelcome gathering for LGBTQ+ students and allie
+ s: peer connection and campus resources.\n\nSOURCE: https://events.newark.
+ rutgers.edu/event/rainbow-welcome-6286\n\n(Compiled 2026-08-10. Verify bef
+ ore acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-fall2026raidercareerandi-9c63b483b9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261014T150000Z
+DTEND:20261014T200000Z
+SUMMARY:[MAJOR] RU-N - Fall 2026 Raider Career and Internship Fair
+LOCATION:42 Warren Street\, Newark NJ 07102
+DESCRIPTION:SCALE: MAJOR\n\nRutgers-Newark's fall career and internship fai
+ r. Outside the welcome week window but the primary employer-facing event o
+ n the RU-N calendar.\n\nOUTREACH NOTE: Employer registration via Rutgers-N
+ ewark Handshake: rutgers-newark.joinhandshake.com\n\nSOURCE: https://caree
+ rs.newark.rutgers.edu/events/2026/10/14/fall-2026-raider-career-and-intern
+ ship-fair-at-rutgers-university-newark/\n\n(Compiled 2026-08-10. Verify be
+ fore acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-labordayuniversityclosed-1094419a23@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[MAJOR] RU-N - Labor Day - University Closed
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nUniversity offices closed. NOTE: the RU-N Resou
+ rce Fair is listed for this same day - one of the two is wrong.\n\nSOURCE:
+  https://myrun.newark.rutgers.edu/f26\n\n(Compiled 2026-08-10. Verify befo
+ re acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-lastdaytoaddaclassdropwi-2c03836e5c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:[MAJOR] RU-N - Last day to ADD a class / drop without a W
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nAdd deadline and last day to drop without a W g
+ rade.\n\nSOURCE: https://myrun.newark.rutgers.edu/f26\n\n(Compiled 2026-08
+ -10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-lastdaytowithdrawwithawg-b9157d34b4@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:[MAJOR] RU-N - Last day to withdraw with a W grade
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nCourse withdrawal deadline\; also the 40% refun
+ d deadline (tentative).\n\nSOURCE: https://myrun.newark.rutgers.edu/f26\n\
+ n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-spring2027registrationop-73f52c54cd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261114
+SUMMARY:[minor] RU-N - Spring 2027 registration opens
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: minor\n\nRegistration opens by credit tier from Nov 5 (s
+ pecial populations\, 6:00am) through Nov 13 (all eligible students).\n\nSO
+ URCE: https://myrun.newark.rutgers.edu/f26\n\n(Compiled 2026-08-10. Verify
+  before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-thanksgivingrecess-aa2087bc74@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:[MAJOR] RU-N - Thanksgiving Recess
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nThe only multi-day fall break - RU-N has no fal
+ l break.\n\nSOURCE: https://myrun.newark.rutgers.edu/f26\n\n(Compiled 2026
+ -08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-lastdayofclasses-40a0dbcf5b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:[MAJOR] RU-N - Last Day of Classes
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 instruction ends.\n\nSOURCE: https://
+ myrun.newark.rutgers.edu/f26\n\n(Compiled 2026-08-10. Verify before acting
+ .)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-readingdays-aa7a5bcbd5@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261215
+SUMMARY:[minor] RU-N - Reading Days
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: minor\n\nReading days Friday through Monday. Dec 14 is a
+ lso the last day to fully withdraw.\n\nSOURCE: https://myrun.newark.rutger
+ s.edu/f26\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-finalexamperiod-31849c19f9@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261223
+SUMMARY:[MAJOR] RU-N - Final Exam Period
+LOCATION:Rutgers-Newark
+DESCRIPTION:SCALE: MAJOR\n\nFall 2026 final examinations. NOTE: no December
+  commencement - degrees confer Oct 1 and Jan 18 by date only\, with the ce
+ remony each May.\n\nSOURCE: https://myrun.newark.rutgers.edu/f26\n\n(Compi
+ led 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-aminataabbeylincolnssong-e2f2a0cd1f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260924T180000Z
+DTEND:20260924T200000Z
+SUMMARY:[MAJOR] RU-N - Aminata: Abbey Lincoln's Song of Faith - author talk
+LOCATION:Dana Library\, Dana Room
+DESCRIPTION:SCALE: MAJOR\n\nPublic author talk with Ada C.M. Thomas\, moder
+ ated by Prof. Ruth Feldstein. Free and open to the public\; pre-registrati
+ on encouraged\, photo ID required to enter Dana Library.\n\nOUTREACH NOTE:
+  One of the few RU-N events explicitly open to the public.\n\nSOURCE: http
+ s://libcal.rutgers.edu/event/16632587\n\n(Compiled 2026-08-10. Verify befo
+ re acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-agentsofchangeleadership-07a92bafb6@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260925T130000Z
+DTEND:20260925T210000Z
+SUMMARY:[MAJOR] RU-N - Agents of Change leadership retreat
+LOCATION:Off-campus\, venue gated behind NetID
+DESCRIPTION:SCALE: MAJOR\n\nThree-day off-campus retreat for student leader
+ s\, Sep 25-27.\n\nOUTREACH NOTE: Concentrated student-leader audience.\n\n
+ SOURCE: https://raiderlink.newark.rutgers.edu/rsvp?id=377694\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-leadershipbrunchmonthly-c680daddb7@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261002T140000Z
+DTEND:20261002T180000Z
+SUMMARY:[minor] RU-N - Leadership bRU-Nch (monthly)
+LOCATION:Paul Robeson Campus Center\, Essex Room
+DESCRIPTION:SCALE: minor\n\nFirst-Friday gathering of student org leaders f
+ or training and socializing. Also Nov 6 and Dec 4.\n\nOUTREACH NOTE: Direc
+ t access to student org leadership.\n\nSOURCE: https://raiderlink.newark.r
+ utgers.edu/rsvp?id=378043\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-firstyearleadershipretre-f7521f6e6d@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:[minor] RU-N - First Year Leadership Retreat: Navigating Your Poten
+ tial
+LOCATION:Venue gated behind NetID
+DESCRIPTION:SCALE: minor\n\nRetreat for first-year students.\n\nSOURCE: htt
+ ps://events.newark.rutgers.edu/\n\n(Compiled 2026-08-10. Verify before act
+ ing.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-homecomingmenssoccervsro-062aa74505@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261024T180000Z
+DTEND:20261024T200000Z
+SUMMARY:[MAJOR] RU-N - Homecoming: Men's Soccer vs Rowan
+LOCATION:Frederick Douglass Field
+DESCRIPTION:SCALE: MAJOR\n\nThe only event in the RU-N feed tagged Homecomi
+ ng\; there is no separate Homecoming week or weekend programming published
+ . Localist also carries a duplicate 3:00pm athletics-feed entry.\n\nSOURCE
+ : https://rutgersnewarkathletics.com/\n\n(Compiled 2026-08-10. Verify befo
+ re acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-basicneedsexpo-220574c323@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20261117T170000Z
+DTEND:20261117T200000Z
+SUMMARY:[MAJOR] RU-N - Basic Needs Expo
+LOCATION:Venue gated behind NetID
+DESCRIPTION:SCALE: MAJOR\n\nResource expo covering food\, housing and benef
+ its access - the second fair-format access point of the semester after the
+  September Resource Fair.\n\nOUTREACH NOTE: Table-format\, resource-orient
+ ed. Second-best tabling target at RU-N.\n\nSOURCE: https://events.newark.r
+ utgers.edu/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-farmersmarketmonthlyseri-3e5b405b3f@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260916T183000Z
+DTEND:20260916T200000Z
+SUMMARY:[minor] RU-N - Farmers Market (monthly series)
+LOCATION:Student Street / Samuels Plaza
+DESCRIPTION:SCALE: minor\n\npantry+ farmers market. Also Oct 7\, Nov 11\, D
+ ec 2. A separate Pop-Up Farmers Market runs 11:00am-2:00pm on Sep 9\, Sep 
+ 23\, Oct 7\, Oct 28\, Nov 4\, Nov 18 and Dec 2.\n\nSOURCE: https://events.
+ newark.rutgers.edu/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-freshrootsfreeproducedis-119a9281bd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260826T150000Z
+DTEND:20260826T180000Z
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=WE;UNTIL=20261210T045959Z
+SUMMARY:[minor] RU-N - Fresh Roots FREE Produce Distribution (biweekly)
+LOCATION:Paul Robeson Campus Center\, Morris Room 227
+DESCRIPTION:SCALE: minor\n\nBiweekly Wednesday produce distribution running
+  Aug 26 through Dec 9. RU-N students\, Rutgers ID required.\n\nSOURCE: htt
+ ps://events.newark.rutgers.edu/\n\n(Compiled 2026-08-10. Verify before act
+ ing.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-swapandshopfreethriftmon-9ea07fbebd@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260917T160000Z
+DTEND:20260917T210000Z
+SUMMARY:[minor] RU-N - Swap and Shop free thrift (monthly)
+LOCATION:Paul Robeson Campus Center\, Dance Theater\, 3rd floor
+DESCRIPTION:SCALE: minor\n\nFree thrift event. Also Oct 22\, Nov 12\, Dec 3
+ .\n\nSOURCE: https://events.newark.rutgers.edu/\n\n(Compiled 2026-08-10. V
+ erify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-runtoleadmasterclassseri-0737e8d160@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260917T183000Z
+DTEND:20260917T200000Z
+SUMMARY:[minor] RU-N - RU-N to Lead Masterclass Series
+LOCATION:Venue gated behind NetID
+DESCRIPTION:SCALE: minor\n\nOffice of Student Life & Leadership skills seri
+ es. Session 1 'The Art of Connection' Sep 17 and Sep 22\; Session 2 'Money
+  Matters' Oct 27\; Session 3 'The Wellness Blueprint' Nov 19 and Dec 8.\n\
+ nSOURCE: https://raiderlink.newark.rutgers.edu/rsvp?id=378044\n\n(Compiled
+  2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-ministryintervarsitychri-d374ab5f90@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] RU-N - MINISTRY: InterVarsity Christian Fellowship RU-N - f
+ all calendar pending
+LOCATION:Contact ivcf.run@gmail.com
+DESCRIPTION:SCALE: MAJOR\n\nRegistered RaiderLink student org\, 25 members\
+ , 5 officers. President Angel Juma\; advisor Manuel Sosa-Garcia. Runs smal
+ l group Bible studies\, prayer meetings\, large group fellowship\, socials
+ \, retreats and service. Their RaiderLink page reads 'There are no upcomin
+ g events' as of 2026-08-10 - the fall calendar is genuinely unpublished. T
+ heir Abide Prayer Group historically met Mondays 12:00-12:30pm in PRCC Som
+ erset 235.\n\nOUTREACH NOTE: ACTION: email ivcf.run@gmail.com in late Augu
+ st. This is the only Protestant Christian org at RU-N with a live registra
+ tion.\n\nSOURCE: https://raiderlink.newark.rutgers.edu/IVCF/\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-ministrynewmancatholicce-32dc2db4c7@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[MAJOR] RU-N - MINISTRY: Newman Catholic Center (tri-campus: RU-N +
+  NJIT + ECC)
+LOCATION:Newman Catholic Center\, 91 Washington St\, Newark
+DESCRIPTION:SCALE: MAJOR\n\nServes Rutgers-Newark\, NJIT and Essex County C
+ ollege jointly - the single most efficient Christian ministry contact in N
+ ewark. Rev. Bismarck Chau\, chaplain\; Carl Lordi\, campus minister (Carl.
+ Lordi@rcan.org)\; Rev. James Chern\, director. 973-624-1301. Published wee
+ kly pattern\, not fall-2026-specific: Newman Nights Mon 6-8pm\; faith form
+ ation Tue 6-8pm\; Mass Tue 12:15pm at St. Patrick's Pro-Cathedral\; Sunday
+  student Mass 6pm.\n\nOUTREACH NOTE: Both Newman websites return empty Jav
+ aScript shells - details are search-derived and UNVERIFIED. Call 973-624-1
+ 301 to confirm.\n\nSOURCE: https://www.newarknewmancatholic.com/weekly-pro
+ gramming\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-ministrycopticsocietyrun-2584c1355e@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] RU-N - MINISTRY: Coptic Society (RU-N + NJIT Orthodox Chris
+ tian Club)
+LOCATION:Contact via copticsociety.org
+DESCRIPTION:SCALE: minor\n\nJoint NJIT and Rutgers-Newark Orthodox Christia
+ n club - the most digitally organized Christian group in Newark. Published
+  pattern: weekly Monday fellowship meetings\, weekly Wednesday lecture ser
+ ies. Newest post is 2025-10-28\; no fall 2026 dates.\n\nSOURCE: https://co
+ pticsociety.org/contact\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-ministryicfnewarkinterna-44719c777b@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART:20260904T230000Z
+DTEND:20260905T010000Z
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
+SUMMARY:[minor] RU-N - MINISTRY: ICF-Newark International Christian Fellows
+ hip (Friday Nights)
+LOCATION:Trinity UAME Church\, 226 Warren Street\, Newark
+DESCRIPTION:SCALE: minor\n\nJoint NJIT and Rutgers-Newark ministry targetin
+ g international students and scholars. Friday Nights include free dinner a
+ nd small-group Bible discovery\; free parking behind the church. Notably r
+ uns airport pick-ups for arriving international students each August/Septe
+ mber - an unusually early touchpoint. Site footer reads 2024\; no fall 202
+ 6 dates published.\n\nSOURCE: https://www.icfnewark.org\n\n(Compiled 2026-
+ 08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-deadlinecertificateofins-6d89cb1fbf@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:[MAJOR] RU-N - [DEADLINE] Certificate of Insurance due for any RU-N
+  tabling
+LOCATION:Events & Conference Services
+DESCRIPTION:SCALE: MAJOR\n\nCOI must be filed no less than 15 days before a
+ n event or the reservation can be cancelled. This date is the deadline for
+  the Oct 14 Raider Career Fair. Required: Comprehensive General Liability 
+ $1\,000\,000 per occurrence / $2\,000\,000 aggregate\, naming 'Rutgers\, T
+ he State University of New Jersey' as Additional Insured and primary over 
+ other collectible insurance.\n\nOUTREACH NOTE: If Nascent Materials has no
+  liability policy\, ECS directs you to TULIP at tulip.ajgrms.com. Start th
+ is early - it gates everything.\n\nSOURCE: https://eventservices.newark.ru
+ tgers.edu/kb-document/insurance-requirements\n\n(Compiled 2026-08-10. Veri
+ fy before acting.)
+CATEGORIES:RU-N\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ru-n-prcctablingslotshowexter-919015da8c@nascentmaterials.com
+DTSTAMP:20260810T185200Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] RU-N - PRCC tabling slots - how external access actually wo
+ rks
+LOCATION:Student Street (PRCC 1st floor) and Norman Samuels Plaza
+DESCRIPTION:SCALE: minor\n\nPROCESS HAS CHANGED: the Office of Reservations
+  & Special Events no longer exists and there is no standalone Table Reques
+ t Form. External groups now go through Events & Conference Services via th
+ e EMS portal at reserve.newark.rutgers.edu. Six numbered indoor slots on S
+ tudent Street\, six outdoor on Samuels Plaza. Includes one table\, two cha
+ irs and org signage\; a second table on request. Slots are never free-use.
+  Outdoor tabling proceeds rain or shine with no indoor swap guaranteed.\n\
+ nOUTREACH NOTE: This supersedes the events@newark.rutgers.edu guidance. Ra
+ te card at eventservices.newark.rutgers.edu/services/rates\; ECS offers a 
+ 15-minute booking consultation.\n\nSOURCE: https://eventservices.newark.ru
+ tgers.edu/spaces/paul-robeson-campus-center/prcc-nsp-tablings\n\n(Compiled
+  2026-08-10. Verify before acting.)
+CATEGORIES:RU-N\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
