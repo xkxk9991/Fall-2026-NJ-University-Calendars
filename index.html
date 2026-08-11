@@ -84,11 +84,15 @@
     ["Essex County College",  "essex-county-college.ics",  20]
   ];
 
-  const configured = !BASE.includes("USERNAME");
+  // Tolerate a trailing slash on BASE - otherwise the joins below produce
+  // a double slash in the path, which some static hosts 404 on.
+  const ROOT = BASE.replace(/\/+$/, "");
+
+  const configured = !ROOT.includes("USERNAME");
   document.getElementById("setup-warning").style.display = configured ? "none" : "block";
 
   document.getElementById("list").innerHTML = CALS.map(([name, file, n]) => {
-    const url = BASE + "/" + file;
+    const url = ROOT + "/" + file;
     const webcal = url.replace(/^https?:/, "webcal:");
     const gcal = "https://www.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
     return `<div class="card">

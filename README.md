@@ -33,7 +33,7 @@ Times are stored in UTC and display correctly as US Eastern. The generator is DS
 
 Settings → Pages → Source: **Deploy from a branch** → Branch: `main`, folder `/ (root)` → Save.
 
-Your files will be live at `[https://USERNAME.github.io/REPO/rutgers-new-brunswick.ics](https://xkxk9991.github.io/Fall-2026-NJ-University-Calendars/)` within a minute or two.
+Your files will be live at `https://USERNAME.github.io/REPO/rutgers-new-brunswick.ics` within a minute or two.
 
 ### 2. Subscribe in Google Calendar
 
