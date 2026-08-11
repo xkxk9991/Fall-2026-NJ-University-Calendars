@@ -12,7 +12,7 @@ X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
  RL and any unconfirmed details. Refreshed weekly.
 BEGIN:VEVENT
 UID:princeton-internationalorientation-d4200fbc96@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260821
 SUMMARY:[MAJOR] Princeton - International Orientation (undergraduate)
@@ -26,7 +26,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-undergraduateacademicyea-5cdd19c7db@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260821T110000Z
 DTEND:20260821T120000Z
 SUMMARY:[minor] Princeton - Undergraduate Academic Year Sign-In Begins
@@ -41,7 +41,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-firstyearmoveincheckincl-08c33c7866@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260821T120000Z
 DTEND:20260821T170000Z
 SUMMARY:[MAJOR] Princeton - First-Year Move In / Check-In (Class of 2030)
@@ -57,7 +57,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-firstyearstudentbrunchfa-74b7534088@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:[minor] Princeton - First-Year Student Brunch (Families Welcome)
@@ -72,7 +72,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-lcainfosessionlewiscente-22ba705be8@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260824T141500Z
 DTEND:20260824T150000Z
 SUMMARY:[minor] Princeton - LCA Info Session (Lewis Center for the Arts)
@@ -87,7 +87,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-academicexpofortheclasso-abcdd2a908@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260824T170000Z
 DTEND:20260824T200000Z
 SUMMARY:[MAJOR] Princeton - Academic Expo for the Class of 2030
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-newundergraduatestudents-85fca9c177@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260825T123000Z
 DTEND:20260825T133000Z
 SUMMARY:[minor] Princeton - New Undergraduate Students: Fall 2026 Course Se
@@ -119,7 +119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-smallgroupexperiencescom-13056a3a0d@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260830
 SUMMARY:[MAJOR] Princeton - Small-Group Experiences (Community Action / DDA
@@ -139,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-graduateschoolopeningadd-1e7c47d15d@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260828
 SUMMARY:[minor] Princeton - Graduate School Opening Address / Orientation
@@ -153,7 +153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-internationalgraduatestu-7938072ef4@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:[minor] Princeton - International Graduate Student Orientation
@@ -167,7 +167,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-returningstudentmovein-a140299e06@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:[minor] Princeton - Returning Student Move-In
@@ -181,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-openingexercises-49f5b3cc1f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260830T190000Z
 DTEND:20260830T200000Z
 SUMMARY:[MAJOR] Princeton - Opening Exercises
@@ -199,7 +199,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-prerade-f3ea3156de@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260830T200000Z
 DTEND:20260830T210000Z
 SUMMARY:[MAJOR] Princeton - Pre-rade
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-clashofthecolleges-07b84d1b91@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260901T000000Z
 DTEND:20260901T010000Z
 SUMMARY:[MAJOR] Princeton - Clash of the Colleges
@@ -229,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-undergraduateacademicyea-2c83b1770b@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:[minor] Princeton - Undergraduate Academic Year Sign-In Ends (11:59
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-falltermclassesbegin-a02dbf8626@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260902T123000Z
 DTEND:20260902T133000Z
 SUMMARY:[MAJOR] Princeton - Fall Term Classes Begin
@@ -261,7 +261,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-recruiting101-daa9e0328f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260902T160000Z
 DTEND:20260902T170000Z
 SUMMARY:[minor] Princeton - Recruiting 101
@@ -275,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-centerforcareerdevelopme-38eda1ebc9@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260902T203000Z
 DTEND:20260902T213000Z
 SUMMARY:[minor] Princeton - Center for Career Development Open House
@@ -290,7 +290,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-2026campusrecexpo-58eb2e3425@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260902T233000Z
 DTEND:20260904T010000Z
 SUMMARY:[MAJOR] Princeton - 2026 Campus Rec Expo
@@ -309,7 +309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-networking101-0717ad28b3@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260908T210000Z
 DTEND:20260908T220000Z
 SUMMARY:[minor] Princeton - Networking 101
@@ -323,7 +323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-careerfairprep-7e05659c72@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260909T203000Z
 DTEND:20260909T213000Z
 SUMMARY:[minor] Princeton - Career Fair Prep
@@ -337,7 +337,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-fall2026hiretigerscareer-3115ada013@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260911T150000Z
 DTEND:20260911T183000Z
 SUMMARY:[MAJOR] Princeton - Fall 2026 HireTigers Career Fair
@@ -357,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-internshipsearchjumpstar-e32127073f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260915T203000Z
 DTEND:20260916T213000Z
 SUMMARY:[minor] Princeton - Internship Search Jumpstart
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-undergraduateadddropperi-9ef84f5ddf@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:[MAJOR] Princeton - Undergraduate Add/Drop period ends (11:59pm)
@@ -385,7 +385,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-midtermexaminationweek-2a9d4cb901@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261017
 SUMMARY:[MAJOR] Princeton - Midterm Examination Week
@@ -399,7 +399,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-fallrecess-6bdfe0e1c8@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261026
 SUMMARY:[MAJOR] Princeton - Fall Recess
@@ -415,7 +415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-deadlinetodropcoursessel-44417fcf8d@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[MAJOR] Princeton - Deadline to drop courses / select P/D/F (11:59p
@@ -431,7 +431,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-thanksgivingrecess-dcec6d347f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261130
 SUMMARY:[MAJOR] Princeton - Thanksgiving Recess
@@ -445,7 +445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-lastdayofscheduledclasse-5bdde791b8@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:[MAJOR] Princeton - Last day of scheduled classes
@@ -459,7 +459,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-readingperiod-286727f033@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261216
 SUMMARY:[minor] Princeton - Reading Period
@@ -473,7 +473,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-deansdate-8f043cbdd4@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:[MAJOR] Princeton - Dean's Date
@@ -488,7 +488,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-falltermfinalassessments-9ac06afd1a@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261223
 SUMMARY:[MAJOR] Princeton - Fall Term Final Assessments
@@ -502,7 +502,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-footballprincetonvsalban-ad4ee2c400@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260926T190000Z
 DTEND:20260926T220000Z
 SUMMARY:[minor] Princeton - Football: Princeton vs. Albany (Kids Day)
@@ -518,7 +518,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-footballprincetonvsbrown-53dea6bb52@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261017T160000Z
 DTEND:20261017T190000Z
 SUMMARY:[MAJOR] Princeton - Football: Princeton vs. Brown (Community Day)
@@ -536,7 +536,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-footballprincetonvscorne-859dadb7bc@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261031T160000Z
 DTEND:20261031T190000Z
 SUMMARY:[MAJOR] Princeton - Football: Princeton vs. Cornell (Halloween Home
@@ -555,7 +555,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-footballprincetonvsdartm-928790c581@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261107T170000Z
 DTEND:20261107T200000Z
 SUMMARY:[minor] Princeton - Football: Princeton vs. Dartmouth (Salute to Se
@@ -571,7 +571,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-firstyearfamiliesweekend-512f5a2b6e@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
 SUMMARY:[MAJOR] Princeton - First-Year Families Weekend
@@ -588,7 +588,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-footballprincetonvspenns-b7a03195a2@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261121T170000Z
 DTEND:20261121T200000Z
 SUMMARY:[minor] Princeton - Football: Princeton vs. Penn (Senior Day / Fan 
@@ -603,7 +603,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-afternoonconcertserieswe-d5e02ae7a5@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260903T163000Z
 DTEND:20260903T173000Z
 SUMMARY:[minor] Princeton - After Noon Concert Series (weekly\, Thursdays)
@@ -620,208 +620,49 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:princeton-ministrysundayworshipser-ed61d15b0b@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+UID:princeton-officeofreligiouslifesun-fb3140bdb2@nascentmaterials.com
+DTSTAMP:20260811T192217Z
 DTSTART:20260830T150000Z
 DTEND:20260830T160000Z
 RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261221T045959Z
-SUMMARY:[MAJOR] Princeton - MINISTRY: Sunday Worship Service (weekly\, Univ
- ersity Chapel)
+SUMMARY:[minor] Princeton - Office of Religious Life: Sunday Service (weekl
+ y\, University Chapel)
 LOCATION:University Chapel
-DESCRIPTION:SCALE: MAJOR\n\nLed by the Dean of Religious Life\, livestreame
- d on the ORL YouTube channel. 'All are welcome.' Runs every Sunday Aug 30 
- through Dec 20. Princeton's Office of Religious Life recognizes 22 Christi
- an chaplaincies - by far the most structured religious life of the seven s
- chools.\n\nSOURCE: https://religiouslife.princeton.edu/worship-events/sund
- ay-worship-service-31\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:Princeton\,MAJOR
+DESCRIPTION:SCALE: minor\n\nUniversity-run service led by the Dean of Relig
+ ious Life\, livestreamed on the ORL channel. Open to all. Runs every Sunda
+ y Aug 30 through Dec 20. Included as Office of Religious Life departmental
+  programming\, not a student ministry event.\n\nSOURCE: https://religiousl
+ ife.princeton.edu/worship-events/sunday-worship-service-31\n\n(Compiled 20
+ 26-08-10. Verify before acting.)
+CATEGORIES:Princeton\,minor
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:princeton-ministryhourofpowerweekl-ac49ab7996@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+UID:princeton-officeofreligiouslifehou-4fa75ea4c1@nascentmaterials.com
+DTSTAMP:20260811T192217Z
 DTSTART:20260909T160000Z
 DTEND:20260909T170000Z
 RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20261203T045959Z
-SUMMARY:[MAJOR] Princeton - MINISTRY: Hour of Power (weekly\, Wednesdays)
+SUMMARY:[minor] Princeton - Office of Religious Life: Hour of Power (weekly
+ \, Wednesdays)
 LOCATION:Murray-Dodge Hall\, Room 104
-DESCRIPTION:SCALE: MAJOR\n\nMidweek Christian worship - singing\, prayer\, 
- proclamation\, fellowship. Lunch provided. Confirmed dates: Sep 9\, 16\, 2
- 3\, 30\; Oct 7\, 14\, 28 (no Oct 21\, fall recess)\; Nov 4\, 11\, 18\; Dec
-  2. Contact Brittany Longsdorf\, bal3@princeton.edu.\n\nOUTREACH NOTE: Bes
- t low-friction weekly entry point for an outsider at Princeton - food is s
- erved and staff/faculty are an explicit audience.\n\nSOURCE: https://relig
- iouslife.princeton.edu/worship-events/hour-power-5\n\n(Compiled 2026-08-10
- . Verify before acting.)
-CATEGORIES:Princeton\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryaquinasinstitute-fcbaada572@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260831T163000Z
-DTEND:20260831T180000Z
-SUMMARY:[MAJOR] Princeton - MINISTRY: Aquinas Institute Welcome BBQ
-LOCATION:Aquinas Institute (likely 134 Nassau St)
-DESCRIPTION:SCALE: MAJOR\n\nCatholic campus ministry welcome barbecue. The 
- Aquinas Institute has the richest published fall 2026 calendar of any Prin
- ceton Christian group. Live site is princetoncatholic.org (aquinas.princet
- on.edu returns empty).\n\nOUTREACH NOTE: ACCESS RULE: lectures and liturgi
- es are open to the public\, but 'all other events are for students only' -
-  the BBQ and Aquinas Night are closed to outside visitors.\n\nSOURCE: http
- s://princetoncatholic.org/events/\n\n(Compiled 2026-08-10. Verify before a
- cting.)
-CATEGORIES:Princeton\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryaquinasnight-1711c14885@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260901T213000Z
-DTEND:20260901T230000Z
-SUMMARY:[MAJOR] Princeton - MINISTRY: Aquinas Night
-LOCATION:Aquinas Institute
-DESCRIPTION:SCALE: MAJOR\n\nCatholic student gathering. Students only.\n\nS
- OURCE: https://princetoncatholic.org/events/\n\n(Compiled 2026-08-10. Veri
- fy before acting.)
-CATEGORIES:Princeton\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryaquinasdailymass-608f03ce47@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260902T160000Z
-DTEND:20260902T164500Z
-RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20261211T045959Z
-SUMMARY:[minor] Princeton - MINISTRY: Aquinas Daily Mass (weekdays\, Univer
- sity Chapel)
-LOCATION:University Chapel
-DESCRIPTION:SCALE: minor\n\nDaily Mass Mon-Fri 12:00pm\; Confession Mon-Fri
-  11:30am-12:00pm\; Sunday Mass 4:30pm and 10:00pm\; Adoration Tue 9-10pm a
- nd Fri 11am-12pm. Liturgies are open to the public.\n\nSOURCE: https://pri
- ncetoncatholic.org/events/\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:Princeton\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryprincetonchristi-b85ad2d821@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260904T233000Z
-DTEND:20260905T013000Z
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
-SUMMARY:[MAJOR] Princeton - MINISTRY: Princeton Christian Fellowship - Frid
- ay Night Fellowship (weekly)
-LOCATION:Murray-Dodge Hall\, first floor
-DESCRIPTION:SCALE: MAJOR\n\nPCF's flagship weekly gathering. NOTE: this gro
- up was formerly Princeton Evangelical Fellowship (renamed 2017) and is NOT
-  the InterVarsity chapter. Chaplain Rev. Chris Sallade. Daily Prayer Mon-F
- ri 12:10pm in the Murray-Dodge tower prayer room. Their events page still 
- displays the Sep 2025-May 2026 run\; no fall 2026 dates posted.\n\nSOURCE:
-  https://www.pcfprinceton.org/events\n\n(Compiled 2026-08-10. Verify befor
- e acting.)
-CATEGORIES:Princeton\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministrymannachristianfe-2da1c106bd@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260905T233000Z
-DTEND:20260906T013000Z
-RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261212T045959Z
-SUMMARY:[MAJOR] Princeton - MINISTRY: Manna Christian Fellowship Large Grou
- p (weekly\, Saturdays)
-LOCATION:East Pyne\, Room 010
-DESCRIPTION:SCALE: MAJOR\n\nBest-published weekly rhythm of any Princeton g
- roup. Also: Freshmen Small Group Tue 4:30-6:00pm Murray-Dodge 104\; daily 
- prayer Mon-Thu 4:30-5:00pm East Pyne 027\; Early Morning Prayer Fri 8:00-9
- :00am Frist 210. Founded 1994 by Korean students to reach Asian American p
- eers\, now explicitly broader. Chaplain Geoff Sackett. NOTE: Manna is the 
- practical answer to 'is there a Korean/Chinese/Asian-American Christian fe
- llowship at Princeton' - no separately-named one exists.\n\nSOURCE: https:
- //manna.princeton.edu/mannas-programming\n\n(Compiled 2026-08-10. Verify b
- efore acting.)
-CATEGORIES:Princeton\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministrychristianunionno-1ee80557c9@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:[minor] Princeton - MINISTRY: Christian Union Nova - Encounter and 
- TruThursday
-LOCATION:Ministry center\, 19 Vandeventer Ave
-DESCRIPTION:SCALE: minor\n\nFormerly Princeton Faith and Action - PFA no lo
- nger exists under that name. Encounter leadership lecture series runs Frid
- ay evenings\; TruThursday runs Thursdays\, oriented to African\, African A
- merican and Caribbean culture. Times and venues not published. Mike Vincen
- t\, Princeton@ChristianUnion.org.\n\nSOURCE: https://christianunion.org/pr
- inceton\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:Princeton\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryhallelujahchurch-f4b3126b09@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260906T173000Z
-DTEND:20260906T190000Z
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261214T045959Z
-SUMMARY:[minor] Princeton - MINISTRY: Hallelujah Church at Princeton (weekl
- y\, Sundays)
-LOCATION:Murray-Dodge Hall\, Room 104
-DESCRIPTION:SCALE: minor\n\nInterdenominational service - hymns\, praise an
- d contemporary gospel. Chaplain Dean Theresa Thames.\n\nSOURCE: https://re
- ligiouslife.princeton.edu/faith-community/chaplaincies-programs/hallelujah
- -church-princeton\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:Princeton\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryptsfarminaryfall-da7f857868@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:[MAJOR] Princeton - MINISTRY: PTS Farminary Fall Fest 2026
-LOCATION:The Farminary\, Princeton Theological Seminary\, 4200 Princeton Pi
- ke
-DESCRIPTION:SCALE: MAJOR\n\nPublic festival - morning worship\, workshops\,
-  chef-led tasting\, evening poetry reading with Jessica Jacobs. Explicitly
-  open to 'neighbors\, friends\, and newcomers from across the region'. Tim
- e not published.\n\nOUTREACH NOTE: One of very few genuinely public faith 
- events in the Princeton area with no student-only restriction.\n\nSOURCE: 
- https://ptsem.edu/events\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:Princeton\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:princeton-ministryptscommunitystor-c343c4f064@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260910T220000Z
-DTEND:20260911T000000Z
-SUMMARY:[minor] Princeton - MINISTRY: PTS Community Stories\, Climate Reali
- ties
-LOCATION:The Farminary\, 4200 Princeton Pike
-DESCRIPTION:SCALE: minor\n\nFirst Thursdays series with Rev. Dr. Kenda Crea
- sy Dean and Nate Stucky on ecological formation. Followed by a BlueLab Med
- ia documentary screening and Q&A 7:45-9:00pm.\n\nSOURCE: https://ptsem.edu
- /events\n\n(Compiled 2026-08-10. Verify before acting.)
+DESCRIPTION:SCALE: minor\n\nMidweek ORL gathering with lunch provided\; sta
+ ff and faculty are an explicit audience. Confirmed dates: Sep 9\, 16\, 23\
+ , 30\; Oct 7\, 14\, 28 (no Oct 21\, fall recess)\; Nov 4\, 11\, 18\; Dec 2
+ . Contact Brittany Longsdorf\, bal3@princeton.edu. Included as Office of R
+ eligious Life departmental programming.\n\nOUTREACH NOTE: Free lunch and a
+ n open-door format - the lowest-friction recurring university event at Pri
+ nceton for someone without campus affiliation.\n\nSOURCE: https://religiou
+ slife.princeton.edu/worship-events/hour-power-5\n\n(Compiled 2026-08-10. V
+ erify before acting.)
 CATEGORIES:Princeton\,minor
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-scienceandtechnologyfair-765216f7bf@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:[MAJOR] Princeton - Science and Technology Fair
@@ -840,7 +681,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-employertablinginfristca-f8eb04295b@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:[minor] Princeton - Employer tabling in Frist Campus Center
@@ -859,7 +700,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:princeton-solicitationpolicyforrel-05f45045af@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:[minor] Princeton - Solicitation policy for religious and non-comme

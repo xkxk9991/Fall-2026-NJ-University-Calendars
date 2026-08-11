@@ -12,7 +12,7 @@ X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
  RL and any unconfirmed details. Refreshed weekly.
 BEGIN:VEVENT
 UID:ru-nb-actionfullrutgersnbwelco-85c17239bc@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:[MAJOR] RU-NB - [ACTION] Full Rutgers-NB Welcome Week schedule publ
@@ -30,7 +30,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-welcomeweekpaddleboardpi-4578c83ca3@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260822T130000Z
 DTEND:20260822T170000Z
 SUMMARY:[minor] RU-NB - Welcome Week: Paddleboard Pilates
@@ -45,7 +45,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-newstudentmoveinfirstyea-06dc091f5d@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260828
 SUMMARY:[MAJOR] RU-NB - New Student Move-In (first-year & transfer)
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-internationalstudentorie-56f3d4cd94@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260825T130000Z
 DTEND:20260825T210000Z
 SUMMARY:[MAJOR] RU-NB - International Student Orientation (Fall 2026) - Day
@@ -82,7 +82,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-scarletnightoutdoormovie-7fb1ee1875@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260826T000000Z
 DTEND:20260826T020000Z
 SUMMARY:[minor] RU-NB - Scarlet Night: Outdoor Movie
@@ -97,7 +97,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-scarletnightgamingtakeov-403fd713a1@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260826T000000Z
 DTEND:20260826T030000Z
 SUMMARY:[minor] RU-NB - Scarlet Night: Gaming Takeover
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-scarletnightglowknight-c626003810@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260827T000000Z
 DTEND:20260827T030000Z
 SUMMARY:[minor] RU-NB - Scarlet Night: Glow Knight
@@ -127,7 +127,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-scarletnightrenaissancek-b73b378ba2@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260827T000000Z
 DTEND:20260827T030000Z
 SUMMARY:[minor] RU-NB - Scarlet Night: Renaissance Knight
@@ -142,7 +142,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-newstudentconvocation-ffa6a7bc73@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260827T210000Z
 DTEND:20260827T220000Z
 SUMMARY:[MAJOR] RU-NB - New Student Convocation
@@ -161,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-scarletcarnivale-557ca20a94@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:[MAJOR] RU-NB - Scarlet Carnivale
@@ -179,7 +179,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-involvementfair2026ftcul-f7df72935c@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260830T190000Z
 DTEND:20260830T230000Z
 SUMMARY:[MAJOR] RU-NB - Involvement Fair 2026 (ft. Culture Fest & Meet the 
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-firstdayofclassesfall202-31c7e34df0@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:[MAJOR] RU-NB - First Day of Classes - Fall 2026
@@ -218,7 +218,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-careerexplorationandsucc-bac4b02d47@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260902T160000Z
 DTEND:20260902T190000Z
 SUMMARY:[minor] RU-NB - Career Exploration and Success Open House
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-welcomeweekpatiopopup-93e1c55b2f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260903T153000Z
 DTEND:20260903T183000Z
 SUMMARY:[minor] RU-NB - Welcome Week: Patio Pop-Up
@@ -249,7 +249,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-rutgersoncampusstudentem-ef5073c166@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260904T133000Z
 DTEND:20260904T163000Z
 SUMMARY:[MAJOR] RU-NB - Rutgers On-campus Student Employment Fair
@@ -267,7 +267,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-deadlinemegafairemployer-89f529e6a8@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:[MAJOR] RU-NB - [DEADLINE] Mega Fair employer registration closes (
@@ -285,7 +285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fairprepdropinresumeclin-1dd0da5bf1@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260909T150000Z
 DTEND:20260909T180000Z
 SUMMARY:[minor] RU-NB - Fair Prep: Drop-in Resume Clinic with Employer Volu
@@ -302,7 +302,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fairprephowtopreparefort-d0b57e1e4e@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260909T230000Z
 DTEND:20260910T003000Z
 SUMMARY:[minor] RU-NB - Fair Prep: How to Prepare for the Career Fair
@@ -316,7 +316,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fairprephowtopreparefort-6e0af9f2ac@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260910T160000Z
 DTEND:20260910T170000Z
 SUMMARY:[minor] RU-NB - Fair Prep: How to Prepare for the Career Fair (Mini
@@ -331,7 +331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fallcareerinternshipmega-f754f69cc8@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260915T153000Z
 DTEND:20260915T193000Z
 SUMMARY:[MAJOR] RU-NB - Fall Career & Internship Mega Fair - Day 1 (Tech\, 
@@ -352,7 +352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fallcareerinternshipmega-ee77902d26@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260916T153000Z
 DTEND:20260916T193000Z
 SUMMARY:[MAJOR] RU-NB - Fall Career & Internship Mega Fair - Day 2 (Medical
@@ -367,7 +367,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fallcareerinternshipmega-88de014178@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260917T153000Z
 DTEND:20260917T193000Z
 SUMMARY:[MAJOR] RU-NB - Fall Career & Internship Mega Fair - Day 3 (Busines
@@ -382,7 +382,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fallstudyabroadfair-637ee61359@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260916T150000Z
 DTEND:20260916T180000Z
 SUMMARY:[minor] RU-NB - Fall Study Abroad Fair
@@ -398,7 +398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-lastdayforinitialregistr-8dbcac9a7f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:[minor] RU-NB - Last day for initial registrations (5:00pm)
@@ -412,7 +412,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-labordayuniversityclosed-cd55521407@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:[MAJOR] RU-NB - Labor Day - University Closed
@@ -426,7 +426,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-mondayclassesmeetontuesd-06f83301e1@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:[minor] RU-NB - Monday classes meet on Tuesday
@@ -440,7 +440,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-lastdaytoaddacoursedropw-378360d61f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:[MAJOR] RU-NB - Last day to add a course / drop without a W
@@ -455,7 +455,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-wintersessionregistratio-ef25dcb87a@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:[minor] RU-NB - Winter Session registration begins
@@ -469,7 +469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-lastdaytowithdrawfromaco-1d32c601e1@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:[MAJOR] RU-NB - Last day to withdraw from a course with a W
@@ -483,7 +483,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-spring2027registrationbe-2ab9dc7281@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:[minor] RU-NB - Spring 2027 registration begins (9:00am)
@@ -497,7 +497,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-fridayclassesmeetonwedne-aeb98fe998@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[minor] RU-NB - Friday classes meet on Wednesday
@@ -511,7 +511,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-thanksgivingrecessnoclas-bda3333e7e@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
 SUMMARY:[MAJOR] RU-NB - Thanksgiving Recess - No Classes
@@ -526,7 +526,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-lastdayofclasses-13a7ac1b97@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:[MAJOR] RU-NB - Last Day of Classes
@@ -541,7 +541,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-readingdays-d1cca20767@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261215
 SUMMARY:[minor] RU-NB - Reading Days
@@ -556,7 +556,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-finalexamperiod-54fb7ad17a@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261223
 SUMMARY:[MAJOR] RU-NB - Final Exam Period
@@ -570,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-wintersessionbeginswinte-9af63a84e0@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20270101
 SUMMARY:[minor] RU-NB - Winter Session begins / Winter Recess
@@ -586,7 +586,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvsumasspo-4524a7860e@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260903T220000Z
 DTEND:20260904T013000Z
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. UMass (postgame fireworks)
@@ -601,7 +601,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-aaccwelcomebacksocial262-a8832b568f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260904T200000Z
 DTEND:20260904T230000Z
 SUMMARY:[minor] RU-NB - AACC Welcome Back Social 26-27
@@ -615,7 +615,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-rutgersglobalexpo-b33abed347@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260909T190000Z
 DTEND:20260909T220000Z
 SUMMARY:[minor] RU-NB - Rutgers Global Expo
@@ -630,7 +630,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-rutgersmeetsjapanacelebr-2c80c897d8@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:[MAJOR] RU-NB - Rutgers Meets Japan: A Celebration of Friendship
@@ -645,7 +645,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-constitutiondayconversat-694d225347@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:[MAJOR] RU-NB - Constitution Day Conversation 2026 - Akhil Reed Ama
@@ -660,7 +660,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvsuscnewj-ae293deb27@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260919T193000Z
 DTEND:20260919T230000Z
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. USC (New Jersey Day / Scarlet
@@ -675,7 +675,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-rutgerssymphonyorchestra-36339c9209@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260920T210000Z
 DTEND:20260920T230000Z
 SUMMARY:[minor] RU-NB - Rutgers Symphony Orchestra Opening Night
@@ -689,7 +689,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvshowardr-645a23feed@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260925T230000Z
 DTEND:20260926T023000Z
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Howard (R Community Day)
@@ -703,7 +703,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-ultimodomingohispanicher-9156937ab3@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20260927T170000Z
 DTEND:20260927T190000Z
 SUMMARY:[minor] RU-NB - Ultimo Domingo: Hispanic Heritage Month
@@ -717,7 +717,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-homecomingfamilyweekend-585e3e8702@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261005
 SUMMARY:[MAJOR] RU-NB - Homecoming & Family Weekend
@@ -735,7 +735,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-therutgersboardwalkhomec-f0cc767f73@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261003T200000Z
 DTEND:20261004T000000Z
 SUMMARY:[MAJOR] RU-NB - The Rutgers Boardwalk (Homecoming)
@@ -751,7 +751,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvsindiana-659f5c4232@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261004T000000Z
 DTEND:20261004T033000Z
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Indiana (Homecoming)
@@ -765,7 +765,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-5thannualrutgersneuroacc-7903849836@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261009T130000Z
 DTEND:20261009T200000Z
 SUMMARY:[MAJOR] RU-NB - 5th Annual Rutgers NeuroAccessibility Summit
@@ -780,7 +780,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-njmonumentstomigrationan-ad5cb27def@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261016T143000Z
 DTEND:20261016T213000Z
 SUMMARY:[MAJOR] RU-NB - NJ Monuments to Migration and Labor Conference
@@ -794,7 +794,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-ultimodomingodiadelosmue-3ee30cdeea@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261025T170000Z
 DTEND:20261025T190000Z
 SUMMARY:[minor] RU-NB - Ultimo Domingo: Dia de los Muertos
@@ -808,7 +808,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvsmichiga-edb1363469@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Michigan (Halloween On the Ba
@@ -823,7 +823,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvsnebrask-aca4229c07@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Nebraska (Military Appreciati
@@ -838,7 +838,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-rutgerscommunityfarmersm-b81199c32b@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261122T140000Z
 DTEND:20261122T200000Z
 SUMMARY:[minor] RU-NB - Rutgers Community Farmers Market - final day
@@ -852,7 +852,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-footballrutgersvsmichiga-ae9744afb3@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[MAJOR] RU-NB - Football: Rutgers vs. Michigan State (Holiday Fest 
@@ -867,7 +867,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-zimmerlistudybreak-1dbc3409be@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART:20261211T160000Z
 DTEND:20261212T010000Z
 SUMMARY:[minor] RU-NB - Zimmerli Study Break
@@ -880,205 +880,8 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ru-nb-ministryoasischurchrocof-036cca9af4@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260913T153000Z
-DTEND:20260913T180000Z
-SUMMARY:[MAJOR] RU-NB - MINISTRY: Oasis Church / ROC - Official Re-Launch S
- ervice
-LOCATION:100 College Ave\, New Brunswick
-DESCRIPTION:SCALE: MAJOR\n\nFree brunch 11:30am\, service 12:00pm. Post pub
- lished 2026-07-02 and updated 07-18\, so genuinely current for 2026.\n\nSO
- URCE: https://oasis-church-nj.com/piscataway-non-denominational-church-re-
- launch-sept-13/\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministryrcccmissionsconf-5d87fc239f@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261019
-SUMMARY:[MAJOR] RU-NB - MINISTRY: RCCC Missions Conference (R8 college mini
- stry)
-LOCATION:Rutgers Community Christian Church\, 71 Cedar Grove Ln\, Somerset
-DESCRIPTION:SCALE: MAJOR\n\nChurch-wide missions conference\; R8 is RCCC's 
- college ministry. Times not published.\n\nSOURCE: https://ec.rccc.org/mini
- stries/r8-college-ministry/\n\n(Compiled 2026-08-10. Verify before acting.
- )
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministryruffridaynightfe-86c8e46dd0@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260904T220000Z
-DTEND:20260905T000000Z
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
-SUMMARY:[MAJOR] RU-NB - MINISTRY: RUF Friday Night Fellowship (weekly)
-LOCATION:Livingston Student Center\, Room 201
-DESCRIPTION:SCALE: MAJOR\n\nReformed University Fellowship large group\, we
- ekly on Fridays. RUF is the best-documented Christian ministry at Rutgers-
- NB. Campus minister Joe Fischer\, joe.fischer@ruf.org. Family Groups also 
- meet Mon 7:30pm Cook\, Tue 7:00pm College Ave (first-years)\, Wed 7:30pm C
- ollege Ave\, Thu 7:30pm Busch.\n\nOUTREACH NOTE: Weekly recurring - the me
- eting pattern is published but individual fall dates are not. Confirm befo
- re attending.\n\nSOURCE: https://ruf.org/ministry/rutgers-university/\n\n(
- Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministryrutgerscatholicc-b6bae60739@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260906T220000Z
-DTEND:20260906T233000Z
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261214T045959Z
-SUMMARY:[MAJOR] RU-NB - MINISTRY: Rutgers Catholic Center - Sunday Student 
- Mass (weekly)
-LOCATION:St. Peter the Apostle Parish\, 94 Somerset St
-DESCRIPTION:SCALE: MAJOR\n\n6pm Sunday Mass followed by student dinner. NOT
- E: the Rutgers directory lists the Catholic Center at 17 Mine St while the
- ir own site says 84 Somerset St - unresolved.\n\nSOURCE: https://www.rutge
- rscatholic.org/get-involved\n\n(Compiled 2026-08-10. Verify before acting.
- )
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministryknightfirerutger-11046a5160@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260903T233000Z
-DTEND:20260904T013000Z
-RRULE:FREQ=MONTHLY;BYDAY=1TH;UNTIL=20261204T045959Z
-SUMMARY:[MAJOR] RU-NB - MINISTRY: Knightfire (Rutgers Catholic\, first Thur
- sday monthly)
-LOCATION:St. Peter's Parish Hall\, New Brunswick
-DESCRIPTION:SCALE: MAJOR\n\nMonthly large-group gathering: speaker\, share 
- groups\, worship. First Thursday of every month.\n\nSOURCE: https://www.ru
- tgerscatholic.org/get-involved\n\n(Compiled 2026-08-10. Verify before acti
- ng.)
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministrycampuslightcolle-b42e2c3b9d@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260902T000000Z
-DTEND:20260902T020000Z
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20261209T045959Z
-SUMMARY:[MAJOR] RU-NB - MINISTRY: Campus Light College Church - CL Tuesdays
-  (weekly)
-LOCATION:Murray Hall 213\, College Avenue Campus
-DESCRIPTION:SCALE: MAJOR\n\nWeekly large group of Campus Light\, a recogniz
- ed Rutgers chaplaincy and the Rutgers arm of the Acts2 Network. Their home
- page carries a 'Welcome c/o 2030!' banner. Pastor Jon Kim\, jonathan.kim@a
- cts2.network. NOTE: Gracepoint no longer exists as a brand here - gracepoi
- ntonline.org/new-brunswick-nj redirects to 'Gracepoint is now Acts2 Networ
- k'.\n\nOUTREACH NOTE: Sunday service time is contradictory across their ow
- n pages (10am vs 11am at 34 Wills Way\, Piscataway\, with an implied summe
- r-only venue). Confirm before referring anyone.\n\nSOURCE: https://www.cam
- puslight.org/get-involved\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministrygracecommunitych-7f4faa123d@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260902T010000Z
-DTEND:20260902T023000Z
-RRULE:FREQ=WEEKLY;BYDAY=TU,TH;UNTIL=20261211T045959Z
-SUMMARY:[minor] RU-NB - MINISTRY: Grace Community Chapel college ministry (
- twice weekly)
-LOCATION:On campus\, venue not published
-DESCRIPTION:SCALE: minor\n\nCollege ministry meets at Rutgers every Tuesday
-  and Thursday at 9:00pm. Venue unpublished. hello@gccnj.org\n\nSOURCE: htt
- ps://gccnj.org/college/\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministryorthodoxchristia-96da79e024@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260903T230000Z
-DTEND:20260904T003000Z
-RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20261211T045959Z
-SUMMARY:[minor] RU-NB - MINISTRY: Orthodox Christian Campus Ministry - Spir
- itual Sermon (weekly)
-LOCATION:Douglass Student Center\, Blue Room
-DESCRIPTION:SCALE: minor\n\nWeekly Thursday sermon and fellowship. rutgersn
- b@occministries.org\n\nSOURCE: https://www.occmrutgers.com/events\n\n(Comp
- iled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministryr8rcccyoungadult-af7f7a7673@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260905T000000Z
-DTEND:20260905T020000Z
-RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20261212T045959Z
-SUMMARY:[minor] RU-NB - MINISTRY: R8 / RCCC Young Adult Fellowship (weekly)
-LOCATION:71 Cedar Grove Ln\, Somerset
-DESCRIPTION:SCALE: minor\n\nR8 college ministry and Young Adult Fellowship 
- meet Fridays. r8@rccc.org. Page metadata is from 2022 - long-standing but 
- worth confirming.\n\nSOURCE: https://ec.rccc.org/ministries/r8-college-min
- istry/\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministrycornerstonechine-a4ea9830fa@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART:20260906T140000Z
-DTEND:20260906T170000Z
-RRULE:FREQ=WEEKLY;BYDAY=SU;UNTIL=20261214T045959Z
-SUMMARY:[minor] RU-NB - MINISTRY: Cornerstone / Chinese Christian Church So
- merset - Rutgers shuttle (weekly)
-LOCATION:758 Hamilton St\, Somerset (shuttle from all 5 campuses)
-DESCRIPTION:SCALE: minor\n\nStudy of the Word 10:00am\, Worship 11:30am. Fr
- ee Rutgers shuttle every Sunday morning from College Ave\, Busch\, Cook\, 
- Douglass and Livingston - their primary student pipeline. cornerstone@cccs
- -nj.org\, 732-249-4226.\n\nSOURCE: https://cornerstonesomerset.org/contact
- #RU_Shuttle\n\n(Compiled 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,minor
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ru-nb-ministrychaplaincyregist-74e8057ceb@nascentmaterials.com
-DTSTAMP:20260810T185200Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:[MAJOR] RU-NB - MINISTRY: Chaplaincy registration open for AY 2026-
- 27
-LOCATION:Off-Campus Living & Community Initiatives\, 39 Union St
-DESCRIPTION:SCALE: MAJOR\n\nRutgers recognizes 25+ chaplaincies and 40+ rel
- igious student organizations through a Multifaith Council. Registration fo
- r 2026-27 is OPEN with no stated deadline. Recognized chaplaincy status pu
- ts staff on campus in a chaplain role plus appointed student reps\; 'affil
- iated congregation' is the lighter tier. NOTE: there is no Office of Relig
- ious Life at Rutgers-NB - religiouslife.rutgers.edu returns empty.\n\nOUTR
- EACH NOTE: ACTION: this is the structural route to campus access for a chu
- rch or ministry. RUoffcampus@echo.rutgers.edu\, 848-932-5500.\n\nSOURCE: h
- ttps://rutgers.ca1.qualtrics.com/jfe/form/SV_8ksDCZxgaeNNT1k\n\n(Compiled 
- 2026-08-10. Verify before acting.)
-CATEGORIES:RU-NB\,MAJOR
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ru-nb-actioninvolvementfairspo-bdad34dd51@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:[MAJOR] RU-NB - [ACTION] Involvement Fair sponsorship - effectively
@@ -1096,7 +899,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ru-nb-dininghalltablingblackou-2da12c5d2a@nascentmaterials.com
-DTSTAMP:20260810T185200Z
+DTSTAMP:20260811T192217Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260912
 SUMMARY:[minor] RU-NB - Dining hall tabling BLACKOUT (first two weeks)
