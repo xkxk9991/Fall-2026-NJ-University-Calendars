@@ -8,13 +8,13 @@
 # It REFUSES to push if any .ics looks truncated or malformed. A corrupt feed
 # reaching subscribers is worse than a stale one.
 #
-# Notes in SETUP-AUTO-PUSH.md.
+# Notes in PUBLISHING.md.
 
 set -euo pipefail
 
 REPO="/Users/xunkaichen/Desktop/Claude CoWork OS/Campus Outreach/Fall 2026 Calendars/github-repo"
 LOG="$HOME/Library/Logs/campus-calendars-push.log"
-EXPECTED_FILES=7
+EXPECTED_FILES=8
 
 mkdir -p "$(dirname "$LOG")"
 # Log to file AND stdout, so both the scheduled task and a human running this

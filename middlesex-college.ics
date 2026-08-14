@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nascent Materials//NJ Fall 2026 Welcome Week//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Middlesex College - Fall 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Full Fall 2026 semester: welcome week\, campus life\, academic
+  dates\, and outreach access. University-run events only. Titles prefixed 
+ [MAJOR] or [minor] by scale. Compiled from official sources only - see eac
+ h event description for its source URL and any unconfirmed details. Refres
+ hed weekly.
+BEGIN:VEVENT
+UID:middlesex-fall2026registrationlate-655634984f@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:[minor] Middlesex - Fall 2026 registration late fee takes effect
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nStudents registering on or after today pay a la
+ te registration fee. Tuition itself was due July 30\, 2026.\n\nSOURCE: htt
+ ps://middlesexcollege.edu/registrar/important-dates-fall-2026/\n\n(Compile
+ d 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-firstdayoffacultyobligat-7beac40200@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:[minor] Middlesex - First day of faculty obligation / State of the 
+ College
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFaculty return\; State of the College address a
+ nd faculty meetings. Students are not yet back.\n\nSOURCE: https://middles
+ excollege.edu/academics/academic-calendar/\n\n(Compiled 2026-08-10. Verify
+  before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-facultydevelopmentday-5d024dfd97@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[minor] Middlesex - Faculty Development Day
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nProfessional development day for faculty. No cl
+ asses.\n\nSOURCE: https://middlesexcollege.edu/academics/academic-calendar
+ /\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-changeofprogramfacultyad-70c193d20b@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260904
+SUMMARY:[minor] Middlesex - Change of Program / faculty advisement days
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nTwo days of schedule changes and in-person facu
+ lty advisement immediately before the term starts.\n\nOUTREACH NOTE: Heavy
+  student foot traffic on campus with no classes running - one of the few p
+ re-term days students are physically present.\n\nSOURCE: https://middlesex
+ college.edu/academics/academic-calendar/\n\n(Compiled 2026-08-10. Verify b
+ efore acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-labordaycollegeclosed-7eb5362172@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:[MAJOR] Middlesex - Labor Day - College Closed
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\nNo classes. Also the last day to withdraw from 
+ full-term and 1st 7-week courses with a 100% refund.\n\nSOURCE: https://mi
+ ddlesexcollege.edu/academics/academic-calendar/\n\n(Compiled 2026-08-10. V
+ erify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-firstdayofclassesfall202-ba3a04ee29@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[MAJOR] Middlesex - First Day of Classes - Fall 2026
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\nFall semester begins. Full term runs Sep 8 - De
+ c 18. Middlesex starts a week later than Rutgers\, NJIT and TCNJ.\n\nOUTRE
+ ACH NOTE: Latest start date of the eight schools except Rider (Sep 9) - th
+ e first-week window here does not collide with the others.\n\nSOURCE: http
+ s://middlesexcollege.edu/registrar/important-dates-fall-2026/\n\n(Compiled
+  2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-1st7weeksessionbegins-b4cf835c6f@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[minor] Middlesex - 1st 7-Week session begins
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFirst 7-week session runs Sep 8 - Oct 25\, alon
+ gside the full term.\n\nSOURCE: https://middlesexcollege.edu/registrar/imp
+ ortant-dates-fall-2026/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawwithout-d90801b375@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[MAJOR] Middlesex - Last day to withdraw without a W (full term & 1
+ st 7-week)
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\n50% tuition refund and the last day a withdrawa
+ l leaves no W on the transcript. After today: no refund and a W. Refund la
+ dder before this: Sep 7 100%\, Sep 15 75%.\n\nOUTREACH NOTE: Schedules set
+ tle after this date - student attention shifts from logistics to activitie
+ s.\n\nSOURCE: https://middlesexcollege.edu/registrar/important-dates-fall-
+ 2026/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-falliiconcentratedsessio-c019561d0f@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[minor] Middlesex - Fall II Concentrated session begins
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFall II concentrated session runs Sep 28 - Dec 
+ 18. Its own refund ladder: Sep 27 100%\, Oct 5 75%\, Oct 13 50% and last d
+ ay to withdraw without a W.\n\nSOURCE: https://middlesexcollege.edu/regist
+ rar/important-dates-fall-2026/\n\n(Compiled 2026-08-10. Verify before acti
+ ng.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawfrom1st-f4a362a4e5@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[minor] Middlesex - Last day to withdraw from 1st 7-week courses
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFinal withdrawal deadline for the first 7-week 
+ session.\n\nSOURCE: https://middlesexcollege.edu/registrar/important-dates
+ -fall-2026/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawwithout-52df802351@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[minor] Middlesex - Last day to withdraw without a W (Fall II)
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\n50% refund and the last no-W withdrawal date fo
+ r Fall II Concentrated courses.\n\nSOURCE: https://middlesexcollege.edu/re
+ gistrar/important-dates-fall-2026/\n\n(Compiled 2026-08-10. Verify before 
+ acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-columbusdaynoclasses-2c26760278@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[minor] Middlesex - Columbus Day - No Classes
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nCollege holiday\, no classes.\n\nSOURCE: https:
+ //middlesexcollege.edu/academics/academic-calendar/\n\n(Compiled 2026-08-1
+ 0. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-1st7weeksessionends2nd7w-9cde6e5a1e@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:[minor] Middlesex - 1st 7-Week session ends / 2nd 7-Week session be
+ gins
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFirst 7-week session ended Oct 25. Second runs 
+ Oct 26 - Dec 18\, with its own ladder: Oct 25 100%\, Nov 2 75%\, Nov 9 50%
+  and last no-W date\, Dec 2 final withdrawal.\n\nSOURCE: https://middlesex
+ college.edu/registrar/important-dates-fall-2026/\n\n(Compiled 2026-08-10. 
+ Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawwithout-4669dc2646@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[minor] Middlesex - Last day to withdraw without a W (2nd 7-week)
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\n50% refund and the last no-W withdrawal date fo
+ r second 7-week courses.\n\nSOURCE: https://middlesexcollege.edu/registrar
+ /important-dates-fall-2026/\n\n(Compiled 2026-08-10. Verify before acting.
+ )
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-veteransdaynoclasses-41259103a6@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[minor] Middlesex - Veterans Day - No Classes
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nCollege holiday\, no classes.\n\nSOURCE: https:
+ //middlesexcollege.edu/academics/academic-calendar/\n\n(Compiled 2026-08-1
+ 0. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawfromful-cb2425b88d@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[MAJOR] Middlesex - Last day to withdraw from full-term courses
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\nFinal withdrawal deadline for full-term Fall 20
+ 26 courses. Fall II's equivalent is Nov 19\; the 2nd 7-week's is Dec 2.\n\
+ nSOURCE: https://middlesexcollege.edu/registrar/important-dates-fall-2026/
+ \n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-thanksgivingrecessnoclas-ab3e1b9c2b@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:[MAJOR] Middlesex - Thanksgiving Recess - No Classes
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\nThanksgiving Nov 26\, then holiday closure Nov 
+ 27-29. The only multi-day break in Middlesex's fall term.\n\nOUTREACH NOTE
+ : Campus is empty - avoid scheduling anything student-facing.\n\nSOURCE: h
+ ttps://middlesexcollege.edu/academics/academic-calendar/\n\n(Compiled 2026
+ -08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawfromfal-6603816c33@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:[minor] Middlesex - Last day to withdraw from Fall II courses
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFinal withdrawal deadline for Fall II Concentra
+ ted courses.\n\nSOURCE: https://middlesexcollege.edu/registrar/important-d
+ ates-fall-2026/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdaytowithdrawfrom2nd-7fac353490@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[minor] Middlesex - Last day to withdraw from 2nd 7-week courses
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nFinal withdrawal deadline for second 7-week ses
+ sion courses.\n\nSOURCE: https://middlesexcollege.edu/registrar/important-
+ dates-fall-2026/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-lastdayofclassesfall2026-47fd28b9fa@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:[MAJOR] Middlesex - Last Day of Classes - Fall 2026
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\nAll four Fall 2026 term structures end today: f
+ ull term\, Fall II Concentrated and the 2nd 7-week session. Also the last 
+ day of faculty obligation.\n\nSOURCE: https://middlesexcollege.edu/academi
+ cs/academic-calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-speciallyscheduledfinale-8adf5885f3@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261223
+SUMMARY:[MAJOR] Middlesex - Specially Scheduled Final Examinations
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: MAJOR\n\nFinals on Dec 19\, 21 and 22 only - Sunday Dec 
+ 20 is excluded\, so this block is not continuous. Shown here as a span bec
+ ause .ics cannot express a three-of-four-day set.\n\nOUTREACH NOTE: CONTRA
+ DICTION FLAGGED: the same page lists Winter Session 2027 classes beginning
+  Dec 21\, overlapping these finals. Both dates are published by Middlesex 
+ as-is\; neither has been corrected here.\n\nSOURCE: https://middlesexcolle
+ ge.edu/academics/academic-calendar/\n\n(Compiled 2026-08-10. Verify before
+  acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-winterrecessbegins-f7829d999b@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:[minor] Middlesex - Winter Recess begins
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nWinter recess opens\; Dec 24-25 are holidays wi
+ th no classes.\n\nSOURCE: https://middlesexcollege.edu/academics/academic-
+ calendar/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-actionrequestoncampusrec-357978cace@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[MAJOR] Middlesex - [ACTION] Request on-campus recruiting at Middle
+ sex College
+LOCATION:Online form (jotform)
+DESCRIPTION:SCALE: MAJOR\n\nCHEAPEST CONFIRMED CAMPUS ACCESS OF THE EIGHT S
+ CHOOLS. Middlesex runs no ticketed career fair. Instead the Career Readine
+ ss and Planning office takes on-campus recruiting requests through a form 
+ and replies with a confirmed date or alternatives. No published fee\, no r
+ egistration deadline\, no fixed event date. Form: middlesexcc.jotform.com/
+ 222794813641056. Middlesex also uses Handshake for job and internship post
+ ings - add Middlesex College when posting. 85+ degree and certificate prog
+ rams.\n\nOUTREACH NOTE: Submit after classes begin so a date can be set in
+ side the live semester. Compare: Rutgers Mega Fair had a hard Sep 4 deadli
+ ne\, NJIT is $475-$925\, TCNJ $400. This one is a form.\n\nSOURCE: https:/
+ /middlesexcollege.edu/academics/career-planning/career-planning-for-employ
+ ers/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-actionmiddlesexvendoropp-7df30f0a4b@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[minor] Middlesex - [ACTION] Middlesex 'Vendor Opportunities' is pr
+ ocurement\, NOT tabling
+LOCATION:Reference entry
+DESCRIPTION:SCALE: minor\n\nRecorded so nobody chases it twice. middlesexco
+ llege.edu/vendor-opportunities/ is the purchasing/bidding portal for selli
+ ng goods and services TO the college - sealed bids\, Chambers Hall Room 12
+ 9\, purchasing@middlesexcollege.edu. It has nothing to do with student-fac
+ ing tabling or campus presence. The real routes are on-campus recruiting (
+ above) and facility rentals.\n\nOUTREACH NOTE: Dead end for outreach. Use 
+ the recruiting form instead.\n\nSOURCE: https://middlesexcollege.edu/vendo
+ r-opportunities/\n\n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-actionfacilityrentalsalt-27520e07f0@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[minor] Middlesex - [ACTION] Facility rentals - alternative route t
+ o campus presence
+LOCATION:Middlesex College\, Edison NJ
+DESCRIPTION:SCALE: minor\n\nMiddlesex rents conference rooms\, classrooms\,
+  computer labs\, multipurpose rooms\, theaters and recreational facilities
+  to outside organisations. Free parking\, free Wi-Fi\, AV equipment includ
+ ed. NO PRICING IS PUBLISHED - rates must be requested.\n\nOUTREACH NOTE: V
+ iable if a hosted info session beats a table. Requires a direct quote requ
+ est.\n\nSOURCE: https://middlesexcollege.edu/event-services/\n\n(Compiled 
+ 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,minor
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middlesex-actionrecheckmiddlesexfa-56a27cb312@nascentmaterials.com
+DTSTAMP:20260814T171701Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:[MAJOR] Middlesex - [ACTION] Re-check Middlesex fall event listings
+LOCATION:Online
+DESCRIPTION:SCALE: MAJOR\n\nAs of Aug 11\, 2026 Middlesex had published ZER
+ O dated campus-life events for Fall 2026 - middlesexcollege.edu/events/ ca
+ rries no listings at all\, only a facility-rentals blurb. No welcome week\
+ , no orientation dates\, no open house dates\, no club or involvement fair
+ . Nothing here is invented to fill that gap. The site is actively maintain
+ ed (news posts through August 2026)\, so this is genuine non-publication. 
+ Re-check middlesexcollege.edu/events/ and the Student Life pages.\n\nOUTRE
+ ACH NOTE: Student Life office runs the 30+ clubs and organisations - the l
+ ikeliest owner of any involvement fair. Community Resource Hub: resource_h
+ ub@middlesexcollege.edu.\n\nSOURCE: https://middlesexcollege.edu/events/\n
+ \n(Compiled 2026-08-10. Verify before acting.)
+CATEGORIES:Middlesex\,MAJOR
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

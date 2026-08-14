@@ -1,6 +1,6 @@
 # NJ Campus Calendars — Fall 2026
 
-Seven subscribable calendars covering the full Fall 2026 semester at New Jersey colleges and universities. Compiled from official university sources only.
+Eight subscribable calendars covering the full Fall 2026 semester at New Jersey colleges and universities. Compiled from official university sources only.
 
 | School | File | Events |
 |---|---|---|
@@ -11,8 +11,9 @@ Seven subscribable calendars covering the full Fall 2026 semester at New Jersey 
 | TCNJ | `tcnj.ics` | 39 |
 | Rider | `rider.ics` | 24 |
 | Essex County College | `essex-county-college.ics` | 19 |
+| Middlesex College | `middlesex-college.ics` | 26 |
 
-**271 events total**, including 3 recurring series.
+**297 events total** across eight schools, including 3 recurring series.
 
 ## What's in them
 
@@ -54,7 +55,7 @@ Google names subscribed calendars after the URL. Click the three dots next to ea
 
 **Subscribed calendars are read-only.** You can't edit an event or add your own notes to one. If you need to annotate something, copy it to your own calendar first.
 
-**Coverage is uneven, by necessity.** Rider and Essex County College publish very little in advance — Rider had no day-by-day welcome week schedule and ECC had no events posted past August. Where a schedule doesn't exist, there's no event here rather than a guess. Several entries are `[ACTION]` reminders to chase a school directly.
+**Coverage is uneven, by necessity.** Rider and Essex County College publish very little in advance — Rider had no day-by-day welcome week schedule and ECC had no events posted past August. Middlesex College is the extreme case: it has published **no dated campus-life events at all** for Fall 2026, so its calendar is academic dates and outreach access only. Where a schedule doesn't exist, there's no event here rather than a guess. Several entries are `[ACTION]` reminders to chase a school directly.
 
 **These update themselves.** A scheduled task re-checks all seven schools every Sunday morning and republishes here if anything changed. See [PUBLISHING.md](PUBLISHING.md). Subscribe once and you're done.
 
